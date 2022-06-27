@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "9bc507492e83ce1c",
+        "id": "5892eec7aeffc072",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "FleetingNotes/Technology/Gaming Laptop.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "FleetingNotes/Technology/Gaming Laptop.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -82,18 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9bc507492e83ce1c",
+  "active": "5892eec7aeffc072",
   "lastOpenFiles": [
-    "FleetingNotes/The Golden Circle.md",
-    "FleetingNotes/Validate Your Startup Idea.md",
-    "FleetingNotes/Indian Traditional Medicines/Siddha Maruthuvum.md",
-    "FleetingNotes/Indian Traditional Medicines/Nadi Maruthuvam.md",
-    "FleetingNotes/DCEL Topology.md",
-    "Geometry.md",
-    "FleetingNotes/Untitled.md",
-    "LiteratureNotes/Organizing GH_Scripts/Summary.md",
-    "LiteratureNotes/Organizing GH_Scripts/Vanilla Strategies.md",
+    "FleetingNotes/Technology/Gaming Laptop.md",
+    "FleetingNotes/Technology/Workstations.md",
+    "LiteratureNotes/Technology/Gaming Laptop.md",
+    "FleetingNotes/Technology/PC for.md",
+    "FleetingNotes/Technology/Building a Computer.md",
     "LiteratureNotes/Organizing GH_Scripts/Community Builds.md",
-    "LiteratureNotes/Organizing GH_Scripts/Developer Perspective.md"
+    "FleetingNotes/Elements of a City.md",
+    "FleetingNotes/Zettelkasten using Obsidian.md",
+    "FleetingNotes/German VISA/Document Verification (Schengen D).md",
+    "FleetingNotes/DCEL Topology.md"
   ]
 }
