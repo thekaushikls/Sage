@@ -20,4 +20,4 @@ Created : 05-03-2022 14:52
 
 ## References
 1. [[DCEL Topology]]
-2. [[FleetingNotes/Half-Edge Data Structure]]
+2. [[Half-Edge Data Structure]]

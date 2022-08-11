@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "FleetingNotes/Technology/Gaming Laptop.md",
+            "file": "FleetingNotes/Building Science/Embodied Carbon.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FleetingNotes/Technology/Gaming Laptop.md",
+                "file": "FleetingNotes/Building Science/Embodied Carbon.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "5892eec7aeffc072",
   "lastOpenFiles": [
-    "FleetingNotes/Technology/Gaming Laptop.md",
-    "FleetingNotes/Technology/Workstations.md",
+    "LiteratureNotes/Building Science/Embodied Carbon.md",
+    "FleetingNotes/Productivity/The Zettelkasten Method.md",
+    "FleetingNotes/Productivity/Obsidian UX.md",
+    "FleetingNotes/Productivity/Zettelkasten using Obsidian.md",
+    "FleetingNotes/Technology/Untitled.md",
+    "FleetingNotes/Building Science/Embodied Carbon.md",
+    "FleetingNotes/Computers/Workstations.md",
+    "FleetingNotes/Computers/Gaming Laptop.md",
     "LiteratureNotes/Technology/Gaming Laptop.md",
-    "FleetingNotes/Technology/PC for.md",
-    "FleetingNotes/Technology/Building a Computer.md",
-    "LiteratureNotes/Organizing GH_Scripts/Community Builds.md",
-    "FleetingNotes/Elements of a City.md",
-    "FleetingNotes/Zettelkasten using Obsidian.md",
-    "FleetingNotes/German VISA/Document Verification (Schengen D).md",
-    "FleetingNotes/DCEL Topology.md"
+    "FleetingNotes/Technology/PC for.md"
   ]
 }

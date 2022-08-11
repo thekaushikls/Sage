@@ -6,4 +6,4 @@ The second brain is a way to create a digital version of the Zettelkasten method
 Obsidian also has a **Graph View** that visualizes data as as a graph network, that helps to visualize our knowledge base.
 
 ## References
-1. [[LiteratureNotes/Zettelkasten using Obsidian]]
+1. [[LiteratureNotes/Productivity/Zettelkasten using Obsidian]]
