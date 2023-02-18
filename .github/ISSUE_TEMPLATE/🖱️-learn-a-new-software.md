@@ -1,8 +1,8 @@
 ---
-name: Upgrade Programming Skills
-about: Learn <>
+name: "\U0001F5B1️ Learn a new Software"
+about: Upgrade software skill set
 title: "\U0001F4DC Learn <software skill>"
-labels: ''
+labels: software
 assignees: thekaushikls
 
 ---
