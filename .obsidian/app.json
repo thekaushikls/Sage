@@ -7,5 +7,7 @@
   "promptDelete": false,
   "newFileLocation": "current",
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "Resources"
+  "attachmentFolderPath": "Resources",
+  "showInlineTitle": false,
+  "spellcheck": true
 }

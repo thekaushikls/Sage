@@ -1,6 +1,7 @@
 {
-  "baseFontSize": 16,
+  "baseFontSize": 14,
   "enabledCssSnippets": [
     "style"
-  ]
+  ],
+  "accentColor": ""
 }

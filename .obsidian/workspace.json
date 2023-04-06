@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "8c66121dd0d1f991",
+    "type": "split",
+    "children": [
+      {
+        "id": "bee3010b8fbbc124",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e880e133f9b02eb",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FleetingNotes/Building Science/Building Information Modelling.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "5c675583f81aeca4",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FleetingNotes/Design Approach.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "9da2c40e9aec337f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2123f86c4c49fbaa",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LiteratureNotes/Top Down Design Approach.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5b1147d4e275e47b",
+    "type": "split",
+    "children": [
+      {
+        "id": "e3c55a4699f7eb52",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e15b6b64d354c5de",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9fe187a8c1a55777",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 267.5026054382324
+  },
+  "right": {
+    "id": "35f2a9e275680db8",
+    "type": "split",
+    "children": [
+      {
+        "id": "bbaa288eb9dc59ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ad21dd1c228f72a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "FleetingNotes/Design Approach.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "5c675583f81aeca4",
+  "lastOpenFiles": [
+    "LiteratureNotes/Top Down Design Approach.md",
+    "FleetingNotes/Math & Geometry/DCEL Topology.md",
+    "FleetingNotes/Design Approach.md",
+    "FleetingNotes/Building Science/Building Information Modelling.md",
+    "Style guide for Professional Users.md",
+    "FleetingNotes/Building Science/Untitled.md",
+    "FleetingNotes/Building Science/Autodesk Revit.md",
+    "FleetingNotes/Building Science/Glossary.md",
+    "FleetingNotes/Building Science/BIM.md",
+    "FleetingNotes/Building Science/BIM Lifecycle Phases.md",
+    "Templates/Note Template.md",
+    "FleetingNotes/Productivity/Zettelkasten using Obsidian.md",
+    "LiteratureNotes/Productivity/Zettelkasten using Obsidian.md",
+    "FleetingNotes/Building Science/Elements of a City.md",
+    "LiteratureNotes/Organizing GH_Scripts/Community Builds.md",
+    "LiteratureNotes/Math & Geometry/Half-Edge Data Structure - Theory.md",
+    "LiteratureNotes/Building Science/Embodied Carbon.md",
+    "FleetingNotes/Building Science/Glosarry.md",
+    "FleetingNotes/Building Science/Embodied Carbon.md",
+    "FleetingNotes/Productivity/The Zettelkasten Method.md",
+    "FleetingNotes/Productivity/Obsidian UX.md",
+    "FleetingNotes/Technology/Untitled.md",
+    "FleetingNotes/Computers/Workstations.md",
+    "FleetingNotes/Computers/Gaming Laptop.md",
+    "LiteratureNotes/Technology/Gaming Laptop.md",
+    "FleetingNotes/Technology/PC for.md"
+  ]
+}
