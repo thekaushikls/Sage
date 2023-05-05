@@ -4,56 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "bee3010b8fbbc124",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4e880e133f9b02eb",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FleetingNotes/Building Science/Building Information Modelling.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "5c675583f81aeca4",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FleetingNotes/Design Approach.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
         "id": "9da2c40e9aec337f",
         "type": "tabs",
         "children": [
           {
-            "id": "2123f86c4c49fbaa",
+            "id": "524e9d492d008eb8",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LiteratureNotes/Top Down Design Approach.md",
+                "file": "FleetingNotes/Computers/RAID.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
             }
           }
         ]
@@ -93,12 +56,20 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "c23df09c192fdc04",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 267.5026054382324
+    "width": 279.5026054382324
   },
   "right": {
     "id": "35f2a9e275680db8",
@@ -114,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FleetingNotes/Design Approach.md",
+                "file": "FleetingNotes/Computers/RAID.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -142,10 +113,15 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "5c675583f81aeca4",
+  "active": "524e9d492d008eb8",
   "lastOpenFiles": [
+    "FleetingNotes/Computers/Server.md",
+    "FleetingNotes/Computers/RAID.md",
+    "FleetingNotes/Math & Geometry/Line Segment Intersection.md",
     "LiteratureNotes/Top Down Design Approach.md",
     "FleetingNotes/Math & Geometry/DCEL Topology.md",
+    "FleetingNotes/Untitled.md",
+    "FleetingNotes/Effort.md",
     "FleetingNotes/Design Approach.md",
     "FleetingNotes/Building Science/Building Information Modelling.md",
     "Style guide for Professional Users.md",
@@ -164,11 +140,6 @@
     "FleetingNotes/Building Science/Glosarry.md",
     "FleetingNotes/Building Science/Embodied Carbon.md",
     "FleetingNotes/Productivity/The Zettelkasten Method.md",
-    "FleetingNotes/Productivity/Obsidian UX.md",
-    "FleetingNotes/Technology/Untitled.md",
-    "FleetingNotes/Computers/Workstations.md",
-    "FleetingNotes/Computers/Gaming Laptop.md",
-    "LiteratureNotes/Technology/Gaming Laptop.md",
-    "FleetingNotes/Technology/PC for.md"
+    "FleetingNotes/Productivity/Obsidian UX.md"
   ]
 }
