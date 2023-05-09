@@ -16,7 +16,6 @@ Usually followed in
 ## Tags
 #LOD 
 
-
 ## References
-1. [[Building Information Modelling]]
-2. [[Design Approach]]
+1. [Building Information Modelling](Building%20Information%20Modelling.md)
+2. [Design Approach](Design%20Approach.md)

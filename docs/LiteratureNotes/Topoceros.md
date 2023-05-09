@@ -26,6 +26,5 @@ A Grasshopper plugin that exposes topology of `Rhino.Geometry.Brep` objects.
 ## Tags
 #Grasshopper3d #Plugin #Topology #Brep #Graph #DataStructure
 
-
 ## References
 1. 

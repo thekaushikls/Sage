@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c57fc2a67177cc2f",
+        "id": "b279ae229042ba3f",
         "type": "tabs",
         "children": [
           {
-            "id": "899bdac20eb97d31",
+            "id": "07bec4fa50b37188",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LiteratureNotes/Topoceros.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LiteratureNotes/Topoceros.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -113,34 +108,34 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "899bdac20eb97d31",
+  "active": "e15b6b64d354c5de",
   "lastOpenFiles": [
-    "Templates/Project Template.md",
-    "Templates/Note Template.md",
-    "LiteratureNotes/Topoceros.md",
-    "PermanentNotes/Untitled.md",
-    "PermanentNotes/Grasshopper3d/The Infamous Spaghetti.md",
-    "Resources/Zettelkasten-Note-Taking-Method.png",
-    "FleetingNotes/Computers/RAID.md",
-    "FleetingNotes/Computers/Server.md",
-    "FleetingNotes/Math & Geometry/Line Segment Intersection.md",
-    "LiteratureNotes/Top Down Design Approach.md",
-    "FleetingNotes/Math & Geometry/DCEL Topology.md",
-    "FleetingNotes/Untitled.md",
-    "FleetingNotes/Effort.md",
-    "FleetingNotes/Design Approach.md",
-    "FleetingNotes/Building Science/Building Information Modelling.md",
-    "Style guide for Professional Users.md",
-    "FleetingNotes/Building Science/Untitled.md",
-    "FleetingNotes/Building Science/Autodesk Revit.md",
     "FleetingNotes/Building Science/Glossary.md",
-    "FleetingNotes/Building Science/BIM.md",
-    "FleetingNotes/Building Science/BIM Lifecycle Phases.md",
-    "FleetingNotes/Productivity/Zettelkasten using Obsidian.md",
-    "LiteratureNotes/Productivity/Zettelkasten using Obsidian.md",
+    "FleetingNotes/Building Science/Embodied Carbon.md",
     "FleetingNotes/Building Science/Elements of a City.md",
-    "LiteratureNotes/Organizing GH_Scripts/Community Builds.md",
-    "LiteratureNotes/Math & Geometry/Half-Edge Data Structure - Theory.md",
-    "LiteratureNotes/Building Science/Embodied Carbon.md"
+    "FleetingNotes/Building Science/Building Information Modelling.md",
+    "FleetingNotes/Building Science/Autodesk Revit.md",
+    "FleetingNotes/Business & Start-ups/Validate Your Startup Idea.md",
+    "FleetingNotes/Business & Start-ups/The Golden Circle.md",
+    "FleetingNotes/Computers/Gaming Laptop.md",
+    "FleetingNotes/Computers/Workstations.md",
+    "FleetingNotes/Computers/Server.md",
+    "FleetingNotes/Computers/RAID.md",
+    "FleetingNotes/Food/Yakisoba.md",
+    "FleetingNotes/German VISA/Document Verification (Schengen D).md",
+    "FleetingNotes/Indian Traditional Medicines/Siddha Maruthuvum.md",
+    "FleetingNotes/Indian Traditional Medicines/Nadi Maruthuvam.md",
+    "FleetingNotes/Math & Geometry/Line Segment Intersection.md",
+    "FleetingNotes/Math & Geometry/Half-Edge Data Structure.md",
+    "FleetingNotes/Math & Geometry/Graph Traversal.md",
+    "FleetingNotes/Math & Geometry/DCEL Topology.md",
+    "FleetingNotes/Organizing GH_Scripts/3 Reasons Why Your Grasshopper Definitions Should Be Clean & Documented.md",
+    "FleetingNotes/Organizing GH_Scripts/Best Practices in Grasshopper.md",
+    "FleetingNotes/Organizing GH_Scripts/Organizing GH_Scripts.md",
+    "FleetingNotes/Productivity/Obsidian UX.md",
+    "FleetingNotes/Productivity/The Zettelkasten Method.md",
+    "FleetingNotes/Productivity/Zettelkasten using Obsidian.md",
+    "FleetingNotes/Spirituality/Anime/Men.md",
+    "Resources/Zettelkasten-Note-Taking-Method.png"
   ]
 }

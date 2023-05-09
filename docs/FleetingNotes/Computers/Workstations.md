@@ -10,4 +10,4 @@ Created : 24-06-2022 08:32
 * It has good spec-to-performance ratio, but is not (at all) suitable for gaming inspite of having a solid graphics card.
 
 ## References
-1. [[Gaming Laptop]]
+1. [Gaming Laptop](Gaming%20Laptop.md)

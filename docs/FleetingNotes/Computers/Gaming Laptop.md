@@ -7,4 +7,4 @@ Created : 24-06-2022 08:33
 * The GPU helps handle Rendering, and most of the visualization tasks.
 
 ## References
-1. [[Workstations]]
+1. [Workstations](Workstations.md)
