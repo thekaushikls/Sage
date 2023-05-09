@@ -3,7 +3,7 @@
 2. [[Identifying a Spaghetti Monster]]
 3. [[Problems posed by spaghetti scripts]]
 4. [[Why 'Organizing' is the way forward?]]
-5. [[Advantagges of Organizing]]
+5. [[Advantages of Organizing]]
 6. [[Caveats of Organizing]]
 7. [[Vanilla./ Native solutions]]
 8. [[Pros & Cons of Native Solutions]]

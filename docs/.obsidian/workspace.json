@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9da2c40e9aec337f",
+        "id": "c57fc2a67177cc2f",
         "type": "tabs",
         "children": [
           {
-            "id": "524e9d492d008eb8",
+            "id": "899bdac20eb97d31",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FleetingNotes/Computers/RAID.md",
+                "file": "LiteratureNotes/Topoceros.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FleetingNotes/Computers/RAID.md",
+                "file": "LiteratureNotes/Topoceros.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -113,10 +113,16 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "524e9d492d008eb8",
+  "active": "899bdac20eb97d31",
   "lastOpenFiles": [
-    "FleetingNotes/Computers/Server.md",
+    "Templates/Project Template.md",
+    "Templates/Note Template.md",
+    "LiteratureNotes/Topoceros.md",
+    "PermanentNotes/Untitled.md",
+    "PermanentNotes/Grasshopper3d/The Infamous Spaghetti.md",
+    "Resources/Zettelkasten-Note-Taking-Method.png",
     "FleetingNotes/Computers/RAID.md",
+    "FleetingNotes/Computers/Server.md",
     "FleetingNotes/Math & Geometry/Line Segment Intersection.md",
     "LiteratureNotes/Top Down Design Approach.md",
     "FleetingNotes/Math & Geometry/DCEL Topology.md",
@@ -130,16 +136,11 @@
     "FleetingNotes/Building Science/Glossary.md",
     "FleetingNotes/Building Science/BIM.md",
     "FleetingNotes/Building Science/BIM Lifecycle Phases.md",
-    "Templates/Note Template.md",
     "FleetingNotes/Productivity/Zettelkasten using Obsidian.md",
     "LiteratureNotes/Productivity/Zettelkasten using Obsidian.md",
     "FleetingNotes/Building Science/Elements of a City.md",
     "LiteratureNotes/Organizing GH_Scripts/Community Builds.md",
     "LiteratureNotes/Math & Geometry/Half-Edge Data Structure - Theory.md",
-    "LiteratureNotes/Building Science/Embodied Carbon.md",
-    "FleetingNotes/Building Science/Glosarry.md",
-    "FleetingNotes/Building Science/Embodied Carbon.md",
-    "FleetingNotes/Productivity/The Zettelkasten Method.md",
-    "FleetingNotes/Productivity/Obsidian UX.md"
+    "LiteratureNotes/Building Science/Embodied Carbon.md"
   ]
 }

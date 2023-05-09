@@ -1,0 +1,37 @@
+name: build_mkdocs
+
+on:
+  push: # Runs on push to main branch
+    branches:
+      - main
+  
+  workflow_dispatch: # Runs when manually triggered
+
+permissions:
+  contents: write
+
+jobs:
+  deploy:
+    name: Deploy
+    runs-on: ubuntu-latest
+    steps:
+      # Access the files of this repo in Actions environment
+      - name: Checkout Repo
+        uses: actions/checkout@v3.3.0
+        with:
+          fetch-depth: 0
+      
+      # Setup Python
+      - name: Install Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.x
+      
+      # Build static site
+      - name: Build Docs
+        uses: actions/cache@v2
+        with:
+          key: ${{ github.ref }}
+          path: .cache
+      - run: pip install mkdocs-material 
+      - run: mkdocs gh-deploy --force
