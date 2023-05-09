@@ -14,6 +14,6 @@ Created : 05-03-2022 14:35
 	4. **Okinawan-style**: When Spam / Sliced Hams are added.
 
 ## References
-1. https://www.justonecookbook.com/yakisoba/
-2. https://omnivorescookbook.com/kansui
-3. https://en.wikipedia.org/wiki/Udon
+1. [https://www.justonecookbook.com/yakisoba/](https://www.justonecookbook.com/yakisoba/)
+2. [https://omnivorescookbook.com/kansui](https://omnivorescookbook.com/kansui)
+3. [https://en.wikipedia.org/wiki/Udon](https://en.wikipedia.org/wiki/Udon)

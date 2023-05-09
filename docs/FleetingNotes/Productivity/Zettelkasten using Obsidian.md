@@ -23,4 +23,4 @@ When working on a project, draw conclusions
 ![[Zettelkasten-Note-Taking-Method.png]]
 
 ## References
-1. https://www.youtube.com/watch?v=ziE6UExsOrs
+1. [https://www.youtube.com/watch?v=ziE6UExsOrs](https://www.youtube.com/watch?v=ziE6UExsOrs)

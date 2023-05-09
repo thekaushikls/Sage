@@ -55,4 +55,4 @@ Created : 25-02-2022 20:17
 * Set up a feedback loop with customers.
 
 ## References
-1. https://www.startupgrind.com/blog/the-startup-framework-to-validate-your-idea-before-you-spend-1/
+1. [https://www.startupgrind.com/blog/the-startup-framework-to-validate-your-idea-before-you-spend-1/](https://www.startupgrind.com/blog/the-startup-framework-to-validate-your-idea-before-you-spend-1/)

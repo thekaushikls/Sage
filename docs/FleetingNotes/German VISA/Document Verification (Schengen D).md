@@ -9,4 +9,4 @@ Created : 06-04-2022 09:02
 * Cost of verification depends on location of verification. It is adviced to bring the amount of payment (if known prior to appointment). If verification is not required, the candidate will be informed.
 
 ## References
-1. https://india.diplo.de/in-en/service/documentverification/2004314
+1. [https://india.diplo.de/in-en/service/documentverification/2004314](https://india.diplo.de/in-en/service/documentverification/2004314)

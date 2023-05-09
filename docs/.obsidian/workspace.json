@@ -11,8 +11,12 @@
             "id": "07bec4fa50b37188",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "LiteratureNotes/Organizing GH_Scripts/Vanilla Strategies.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "LiteratureNotes/Organizing GH_Scripts/Vanilla Strategies.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -108,34 +113,34 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "e15b6b64d354c5de",
+  "active": "07bec4fa50b37188",
   "lastOpenFiles": [
-    "FleetingNotes/Building Science/Glossary.md",
-    "FleetingNotes/Building Science/Embodied Carbon.md",
-    "FleetingNotes/Building Science/Elements of a City.md",
-    "FleetingNotes/Building Science/Building Information Modelling.md",
-    "FleetingNotes/Building Science/Autodesk Revit.md",
-    "FleetingNotes/Business & Start-ups/Validate Your Startup Idea.md",
-    "FleetingNotes/Business & Start-ups/The Golden Circle.md",
-    "FleetingNotes/Computers/Gaming Laptop.md",
-    "FleetingNotes/Computers/Workstations.md",
-    "FleetingNotes/Computers/Server.md",
-    "FleetingNotes/Computers/RAID.md",
-    "FleetingNotes/Food/Yakisoba.md",
-    "FleetingNotes/German VISA/Document Verification (Schengen D).md",
-    "FleetingNotes/Indian Traditional Medicines/Siddha Maruthuvum.md",
-    "FleetingNotes/Indian Traditional Medicines/Nadi Maruthuvam.md",
+    "LiteratureNotes/Organizing GH_Scripts.md",
+    "LiteratureNotes/Organizing GH_Scripts/Vanilla Strategies.md",
+    "LiteratureNotes/Organizing GH_Scripts/Summary.md",
+    "LiteratureNotes/Organizing GH_Scripts/Developer Perspective.md",
+    "LiteratureNotes/Organizing GH_Scripts/Community Builds.md",
+    "LiteratureNotes/Math & Geometry/Half-Edge Data Structure - Theory.md",
+    "FleetingNotes/Effort.md",
+    "FleetingNotes/Design Approach.md",
+    "FleetingNotes/Spirituality/Sun Worshippers.md",
+    "FleetingNotes/Spirituality/Hierarchy of Needs - Nain.md",
+    "FleetingNotes/Spirituality/Anime/Men.md",
+    "FleetingNotes/Productivity/Zettelkasten using Obsidian.md",
+    "FleetingNotes/Productivity/The Zettelkasten Method.md",
+    "FleetingNotes/Productivity/Obsidian UX.md",
+    "FleetingNotes/Organizing GH_Scripts/Organizing GH_Scripts.md",
+    "FleetingNotes/Organizing GH_Scripts/Best Practices in Grasshopper.md",
+    "FleetingNotes/Organizing GH_Scripts/3 Reasons Why Your Grasshopper Definitions Should Be Clean & Documented.md",
     "FleetingNotes/Math & Geometry/Line Segment Intersection.md",
     "FleetingNotes/Math & Geometry/Half-Edge Data Structure.md",
     "FleetingNotes/Math & Geometry/Graph Traversal.md",
     "FleetingNotes/Math & Geometry/DCEL Topology.md",
-    "FleetingNotes/Organizing GH_Scripts/3 Reasons Why Your Grasshopper Definitions Should Be Clean & Documented.md",
-    "FleetingNotes/Organizing GH_Scripts/Best Practices in Grasshopper.md",
-    "FleetingNotes/Organizing GH_Scripts/Organizing GH_Scripts.md",
-    "FleetingNotes/Productivity/Obsidian UX.md",
-    "FleetingNotes/Productivity/The Zettelkasten Method.md",
-    "FleetingNotes/Productivity/Zettelkasten using Obsidian.md",
-    "FleetingNotes/Spirituality/Anime/Men.md",
+    "FleetingNotes/Indian Traditional Medicines/Siddha Maruthuvum.md",
+    "FleetingNotes/Indian Traditional Medicines/Nadi Maruthuvam.md",
+    "FleetingNotes/German VISA/Document Verification (Schengen D).md",
+    "FleetingNotes/Food/Yakisoba.md",
+    "FleetingNotes/Computers/Workstations.md",
     "Resources/Zettelkasten-Note-Taking-Method.png"
   ]
 }

@@ -16,7 +16,7 @@ Created : 09-03-2022 17:31
 ## A* Search
 
 ## References
-1. https://en.wikipedia.org/wiki/Graph_traversal#:~:text=In%20computer%20science%2C%20graph%20traversal,special%20case%20of%20graph%20traversal.
-2. https://arxiv.org/pdf/2104.09733.pdf
-3. https://www.youtube.com/watch?v=ySN5Wnu88nE
-4. https://www.youtube.com/watch?v=GazC3A4OQTE
+1. [https://en.wikipedia.org/wiki/Graph_traversal#:~:text=In%20computer%20science%2C%20graph%20traversal,special%20case%20of%20graph%20traversal](https://en.wikipedia.org/wiki/Graph_traversal#:~:text=In%20computer%20science%2C%20graph%20traversal,special%20case%20of%20graph%20traversal)
+2. [https://arxiv.org/pdf/2104.09733.pdf](https://arxiv.org/pdf/2104.09733.pdf)
+3. [https://www.youtube.com/watch?v=ySN5Wnu88nE](https://www.youtube.com/watch?v=ySN5Wnu88nE)
+4. [https://www.youtube.com/watch?v=GazC3A4OQTE](https://www.youtube.com/watch?v=GazC3A4OQTE)

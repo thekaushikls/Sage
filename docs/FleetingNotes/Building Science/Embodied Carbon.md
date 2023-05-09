@@ -24,8 +24,8 @@ Created : 11-08-2022 12:55
 
 ## Interesting Companies
 #### that create building materials from atmospheric carbon.
-1. Carbon Craft Design https://www.carboncraftdesign.com/
-2. Air Ink https://air-ink.com/
+1. [Carbon Craft Design](https://www.carboncraftdesign.com/)
+2. [Air Ink](https://air-ink.com/)
 
 ## References
-1. https://www.youtube.com/watch?v=LnB7Hh40nYk
+1. [https://www.youtube.com/watch?v=LnB7Hh40nYk](https://www.youtube.com/watch?v=LnB7Hh40nYk)

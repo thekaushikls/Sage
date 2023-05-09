@@ -10,4 +10,4 @@ Created : 28-02-2022 08:46
 * 
 
 ## References
-1. https://doc.cgal.org/latest/HalfedgeDS/index.html
+1. [https://doc.cgal.org/latest/HalfedgeDS/index.html](https://doc.cgal.org/latest/HalfedgeDS/index.html)

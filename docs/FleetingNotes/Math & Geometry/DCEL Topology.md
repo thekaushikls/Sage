@@ -47,9 +47,9 @@ Created : 16-02-2022 10:13
 	1. Reference to any one Half-Edges. Every other edge(along with the origin_vertex) can be found from this one edge)
 
 ## References
-1. https://www.youtube.com/watch?v=enb13mZ7Pq4&list=PLtTatrCwXHzEqzJMaTUFgqoCNllgwk4DH
-2. https://www.youtube.com/watch?v=iyU6UVrg__o
-3. https://github.com/t1jsh111/2IMA15
-4. https://github.com/Gimly/DoublyConnectedEdgeList
-5. https://w3.cs.jmu.edu/bowersjc/page/courses/spring17/cs480/labs/processing1/
-6. https://w3.cs.jmu.edu/bowersjc/page/courses/spring17/cs480/labs/dcel/
+1. [https://www.youtube.com/watch?v=enb13mZ7Pq4&list=PLtTatrCwXHzEqzJMaTUFgqoCNllgwk4DH](https://www.youtube.com/watch?v=enb13mZ7Pq4&list=PLtTatrCwXHzEqzJMaTUFgqoCNllgwk4DH)
+2. [https://www.youtube.com/watch?v=iyU6UVrg__o](https://www.youtube.com/watch?v=iyU6UVrg__o)
+3. [https://github.com/t1jsh111/2IMA15](https://github.com/t1jsh111/2IMA15)
+4. [https://github.com/Gimly/DoublyConnectedEdgeList](https://github.com/Gimly/DoublyConnectedEdgeList)
+5. [https://w3.cs.jmu.edu/bowersjc/page/courses/spring17/cs480/labs/processing1/](https://w3.cs.jmu.edu/bowersjc/page/courses/spring17/cs480/labs/processing1/)
+6. [https://w3.cs.jmu.edu/bowersjc/page/courses/spring17/cs480/labs/dcel/](https://w3.cs.jmu.edu/bowersjc/page/courses/spring17/cs480/labs/dcel/)

@@ -12,4 +12,4 @@ Created : 15-02-2022 16:50
 * Parameters can also be placed in appropriate positions near the sketch, to provide a better representation of the script.
 
 ## References
-1. https://www.modelical.com/en/best-practices-in-grasshopper/
+1. [https://www.modelical.com/en/best-practices-in-grasshopper/](https://www.modelical.com/en/best-practices-in-grasshopper/)

@@ -50,15 +50,15 @@ Created : 15-02-2022 11:37
 * Using .ghx (XML) format can help with source control.
 
 ## References
-1. https://discourse.mcneel.com/t/commenting-in-grasshopper/137346
-2. https://discourse.mcneel.com/t/how-to-manage-a-big-definition-any-tips/134746
-3. https://discourse.mcneel.com/t/grasshopper-best-practices/86120
-4. https://discourse.mcneel.com/t/whats-your-largest-grasshopper-script-the-hall-of-shame/60594
-5. https://discourse.mcneel.com/t/vertical-slides/50937/18
-6. https://aws1.discourse-cdn.com/mcneel/uploads/default/original/4X/d/0/b/d0b941e1b02a1971a095167f63db3066f48dfe6c.jpeg
-7. https://www.food4rhino.com/en/app/telepathy
-8. https://www.food4rhino.com/en/app/sunglasses
-9. https://www.food4rhino.com/en/app/bifocals
-10. https://www.food4rhino.com/en/app/snappinggecko
-11. https://www.food4rhino.com/en/app/autograph
-12. https://github.com/garciadelcastillo/gh-sharp/blob/master/GUIDELINES.md
+1. [https://discourse.mcneel.com/t/commenting-in-grasshopper/137346](https://discourse.mcneel.com/t/commenting-in-grasshopper/137346)
+2. [https://discourse.mcneel.com/t/how-to-manage-a-big-definition-any-tips/134746](https://discourse.mcneel.com/t/how-to-manage-a-big-definition-any-tips/134746)
+3. [https://discourse.mcneel.com/t/grasshopper-best-practices/86120](https://discourse.mcneel.com/t/grasshopper-best-practices/86120)
+4. [https://discourse.mcneel.com/t/whats-your-largest-grasshopper-script-the-hall-of-shame/60594](https://discourse.mcneel.com/t/whats-your-largest-grasshopper-script-the-hall-of-shame/60594)
+5. [https://discourse.mcneel.com/t/vertical-slides/50937/18](https://discourse.mcneel.com/t/vertical-slides/50937/18)
+6. [https://aws1.discourse-cdn.com/mcneel/uploads/default/original/4X/d/0/b/d0b941e1b02a1971a095167f63db3066f48dfe6c.jpeg](https://aws1.discourse-cdn.com/mcneel/uploads/default/original/4X/d/0/b/d0b941e1b02a1971a095167f63db3066f48dfe6c.jpeg)
+7. [https://www.food4rhino.com/en/app/telepathy](https://www.food4rhino.com/en/app/telepathy)
+8. [https://www.food4rhino.com/en/app/sunglasses](https://www.food4rhino.com/en/app/sunglasses)
+9. [https://www.food4rhino.com/en/app/bifocals](https://www.food4rhino.com/en/app/bifocals)
+10. [https://www.food4rhino.com/en/app/snappinggecko](https://www.food4rhino.com/en/app/snappinggecko)
+11. [https://www.food4rhino.com/en/app/autograph](https://www.food4rhino.com/en/app/autograph)
+12. [https://github.com/garciadelcastillo/gh-sharp/blob/master/GUIDELINES.md](https://github.com/garciadelcastillo/gh-sharp/blob/master/GUIDELINES.md)

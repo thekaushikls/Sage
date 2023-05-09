@@ -41,5 +41,5 @@ Created : 09-02-2022 11:35
 * Leaders are positions of power. But those who lead, inspire others.
 
 ## References
-1. https://www.youtube.com/watch?v=qp0HIF3SfI4
-2. https://en.wikipedia.org/wiki/Samuel_Langley
+1. [https://www.youtube.com/watch?v=qp0HIF3SfI4](https://www.youtube.com/watch?v=qp0HIF3SfI4)
+2. [https://en.wikipedia.org/wiki/Samuel_Langley](https://en.wikipedia.org/wiki/Samuel_Langley)
