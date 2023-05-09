@@ -1,10 +1,19 @@
-site_name: SecondBrain
-#dev_addr: "127.0.0.1:3000"
-#site_url: 'https://notes.akenofu.me'
-repo_url: 'https://github.com/thekaushikls/SecondBrain'
-edit_uri: 'https://github.com/thekaushikls/SecondBrain/tree/main/docs/'
-site_description: 'This repo is my personal repertoire of technology and security-related notes since day one in the field. It is also my attempt to give back to the infosec community. It has all the references, checklists, cheat sheets, and notes I use daily. I forgot to say, I am very forgetful 🙋‍♂️. So, I am probably the person who uses this the most 👀'
-site_author: 'Kaushik LS @thekaushikls'
+
+# Project Information
+site_name: Kaushik's SecondBrain
+site_url: https://thekaushikls.github.io/SecondBrain
+site_author: Kaushik LS
+site_description: >-
+    Personal knowledge management using the Zettelkasten method.
+
+# Repository Information
+repo_name: thekaushikls/SecondBrain
+repo_url: https://github.com/thekaushikls/SecondBrain
+
+# Copyright Information
+copyright: Copyright &copy; 2016 - 2023 Kaushik LS
+
+
 #watch: ['docs', 'mkdocs.yml', 'custom_theme']
 plugins:
     - search:
@@ -25,17 +34,16 @@ markdown_extensions:
 
 theme:
     name: material
-    #site_url: 'https://notes.akenofu.me'
     highlightjs: true
     github_url: https://github.com/thekaushikls/SecondBrain
     navigation_depth: 4
     titles_only: true
     sticky_navigation: true
     collapse_navigation: true
-    custom_dir: custom_theme
+    #custom_dir: custom_theme
     theme:
-    logo: Screenshots/logo.png
-    favicon: Screenshots/logo.png
+    logo: Resources\Icons_brain_512x512.png
+    favicon: Resources\Icons_brain_512x512.png
     palette:
        # Palette toggle for dark mode
     - scheme: slate
