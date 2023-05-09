@@ -1,11 +1,14 @@
-name: build_mkdocs
+# Runs on push to main , manual trigger, and every
+# 1st of the month at at 00:00 UTC | 02:00 CET | 05:30 IST
+name: build-mkdocs
 
 on:
-  push: # Runs on push to main branch
+  push:
     branches:
       - main
-  
-  workflow_dispatch: # Runs when manually triggered
+  schedule:
+    - cron: "0 0 1 * *"
+  workflow_dispatch:
 
 permissions:
   contents: write
