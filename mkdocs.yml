@@ -1,6 +1,5 @@
-
-# Project Information
-site_name: Kaushik's SecondBrain
+  # Project Information
+site_name: Second Brain
 site_url: https://thekaushikls.github.io/SecondBrain
 site_author: Kaushik LS
 site_description: >-
@@ -9,52 +8,118 @@ site_description: >-
 # Repository Information
 repo_name: thekaushikls/SecondBrain
 repo_url: https://github.com/thekaushikls/SecondBrain
+edit_uri: https://github.com/thekaushikls/SecondBrain/tree/main/docs/
 
+#region Site Footer
 # Copyright Information
-copyright: Copyright &copy; 2016 - 2023 Kaushik LS
+copyright: Copyright &copy; 2023 <a href="https://github.com/thekaushikls">Kaushik LS</a>
 
+extra:
+  # Social Media links in Footer
+  social:
+    - name: GitHub
+      icon: fontawesome/brands/github
+      link: https://github.com/thekaushikls
 
-#watch: ['docs', 'mkdocs.yml', 'custom_theme']
-plugins:
-    - search:
-        indexing: 'full'
+    - name: LinkedIn
+      icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/thekaushikls
 
+    - name: Medium
+      icon: fontawesome/brands/medium
+      link: https://thekaushikls.medium.com
+    
+    - name: Email
+      icon: fontawesome/solid/envelope
+      link: mailto:kaushiklsk96+secondbrain@gmail.com
+      
+  consent:
+    title: Cookie consent
+    description: >- 
+      We use cookies to recognize your repeated visits and preferences, as well
+      as to measure the effectiveness of our documentation and whether users
+      find what they're searching for. With your consent, you're helping us to
+      make our documentation better.
+#endregion Site Footer
+
+#region Extensions & Plugins
 markdown_extensions:
-    - pymdownx.highlight:
-        anchor_linenums: true
-    - pymdownx.inlinehilite
-    - pymdownx.keys
-    - pymdownx.superfences 
-    - tables
-    - toc
-    - pymdownx.tasklist:
-        custom_checkbox: true
-        clickable_checkbox: true
-    - footnotes        
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
 
+plugins:
+  # Search Box
+  - search:
+      # Query tokenization, allows searching special characters from code blocks
+      separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
+#endregion Extensions & Plugins
+
+#region Theme Design
 theme:
-    name: material
-    highlightjs: true
-    github_url: https://github.com/thekaushikls/SecondBrain
-    navigation_depth: 4
-    titles_only: true
-    sticky_navigation: true
-    collapse_navigation: true
-    #custom_dir: custom_theme
-    theme:
-    logo: Resources\Icons_brain_512x512.png
-    favicon: Resources\Icons_brain_512x512.png
-    palette:
-       # Palette toggle for dark mode
-    - scheme: slate
+  name: material
+
+  # Typography
+  font: 
+    #false # Do not use Google Fonts
+    text: Roboto
+    code: Roboto Mono
+
+  # Icons
+  logo: Resources\Icons_brain_512x512.png
+  favicon: Resources\Icons_brain_512x512.png
+  icon:
+    repo: fontawesome/brands/github
+    edit: fontawesome/solid/pencil
+    view: material/eye
+
+  # Colors
+  palette:
+    # Color Scheme for Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: green
+      accent: yellow
       toggle:
-        icon: material/brightness-4
+        icon: material/toggle-switch-off
         name: Switch to light mode
-            # Palette toggle for light mode
-    - scheme: default
+      
+    # Color Scheme for Light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: black
+      accent: red
       toggle:
-        icon: material/brightness-7 
+        icon: material/toggle-switch
         name: Switch to dark mode
+      
+  # Additional Features
+  features:    
+    # Header
+    - header.autohide         # Hide Header when scrolling
 
+    # Search Box
+    - search.suggest          # Suggestions in search box
+    - search.highlight        # Highlights all occurences
+    - search.share            # Enables button to copy search query
 
- 
+    # Navigation Bar / Path
+    - navigation.top          # Back to top
+    - navigation.tracking     # URL tracks headers
+    #- navigation.sections    # Displays folders as sections
+    #- navigation.expand      # Auto Expand everything
+    - navigation.path         # Breadcrumbs
+    - navigation.prune        # Optimizes site by not rendering the entire navigation list
+    #- navigation.footer      # Navigation to next page in footer
+    #- toc.integrate          # Combines Table of Contents with navigation list
+    
+    # Code Formatting
+    - content.code.copy       # Copy copy button in code block
+    - content.code.select     # Enable line selection in code block
+    #- content.code.annotate  # Tooltip from comment in code block
+    - content.action.edit     # Enables the 'Edit on GitHub' button
+#endregion Theme Design

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b279ae229042ba3f",
+        "id": "4429e342ee07ea3e",
         "type": "tabs",
         "children": [
           {
-            "id": "07bec4fa50b37188",
+            "id": "319f6e006f8f6e31",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LiteratureNotes/Organizing GH_Scripts/Vanilla Strategies.md",
+                "file": "LiteratureNotes/Math & Geometry/Half-Edge Data Structure - Theory.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LiteratureNotes/Organizing GH_Scripts/Vanilla Strategies.md",
+                "file": "LiteratureNotes/Math & Geometry/Half-Edge Data Structure - Theory.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -113,10 +113,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "07bec4fa50b37188",
+  "active": "319f6e006f8f6e31",
   "lastOpenFiles": [
-    "LiteratureNotes/Organizing GH_Scripts.md",
     "LiteratureNotes/Organizing GH_Scripts/Vanilla Strategies.md",
+    "LiteratureNotes/Organizing GH_Scripts.md",
     "LiteratureNotes/Organizing GH_Scripts/Summary.md",
     "LiteratureNotes/Organizing GH_Scripts/Developer Perspective.md",
     "LiteratureNotes/Organizing GH_Scripts/Community Builds.md",
