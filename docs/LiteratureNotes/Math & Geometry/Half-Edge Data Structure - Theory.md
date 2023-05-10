@@ -19,5 +19,5 @@ Created : 05-03-2022 14:52
 * But, the amount of looping, and updating the references might be a caveat depending on the exact implementation. Parallel processing / multi-threading might help. 
 
 ## References
-1. [DCEL Topology](DCEL%20Topology.md)
-2. [Half-Edge Data Structure](Half-Edge%20Data%20Structure.md)
+1. [DCEL Topology](../../FleetingNotes/Math%20%26%20Geometry/DCEL%20Topology.md)
+2. [Half-Edge Data Structure](../../FleetingNotes/Math%20%26%20Geometry/Half-Edge%20Data%20Structure.md)

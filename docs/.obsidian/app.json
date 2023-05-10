@@ -12,5 +12,5 @@
   "spellcheck": true,
   "useMarkdownLinks": true,
   "showUnsupportedFiles": true,
-  "newLinkFormat": "absolute"
+  "newLinkFormat": "relative"
 }

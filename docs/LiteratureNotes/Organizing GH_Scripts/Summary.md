@@ -20,4 +20,4 @@ Created : 15-02-2022 22:52
 * Ideas from SOLID / KISS / UML Diagrams can be borrowed.
 
 ## References
-1. [3 Reasons Why Your Grasshopper Definitions Should Be Clean & Documented](3%20Reasons%20Why%20Your%20Grasshopper%20Definitions%20Should%20Be%20Clean%20&%20Documented.md)
+1. [3 Reasons Why Your Grasshopper Definitions Should Be Clean & Documented](../../FleetingNotes/Organizing%20GH_Scripts/3%20Reasons%20Why%20Your%20Grasshopper%20Definitions%20Should%20Be%20Clean%20&%20Documented.md)

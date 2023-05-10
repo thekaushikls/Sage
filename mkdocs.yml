@@ -57,11 +57,13 @@ plugins:
   - search:
       # Query tokenization, allows searching special characters from code blocks
       separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
+  #- autorefs
 #endregion Extensions & Plugins
 
 #region Theme Design
 theme:
   name: material
+  highlightjs: true
 
   # Typography
   font: 

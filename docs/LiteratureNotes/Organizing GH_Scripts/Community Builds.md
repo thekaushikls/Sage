@@ -9,4 +9,4 @@ Created : 15-02-2022 22:39
 	5. **Autograph** for Component placement and organizing.
 
 ## References
-1. [Organizing GH_Scripts](Organizing%20GH_Scripts.md)
+1. [Organizing GH_Scripts](../../FleetingNotes/Organizing%20GH_Scripts/Organizing%20GH_Scripts.md)

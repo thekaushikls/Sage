@@ -17,5 +17,5 @@ Usually followed in
 #LOD 
 
 ## References
-1. [Building Information Modelling](Building%20Information%20Modelling.md)
-2. [Design Approach](Design%20Approach.md)
+2. [Building Information Modelling](../FleetingNotes/Building%20Science/Building%20Information%20Modelling.md)
+3. [Design Approach](../FleetingNotes/Design%20Approach.md)

@@ -30,7 +30,7 @@ Created : 15-02-2022 21:54
 	3. Clusters / Groups as blocks
 
 ## References
-1. [Organizing GH_Scripts](/Fleeting%20Notes/Organizing%20GH_Scripts/Organizing%20GH_Scripts.md)
-2. [Best Practices in Grasshopper](Best%20Practices%20in%20Grasshopper.md)
-3. [3 Reasons Why Your Grasshopper Definitions Should Be Clean & Documented](3%20Reasons%20Why%20Your%20Grasshopper%20Definitions%20Should%20Be%20Clean%20&%20Documented.md)
-4. [Elements of a City](Elements%20of%20a%20City.md)
+2. [Organizing GH_Scripts](../../FleetingNotes/Organizing%20GH_Scripts/Organizing%20GH_Scripts.md)
+3. [Best Practices in Grasshopper](../../FleetingNotes/Organizing%20GH_Scripts/Best%20Practices%20in%20Grasshopper.md)
+4. [3 Reasons Why Your Grasshopper Definitions Should Be Clean & Documented](../../FleetingNotes/Organizing%20GH_Scripts/3%20Reasons%20Why%20Your%20Grasshopper%20Definitions%20Should%20Be%20Clean%20&%20Documented.md)
+5. [Elements of a City](../../FleetingNotes/Building%20Science/Elements%20of%20a%20City.md)

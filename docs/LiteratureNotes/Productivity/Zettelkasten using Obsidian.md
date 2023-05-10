@@ -20,6 +20,5 @@ The reason behind creating a Zettelkasten database is to try to link different a
 I make notes on papers, sometimes even sketches to understand something. But, as soon as 'that' project / task is complete, the paper is thrown away, and the knowledge is lost. Zettelkasten can probably help with documentation, and retaining the information, so I can re-use it later for a different project.
 
 ## References
-1. [Readme](Readme.md)
-2. [Zettelkasten using Obsidian](FleetingNotes/Productivity/Zettelkasten%20using%20Obsidian.md)
-3. [The Zettelkasten Method](The%20Zettelkasten%20Method.md)
+2. [Zettelkasten using Obsidian](../../FleetingNotes/Productivity/Zettelkasten%20using%20Obsidian.md)
+3. [The Zettelkasten Method](../../FleetingNotes/Productivity/The%20Zettelkasten%20Method.md)

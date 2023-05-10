@@ -1,4 +1,4 @@
-# [[Summary|Organizing GH_Scripts]]
+# Organizing GH_Scripts
 Created : 15-02-2022 11:37
 
 * Need for a style guideline like PEP8 in Python.

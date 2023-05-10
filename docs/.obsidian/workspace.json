@@ -13,8 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LiteratureNotes/Math & Geometry/Half-Edge Data Structure - Theory.md",
+                "file": "FleetingNotes/German VISA/Document Verification (Schengen D).md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LiteratureNotes/Math & Geometry/Half-Edge Data Structure - Theory.md",
+                "file": "FleetingNotes/German VISA/Document Verification (Schengen D).md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,32 +116,32 @@
   },
   "active": "319f6e006f8f6e31",
   "lastOpenFiles": [
-    "LiteratureNotes/Organizing GH_Scripts/Vanilla Strategies.md",
-    "LiteratureNotes/Organizing GH_Scripts.md",
-    "LiteratureNotes/Organizing GH_Scripts/Summary.md",
-    "LiteratureNotes/Organizing GH_Scripts/Developer Perspective.md",
-    "LiteratureNotes/Organizing GH_Scripts/Community Builds.md",
+    "FleetingNotes/Productivity/Zettelkasten using Obsidian.md",
+    "FleetingNotes/Spirituality/Hierarchy of Needs - Nain.md",
+    "FleetingNotes/Spirituality/Sun Worshippers.md",
+    "FleetingNotes/Spirituality/Anime/Men.md",
     "LiteratureNotes/Math & Geometry/Half-Edge Data Structure - Theory.md",
+    "LiteratureNotes/Math & Geometry/Untitled.md",
+    "LiteratureNotes/Organizing GH_Scripts/Community Builds.md",
+    "LiteratureNotes/Organizing GH_Scripts/Developer Perspective.md",
+    "LiteratureNotes/Organizing GH_Scripts/Summary.md",
+    "LiteratureNotes/Organizing GH_Scripts/Vanilla Strategies.md",
+    "LiteratureNotes/Productivity/Zettelkasten using Obsidian.md",
+    "LiteratureNotes/Top Down Design Approach.md",
+    "LiteratureNotes/Topoceros.md",
+    "PermanentNotes/Grasshopper3d/The Infamous Spaghetti.md",
+    "PermanentNotes/Readme.md",
+    "PermanentNotes/The Second Brain.md",
+    "PermanentNotes/What is the Second Brain.md",
+    "Resources/Attributions.md",
+    "LiteratureNotes/Organizing GH_Scripts.md",
     "FleetingNotes/Effort.md",
     "FleetingNotes/Design Approach.md",
-    "FleetingNotes/Spirituality/Sun Worshippers.md",
-    "FleetingNotes/Spirituality/Hierarchy of Needs - Nain.md",
-    "FleetingNotes/Spirituality/Anime/Men.md",
-    "FleetingNotes/Productivity/Zettelkasten using Obsidian.md",
     "FleetingNotes/Productivity/The Zettelkasten Method.md",
     "FleetingNotes/Productivity/Obsidian UX.md",
     "FleetingNotes/Organizing GH_Scripts/Organizing GH_Scripts.md",
     "FleetingNotes/Organizing GH_Scripts/Best Practices in Grasshopper.md",
     "FleetingNotes/Organizing GH_Scripts/3 Reasons Why Your Grasshopper Definitions Should Be Clean & Documented.md",
-    "FleetingNotes/Math & Geometry/Line Segment Intersection.md",
-    "FleetingNotes/Math & Geometry/Half-Edge Data Structure.md",
-    "FleetingNotes/Math & Geometry/Graph Traversal.md",
-    "FleetingNotes/Math & Geometry/DCEL Topology.md",
-    "FleetingNotes/Indian Traditional Medicines/Siddha Maruthuvum.md",
-    "FleetingNotes/Indian Traditional Medicines/Nadi Maruthuvam.md",
-    "FleetingNotes/German VISA/Document Verification (Schengen D).md",
-    "FleetingNotes/Food/Yakisoba.md",
-    "FleetingNotes/Computers/Workstations.md",
     "Resources/Zettelkasten-Note-Taking-Method.png"
   ]
 }

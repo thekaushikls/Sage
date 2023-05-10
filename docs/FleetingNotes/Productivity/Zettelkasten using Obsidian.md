@@ -20,7 +20,7 @@ When working on a project, draw conclusions
 * References: Collect/Track sources.
 * Creating a digital version often reffered to as the Second Brain.
 
-![[Zettelkasten-Note-Taking-Method.png]]
+![Zettelkasten-Note-Taking-Method](../../Resources/Zettelkasten-Note-Taking-Method.png)
 
 ## References
 1. [https://www.youtube.com/watch?v=ziE6UExsOrs](https://www.youtube.com/watch?v=ziE6UExsOrs)
