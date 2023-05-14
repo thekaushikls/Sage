@@ -24,7 +24,7 @@ Created : 15-02-2022 21:54
 * **`Relay`** components can be used to help futher organise wires.
 * **`Parameter`** components can be used like **Named Relays**, to manage Inputs/Outputs to groups.
 * **`DataDam`** component can be used to reduce downstream burden.
-* Use [Elements of a City](Elements%20of%20a%20City.md) analogy to organize the grasshopper file.
+* Use [Elements of a City](../../FleetingNotes/Building%20Science/Elements%20of%20a%20City.md) analogy to organize the grasshopper file.
 	1. Components as Nodes
 	2. Wires as Edges
 	3. Clusters / Groups as blocks

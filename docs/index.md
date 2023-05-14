@@ -1,7 +1,10 @@
 # Welcome
 
-```py title="sample_circle.py" linenums="1"
+??? note
 
+    Sample code preview
+
+```py title="sample_circle.py" linenums="1"
 import Rhino
 
 def create_circle(origin, radius=10):
@@ -10,7 +13,3 @@ def create_circle(origin, radius=10):
     circle = Rhino.Geometry.Circle(plane, radius)
     return circle
 ```
-
-# Test backLinks
-
-[BIM](./FleetingNotes/Building%20Science/Building%20Information%20Modelling.md)
