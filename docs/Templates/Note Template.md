@@ -1,11 +1,6 @@
 # {{title}}
-Created : {{date}} {{time}}
+*Created* : {{date}} {{time}}
+<br>*Tags* : 
+---
 
-1. 
-
-## Tags
-
-
-
-## References
-1. 
+# References

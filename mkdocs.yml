@@ -141,5 +141,5 @@ theme:
     - content.code.copy       # Copy copy button in code block
     - content.code.select     # Enable line selection in code block
     #- content.code.annotate  # Tooltip from comment in code block
-    - content.action.edit     # Enables the 'Edit on GitHub' button
+    #- content.action.edit    # Enables the 'Edit on GitHub' button
 #endregion Theme Design
