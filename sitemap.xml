@@ -6,7 +6,7 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://thekaushikls.github.io/SecondBrain/Archive/Archive/</loc>
+         <loc>https://thekaushikls.github.io/SecondBrain/Archive/Archive.md/</loc>
          <lastmod>2023-05-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -317,6 +317,16 @@
     </url>
     <url>
          <loc>https://thekaushikls.github.io/SecondBrain/Archive/Resources/Attributions/</loc>
+         <lastmod>2023-05-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://thekaushikls.github.io/SecondBrain/Notes/GitHub%20Actions/</loc>
+         <lastmod>2023-05-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://thekaushikls.github.io/SecondBrain/Notes/GitHub%20Event%20Object/</loc>
          <lastmod>2023-05-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
