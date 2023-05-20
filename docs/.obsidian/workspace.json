@@ -4,36 +4,15 @@
     "type": "split",
     "children": [
       {
-<<<<<<< Updated upstream
-        "id": "9f3089bce3a6614e",
+        "id": "6bb6fd1e53d7d386",
         "type": "tabs",
         "children": [
           {
-            "id": "68b1e634e4b51421",
-=======
-        "id": "1435eb053b0ecf37",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "adfd1c726120ccc6",
->>>>>>> Stashed changes
+            "id": "b3d6bf07be933cb6",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-<<<<<<< Updated upstream
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-=======
-                "file": "Notes/GitHub Event Object.md",
-                "mode": "source",
-                "source": false
-              }
->>>>>>> Stashed changes
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -75,7 +54,7 @@
             }
           },
           {
-            "id": "c23df09c192fdc04",
+            "id": "f36100070628e2ab",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -86,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5026054382324
+    "width": 267.5026054382324
   },
   "right": {
     "id": "35f2a9e275680db8",
@@ -102,11 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< Updated upstream
-                "file": "Resources/Icons_brain_512x512.png",
-=======
-                "file": "Notes/GitHub Event Object.md",
->>>>>>> Stashed changes
+                "file": "Notes/Hybrid Modeling.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -134,85 +109,27 @@
       "markdown-importer:Open format converter": false
     }
   },
-<<<<<<< Updated upstream
   "active": "e15b6b64d354c5de",
   "lastOpenFiles": [
-    "index.md",
-    "Archive/Archive.md.md",
-    "Archive/FleetingNotes/Productivity/Zettelkasten using Obsidian.md",
-    "Archive/FleetingNotes/Productivity/The Zettelkasten Method.md",
-    "Archive/PermanentNotes/What is the Second Brain.md",
-    "Archive/PermanentNotes/The Second Brain.md",
-=======
-  "active": "adfd1c726120ccc6",
-  "lastOpenFiles": [
+    "Notes/Voxel Modeling.md",
+    "Notes/Boundary Representation Modeling.md",
+    "Notes/Constructive Solid Geometry Modeling.md",
+    "Notes/Hybrid Modeling.md",
+    "Templates/Note Template.md",
     "Notes/GitHub Actions.md",
     "Notes/GitHub Event Object.md",
-    "Templates/Note Template.md",
     "index.md",
-    "Notes.md",
-    "Notes/Index.md",
-    "Archive/FleetingNotes/Building Science/Building Information Modelling.md",
-    "Archive/FleetingNotes/Math & Geometry/Half-Edge Data Structure.md",
-    "Archive/FleetingNotes/Math & Geometry/Graph Traversal.md",
-    "Archive/FleetingNotes/Math & Geometry/DCEL Topology.md",
-    "Archive/FleetingNotes/Productivity/Obsidian UX.md",
-    "Archive/FleetingNotes/German VISA/Document Verification (Schengen D).md",
-    "Archive/FleetingNotes/Computers/Server.md",
-    "Archive/FleetingNotes/Food/Yakisoba.md",
-    "Archive/FleetingNotes/Architecture as a Business.md",
-    "Archive/PermanentNotes/What is the Second Brain.md",
-    "Archive/PermanentNotes/The Second Brain.md",
-    "Archive/PermanentNotes/Readme.md",
-    "Archive/Resources/Attributions.md",
-    "Archive/Archive.md",
-    "Archive/Archive.md.md",
-    "test_note.md",
-    "Templates/Map of Contents.md",
-    "Archive/sampleNote.md",
-    "Templates/Map of Contents copy.md",
-    "Resources/Icons_brain_512x512.png",
-    "Archive/FleetingNotes/Productivity/Zettelkasten using Obsidian.md",
->>>>>>> Stashed changes
-    "Notes",
-    "Resources",
-    "Archive",
-    "Archive/Resources/Zettelkasten-Note-Taking-Method.png",
-    "Resources/Icons_brain_512x512.png",
-    "Archive/Resources/Attributions.md",
-    "Archive/Resources",
-<<<<<<< Updated upstream
-    "Archive/PermanentNotes/Grasshopper3d/The Infamous Spaghetti.md",
-    "Archive/PermanentNotes/Readme.md",
-    "Archive/PermanentNotes/Grasshopper3d",
-    "Archive/PermanentNotes",
-    "Archive/LiteratureNotes/Productivity/Zettelkasten using Obsidian.md",
-    "Archive/LiteratureNotes/Organizing GH_Scripts/Vanilla Strategies.md",
-    "Archive/LiteratureNotes/Organizing GH_Scripts/Summary.md",
-    "Archive/LiteratureNotes/Organizing GH_Scripts/Developer Perspective.md",
-    "Archive/LiteratureNotes/Organizing GH_Scripts/Community Builds.md",
-    "Archive/LiteratureNotes/Math & Geometry/Half-Edge Data Structure - Theory.md",
     "Archive/LiteratureNotes/Topoceros.md",
-    "Archive/LiteratureNotes/Top Down Design Approach.md",
-=======
-    "Archive/PermanentNotes/Grasshopper3d",
-    "Archive/PermanentNotes",
->>>>>>> Stashed changes
-    "Archive/LiteratureNotes/Productivity",
-    "Archive/LiteratureNotes/Organizing GH_Scripts",
-    "Archive/LiteratureNotes/Math & Geometry",
-    "Archive/LiteratureNotes",
-    "Archive/FleetingNotes/Spirituality/Anime/Men.md",
-    "Archive/FleetingNotes/Spirituality/Sun Worshippers.md",
-    "Archive/FleetingNotes/Spirituality/Hierarchy of Needs - Nain.md",
-    "Archive/FleetingNotes/Organizing GH_Scripts/Organizing GH_Scripts.md",
-    "Archive/FleetingNotes/Organizing GH_Scripts/Best Practices in Grasshopper.md",
-    "Archive/FleetingNotes/Organizing GH_Scripts/3 Reasons Why Your Grasshopper Definitions Should Be Clean & Documented.md",
-    "Archive/FleetingNotes/Productivity/Obsidian UX.md",
-    "Archive/FleetingNotes/Math & Geometry/Line Segment Intersection.md",
-    "Archive/FleetingNotes/Math & Geometry/Half-Edge Data Structure.md",
-    "test.canvas",
-    "Archive/Resources/Zettelkasten-Note-Taking-Method.png",
-    "Resources/Icons_brain_512x512.png"
+    "Notes/Volumetric Modeling.md",
+    "LiteratureNotes/Building Science/Embodied Carbon.md",
+    "FleetingNotes/Productivity/The Zettelkasten Method.md",
+    "FleetingNotes/Productivity/Obsidian UX.md",
+    "FleetingNotes/Productivity/Zettelkasten using Obsidian.md",
+    "FleetingNotes/Technology/Untitled.md",
+    "FleetingNotes/Building Science/Embodied Carbon.md",
+    "FleetingNotes/Computers/Workstations.md",
+    "FleetingNotes/Computers/Gaming Laptop.md",
+    "LiteratureNotes/Technology/Gaming Laptop.md",
+    "FleetingNotes/Technology/PC for.md"
   ]
 }

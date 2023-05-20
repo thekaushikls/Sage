@@ -24,7 +24,7 @@ My first task was to write a wrapper class, that essentially holds the said elem
 A Grasshopper plugin that exposes topology of `Rhino.Geometry.Brep` objects.
 
 ## Tags
-#Grasshopper3d #Plugin #Topology #Brep #Graph #DataStructure
+#Grasshopper3d #Plugin #Topology #BREP #Graph #DataStructure
 
 ## References
 1. 
