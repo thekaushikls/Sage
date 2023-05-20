@@ -28,3 +28,7 @@
 
 # References
 1. [Spatial.com](https://blog.spatial.com/the-main-benefits-and-disadvantages-of-brep-modeling)
+
+---
+## Read Also
+1. [Hybrid Modeling](Hybrid%20Modeling.md)

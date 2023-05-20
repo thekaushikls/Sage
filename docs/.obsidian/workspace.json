@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "6bb6fd1e53d7d386",
+        "id": "18707bdd922d1f5d",
         "type": "tabs",
         "children": [
           {
-            "id": "b3d6bf07be933cb6",
+            "id": "1293575597bd0e5a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Boundary Representation Modeling.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,9 +85,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Hybrid Modeling.md",
+                "file": "Notes/Boundary Representation Modeling.md",
                 "collapseAll": false,
-                "extraContext": true,
+                "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -109,16 +113,25 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "e15b6b64d354c5de",
+  "active": "1293575597bd0e5a",
   "lastOpenFiles": [
     "Notes/Voxel Modeling.md",
-    "Notes/Boundary Representation Modeling.md",
-    "Notes/Constructive Solid Geometry Modeling.md",
     "Notes/Hybrid Modeling.md",
-    "Templates/Note Template.md",
-    "Notes/GitHub Actions.md",
     "Notes/GitHub Event Object.md",
+    "Notes/GitHub Actions.md",
+    "Notes/Constructive Solid Geometry Modeling.md",
+    "Notes/Boundary Representation Modeling.md",
+    "Templates/Note Template.md",
+    "Templates/Map of Contents.md",
     "index.md",
+    "Archive/Archive.md",
+    "Templates",
+    "GitHub Actions.md",
+    "Constructive Solid Geometry Modeling.md",
+    "Boundary Representation Modeling.md",
+    "Notes/Templates/Note Template.md",
+    "Notes/Templates/Map of Contents.md",
+    "Notes/Templates",
     "Archive/LiteratureNotes/Topoceros.md",
     "Notes/Volumetric Modeling.md",
     "LiteratureNotes/Building Science/Embodied Carbon.md",
@@ -129,7 +142,6 @@
     "FleetingNotes/Building Science/Embodied Carbon.md",
     "FleetingNotes/Computers/Workstations.md",
     "FleetingNotes/Computers/Gaming Laptop.md",
-    "LiteratureNotes/Technology/Gaming Laptop.md",
-    "FleetingNotes/Technology/PC for.md"
+    "LiteratureNotes/Technology/Gaming Laptop.md"
   ]
 }
