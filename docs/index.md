@@ -1,7 +1,7 @@
-# Welcome
+# 🚀 Home
 
-!!! info
+!!! success "[2023/05/21] Update: Access notes from the [**Contents**](Contents.md) page."
 
-	   I am currently refactoring my notes due to a new insight on how I can modify my [Zettelkasten notes](Archive/FleetingNotes/Productivity/Zettelkasten%20using%20Obsidian.md)  to make it more goal based. 
-    
-    While I update the notes gradually, you can access the old notes from the [Archive](Archive/Archive.md) directory.
+!!! success "[2023/05/15] Update: [Archive](Archive/Archive.md) directory contain the old repo."
+
+!!! warning "[2023/05/14] Note: Refactoring site to make goal-based [Zettelkasten notes](Archive/FleetingNotes/Productivity/Zettelkasten%20using%20Obsidian.md) "

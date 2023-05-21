@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "18707bdd922d1f5d",
+        "id": "0263dcec529bc2b3",
         "type": "tabs",
         "children": [
           {
-            "id": "1293575597bd0e5a",
+            "id": "24b0e17598be4af9",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Boundary Representation Modeling.md",
+                "file": "Notes/Topoceros.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -69,7 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5026054382324
+    "width": 240.50260543823242
   },
   "right": {
     "id": "35f2a9e275680db8",
@@ -85,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Boundary Representation Modeling.md",
+                "file": "Notes/Topoceros.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,14 +115,18 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "1293575597bd0e5a",
+  "active": "e15b6b64d354c5de",
   "lastOpenFiles": [
+    "Archive/LiteratureNotes/Topoceros.md",
+    "Notes/Topoceros.md",
+    "Notes/Boundary Representation Modeling.md",
+    "Archive/LiteratureNotes/Math & Geometry/Half-Edge Data Structure - Theory.md",
+    "Project",
     "Notes/Voxel Modeling.md",
     "Notes/Hybrid Modeling.md",
     "Notes/GitHub Event Object.md",
     "Notes/GitHub Actions.md",
     "Notes/Constructive Solid Geometry Modeling.md",
-    "Notes/Boundary Representation Modeling.md",
     "Templates/Note Template.md",
     "Templates/Map of Contents.md",
     "index.md",
@@ -132,7 +138,6 @@
     "Notes/Templates/Note Template.md",
     "Notes/Templates/Map of Contents.md",
     "Notes/Templates",
-    "Archive/LiteratureNotes/Topoceros.md",
     "Notes/Volumetric Modeling.md",
     "LiteratureNotes/Building Science/Embodied Carbon.md",
     "FleetingNotes/Productivity/The Zettelkasten Method.md",
@@ -140,8 +145,6 @@
     "FleetingNotes/Productivity/Zettelkasten using Obsidian.md",
     "FleetingNotes/Technology/Untitled.md",
     "FleetingNotes/Building Science/Embodied Carbon.md",
-    "FleetingNotes/Computers/Workstations.md",
-    "FleetingNotes/Computers/Gaming Laptop.md",
-    "LiteratureNotes/Technology/Gaming Laptop.md"
+    "FleetingNotes/Computers/Workstations.md"
   ]
 }

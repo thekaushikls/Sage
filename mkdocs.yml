@@ -134,7 +134,7 @@ theme:
     #- navigation.expand      # Auto Expand everything
     - navigation.path         # Breadcrumbs
     - navigation.prune        # Optimizes site by not rendering the entire navigation list
-    #- navigation.footer      # Navigation to next page in footer
+    - navigation.footer      # Navigation to next page in footer
     #- toc.integrate          # Combines Table of Contents with navigation list
     
     # Code Formatting
