@@ -17,10 +17,12 @@ In theory, one can start at any sub-element (Vertex / Edge / Face) and find it's
 
 ## Scope
 
-!!! warning "Missing Illustration"
-	GIF showing Edge Walking and Face Walking
-
 The aim involves being able to traverse between Vertex, Edge, and Face interchangeably. Which means, any of these three types of objects need to access their topologically-adjacent members - which could also be either a Vertex, or an Edge, or a Face.
+
+<figure markdown>
+  ![Image title](../Resources/Topoceros_EdgeWalk_Compressed.gif)
+  <figcaption><a href="https://github.com/thekaushikls/Topoceros" target="_blank">Topoceros</a> Edge Walk</figcaption>
+</figure>
 
 The following table shows what is already implemented in RhinoCommon
 

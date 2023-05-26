@@ -53,6 +53,8 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
   - admonition
+  - attr_list
+  - md_in_html
 
 plugins:
   # Search Box
