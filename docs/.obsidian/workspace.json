@@ -4,21 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0263dcec529bc2b3",
+        "id": "0e1a5bc5024977a5",
         "type": "tabs",
         "children": [
           {
-            "id": "24b0e17598be4af9",
+            "id": "5bcdd85cced7c718",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Topoceros.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -71,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.50260543823242
+    "width": 369.5026054382324
   },
   "right": {
     "id": "35f2a9e275680db8",
@@ -87,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Topoceros.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,19 +110,26 @@
   },
   "active": "e15b6b64d354c5de",
   "lastOpenFiles": [
-    "Archive/LiteratureNotes/Topoceros.md",
+    "index.md",
+    "About.md",
+    "Contents.md",
+    "Notes/Hybrid Modeling.md",
+    "Notes/GitHub Event Object.md",
+    "Notes/RAID.md",
+    "Notes/Revit.md",
+    "Notes/GitHub Actions.md",
+    "Archive/FleetingNotes/Computers/RAID.md",
     "Notes/Topoceros.md",
+    "Notes/Cost Performance Index.md",
+    "Notes/Vertical Slice Architecture.md",
+    "Archive/LiteratureNotes/Topoceros.md",
     "Notes/Boundary Representation Modeling.md",
     "Archive/LiteratureNotes/Math & Geometry/Half-Edge Data Structure - Theory.md",
     "Project",
     "Notes/Voxel Modeling.md",
-    "Notes/Hybrid Modeling.md",
-    "Notes/GitHub Event Object.md",
-    "Notes/GitHub Actions.md",
     "Notes/Constructive Solid Geometry Modeling.md",
     "Templates/Note Template.md",
     "Templates/Map of Contents.md",
-    "index.md",
     "Archive/Archive.md",
     "Templates",
     "GitHub Actions.md",
@@ -138,13 +138,6 @@
     "Notes/Templates/Note Template.md",
     "Notes/Templates/Map of Contents.md",
     "Notes/Templates",
-    "Notes/Volumetric Modeling.md",
-    "LiteratureNotes/Building Science/Embodied Carbon.md",
-    "FleetingNotes/Productivity/The Zettelkasten Method.md",
-    "FleetingNotes/Productivity/Obsidian UX.md",
-    "FleetingNotes/Productivity/Zettelkasten using Obsidian.md",
-    "FleetingNotes/Technology/Untitled.md",
-    "FleetingNotes/Building Science/Embodied Carbon.md",
-    "FleetingNotes/Computers/Workstations.md"
+    "Notes/Volumetric Modeling.md"
   ]
 }

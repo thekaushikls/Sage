@@ -20,7 +20,7 @@ In theory, one can start at any sub-element (Vertex / Edge / Face) and find it's
 The aim involves being able to traverse between Vertex, Edge, and Face interchangeably. Which means, any of these three types of objects need to access their topologically-adjacent members - which could also be either a Vertex, or an Edge, or a Face.
 
 <figure markdown>
-  ![Image title](../Resources/Topoceros_EdgeWalk_Compressed.gif)
+  ![Image title](https://raw.githubusercontent.com/thekaushikls/Topoceros/main/Assets/Topoceros_EdgeWalk_Compressed.gif)
   <figcaption><a href="https://github.com/thekaushikls/Topoceros" target="_blank">Topoceros</a> Edge Walk</figcaption>
 </figure>
 
@@ -97,8 +97,6 @@ Writing wrapper classes although a long route, currently seems like the best app
 
 ## Creating the Components
 
-
-
 ### UX Considerations
 
 Although it is exciting to work on implementing custom component UI , or viewport graphics, this project aims to make the user-experience as seamless as possible. 
@@ -118,9 +116,6 @@ As an additional touch *(or the exception to the above ideology)* - it would be 
 
 ## References
 1. [RhinoCommon: Brep class](https://developer.rhino3d.com/api/rhinocommon/rhino.geometry.brep)
-2. [RhinoCommon:  BrepVertex class](https://developer.rhino3d.com/api/rhinocommon/rhino.geometry.brepvertex)
-3. [RhinoCommon:  BrepEdge class](https://developer.rhino3d.com/api/rhinocommon/rhino.geometry.brepedge)
-4. [RhinoCommon:  BrepFace class](https://developer.rhino3d.com/api/rhinocommon/rhino.geometry.brepface)
 
 ---
 ## Read Also
