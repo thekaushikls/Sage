@@ -1,4 +1,4 @@
-# GitHub Actions
+# GitHub-Actions
 *Created* : 15-05-2023 18:36
 <br>*Tags* : #Automation #GitHub #Actions #CICD #DevOps
 ---
@@ -48,7 +48,7 @@ There are two broad flavors of `Runners` that can be specified to suit the steps
 	Here, the operating systems, and additional tools available need to be configured, hosted, and maintained by the user(s). 
 
 ## References
-1. [YouTube: GitHub Actions: The Full Course - Learn by Doing!](https://www.youtube.com/playlist?list=PLArH6NjfKsUhvGHrpag7SuPumMzQRhUKY)
+1. [GitHub Actions: The Full Course - Learn by Doing!](https://www.youtube.com/playlist?list=PLArH6NjfKsUhvGHrpag7SuPumMzQRhUKY) by [glich.stream](https://www.youtube.com/@glich.stream) on YouTube
 
 ---
 ## Read Also

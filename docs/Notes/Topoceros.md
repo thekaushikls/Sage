@@ -114,9 +114,18 @@ As an additional touch *(or the exception to the above ideology)* - it would be 
 * Components need to support casting from / to native data types when required.
 * Data needs to Serializable, so it can be retained in the file(s).
 
+
+## Applications & Usage
+
+### 1. Space Syntax & Planning
+
+!!! note "Space Syntax Planning"
+	1. Understanding how spaces are arranged, and how they are connected.
+	2. Can it be used as a condition to test fitness of plan?
+
 ## References
 1. [RhinoCommon: Brep class](https://developer.rhino3d.com/api/rhinocommon/rhino.geometry.brep)
 
 ---
 ## Read Also
-1. [Boundary Representation Modeling](../Notes/Boundary%20Representation%20Modeling.md)
+1. [Boundary-Representation-Modeling](Boundary-Representation-Modeling.md)

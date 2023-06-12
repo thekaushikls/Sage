@@ -1,4 +1,4 @@
-# Constructive Solid Geometry Modeling
+# Constructive-Solid-Geometry Modeling
 *Created* : 16-05-2023 12:32
 <br>*Tags* : #CSG #CAD #Geometry #Assembly #Boolean #Set #BinaryTree #Modeling
 ---
@@ -23,8 +23,8 @@ General Set operations are possible on `CSG` objects, which include:
 	2. relatively **simple geometric assemblies are required**.
 
 ## References
-1. [Wikipedia: Constructive Solid Geometry](https://en.wikipedia.org/wiki/Constructive_solid_geometry)
+1. [Constructive Solid Geometry](https://en.wikipedia.org/wiki/Constructive_solid_geometry) on Wikipedia
 
 ---
 ## Read Also
-1. [Hybrid Modeling](Hybrid%20Modeling.md)
+1. [Hybrid-Modeling](Hybrid-Modeling.md)

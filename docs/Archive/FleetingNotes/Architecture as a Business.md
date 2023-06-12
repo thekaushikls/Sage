@@ -8,5 +8,5 @@ Created : 14-05-2023 08:54
 
 
 ## References
-1. [ArchPaper: Architects should design their businesses just like they design their buildings](https://www.archpaper.com/2023/03/architects-should-design-their-businesses-just-like-they-design-their-buildings/)
+1. 
 2. 

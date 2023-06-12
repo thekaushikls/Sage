@@ -1,4 +1,4 @@
-# RAID
+# RAID-Configuration
 *Created* : 27-05-2023 09:32
 <br>*Tags* : #Server #Data #Storage #Computer #Hardware #RAID0 #RAID1 #RAID5 #RAID10 #Parity #BinaryTree 
 ---
@@ -17,7 +17,7 @@
 * RAID stands for **Redundant Array of Independent Disks**. As the name suggests it has something to do with (storage) disks, and (backup) redundancy.
 * RAID is a hardware configuration setup for a computer server that provides various levels of data backup.
 * Data is copied into multiple storage devices, so if one fails, the system can switch to one of the copies, and continue operating without crashing / requiring to reboot.
-* But having multiple complete-copies of the hard-disk comes at a high [cost-to-performance ratio](Cost%20Performance%20Index.md). RAID provides optimum configurations that one can choose from.
+* But having multiple complete-copies of the hard-disk comes at a high [cost-to-performance ratio](Cost-Performance-Index.md). RAID provides optimum configurations that one can choose from.
 * In RAID systems, the tug-of-war is between having large storage spaces *(example: saving multiple copies of the entire disk(s))*, and maintaining high read-write speed.
 
 ## RAID 0
@@ -67,10 +67,10 @@
 	Then in the case of RAID 5 ( 5 => 101) should it actually be `RAID 101`?
 
 ## References
-1. [YouTube: What is RAID 0, 1, 5 & 10?](https://www.youtube.com/watch?v=U-OCdTeZLac)
-2. [RAID 1 vs RAID 5 by Priya Pedamkar](https://www.educba.com/raid-1-vs-raid-5/)
-3. [RAID 1 vs. RAID 0: Which level is best for data protection? by Brien Posey](https://www.techtarget.com/searchdatabackup/tip/RAID-1-vs-RAID-0-Which-level-is-best-for-data-protection)
+1. [What is RAID 0, 1, 5 & 10?](https://www.youtube.com/watch?v=U-OCdTeZLac) by [PowerCert Animated Videos](https://www.youtube.com/@PowerCertAnimatedVideos) on YouTube
+2. [RAID 1 vs RAID 5](https://www.educba.com/raid-1-vs-raid-5/) by Priya Pedamkar on Educba
+3. [RAID 1 vs. RAID 0: Which level is best for data protection?](https://www.techtarget.com/searchdatabackup/tip/RAID-1-vs-RAID-0-Which-level-is-best-for-data-protection) by Brien Posey on TechTarget
 
 ---
 ## Read Also
-[Cost Performance Index](Cost%20Performance%20Index.md)
+[Cost-Performance-Index](Cost-Performance-Index.md)

@@ -1,4 +1,4 @@
-# Boundary Representation Modeling
+# Boundary-Representation-Modeling
 *Created* : 16-05-2023 12:42
 <br>*Tags* : #BREP #Geometry #CAD #Mathematics #CAM #Modeling
 ---
@@ -27,9 +27,10 @@
 * CAD / CAM systems that allow complex modeling typically use `BREP` objects.
 
 ## References
-1. [Spatial.com](https://blog.spatial.com/the-main-benefits-and-disadvantages-of-brep-modeling)
+1. [The Main Benefits and Disadvantages of BRep Modeling](https://blog.spatial.com/the-main-benefits-and-disadvantages-of-brep-modeling) in Spatial
 
 ---
 ## Read Also
-1. [Hybrid Modeling](Hybrid%20Modeling.md)
+1. [Hybrid-Modeling](Hybrid-Modeling.md)
 2. [Topoceros](Topoceros.md)
+3. [Doubly-Connected-Edge-List](Doubly-Connected-Edge-List.md)

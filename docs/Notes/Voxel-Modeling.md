@@ -1,4 +1,4 @@
-# Voxel Modeling
+# Voxel-Modeling
 *Created* : 16-05-2023 13:02
 <br>*Tags* : #Voxel #Geometry #CAD #Modeling #Minecraft #Pixel #Atomic #CGI #Rendering #ProxyElements #Context #WhiteModel
 ---
@@ -42,8 +42,8 @@ A `voxel` has the following properties;
 * In CGI, `voxel` models are used to add background / context elements that match the resolution of the final image / video, without compromising on performance.
 
 ## References
-1. [makeuseof.com](https://www.makeuseof.com/what-are-voxels-3d-modeling/)
+1. [What Are Voxels and How Are They Used in 3D Modeling?](https://www.makeuseof.com/what-are-voxels-3d-modeling/) by [Emma Garofalo](https://www.makeuseof.com/author/emma-garofalo/) on MakeUseOf
 
 ---
 ## Read Also
-1. [Hybrid Modeling](Hybrid%20Modeling.md)
+1. [Hybrid-Modeling](Hybrid-Modeling.md)

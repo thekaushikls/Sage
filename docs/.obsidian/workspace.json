@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "0e1a5bc5024977a5",
+        "id": "831ee3f3caba7145",
         "type": "tabs",
         "children": [
           {
-            "id": "5bcdd85cced7c718",
+            "id": "917913f1671b6c1a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Quick",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 369.5026054382324
+    "width": 369.5026054382324,
+    "collapsed": true
   },
   "right": {
     "id": "35f2a9e275680db8",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,36 +114,37 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "e15b6b64d354c5de",
+  "active": "917913f1671b6c1a",
   "lastOpenFiles": [
-    "index.md",
-    "About.md",
+    "Notes.md",
     "Contents.md",
-    "Notes/Hybrid Modeling.md",
-    "Notes/GitHub Event Object.md",
-    "Notes/RAID.md",
-    "Notes/Revit.md",
-    "Notes/GitHub Actions.md",
-    "Archive/FleetingNotes/Computers/RAID.md",
+    "index.md",
+    "Goals.md",
+    "Archive/index.md",
+    "Notes/Voxel-Modeling.md",
+    "Notes/Voltage-Stabilizers.md",
     "Notes/Topoceros.md",
-    "Notes/Cost Performance Index.md",
-    "Notes/Vertical Slice Architecture.md",
-    "Archive/LiteratureNotes/Topoceros.md",
-    "Notes/Boundary Representation Modeling.md",
-    "Archive/LiteratureNotes/Math & Geometry/Half-Edge Data Structure - Theory.md",
-    "Project",
-    "Notes/Voxel Modeling.md",
-    "Notes/Constructive Solid Geometry Modeling.md",
+    "Notes/Revit.md",
+    "Notes/Hybrid-Modeling.md",
+    "Notes/Index.md",
+    "Notes/RAID-Configuration.md",
+    "Notes/Boundary-Representation-Modeling.md",
+    "Notes/GitHub-Actions.md",
+    "Notes/GitHub Event Object.md",
+    "Notes/Doubly-Connected-Edge-List.md",
+    "Notes/DCEL-Implementation.md",
+    "Notes/Cost-Performance-Index.md",
+    "Notes/Constructive-Solid-Geometry-Modeling.md",
+    "Notes/Graph-Traversal.md",
+    "Archive/FleetingNotes/Math & Geometry/DCEL Topology.md",
+    "Archive/FleetingNotes/Math & Geometry/Graph Traversal.md",
     "Templates/Note Template.md",
-    "Templates/Map of Contents.md",
-    "Archive/Archive.md",
+    "Archive/FleetingNotes/Math & Geometry/Line Segment Intersection.md",
+    "Archive/FleetingNotes/Math & Geometry/Half-Edge Data Structure.md",
+    "Templates/Travel Template.md",
+    "Notes/Travel",
+    "Project",
     "Templates",
-    "GitHub Actions.md",
-    "Constructive Solid Geometry Modeling.md",
-    "Boundary Representation Modeling.md",
-    "Notes/Templates/Note Template.md",
-    "Notes/Templates/Map of Contents.md",
-    "Notes/Templates",
-    "Notes/Volumetric Modeling.md"
+    "Notes/Templates"
   ]
 }

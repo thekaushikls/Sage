@@ -4,6 +4,7 @@ Created : 16-02-2022 10:13
 * DCEL is a data structure logic for planar complex shapes. It handles sub-divisions in a geometric surface.
 * The surface is divided into Points / Vertices, Edges, and Faces.
 * **Planar graphs** do not have intersecting / overlapping edges. (Ex: Triangulated mesh)
+  
 * **Complexity** is the sum of the (number of faces, number of vertices, and number of edges)
 * Face and it's edges are **Incident**. So are Edges and their respective vertices.
 * Two copies of edges are stored: One for each direction.

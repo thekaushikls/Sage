@@ -10,6 +10,12 @@ repo_name: thekaushikls/SecondBrain
 repo_url: https://github.com/thekaushikls/SecondBrain
 edit_uri: https://github.com/thekaushikls/SecondBrain/tree/main/docs/
 
+# Site navigation
+#nav:
+#  - 🚩 Home: index.md
+#  - 📒 Notes: Contents.md
+#  - 🚀 Goals: Goals.md
+
 #region Site Footer
 # Copyright Information
 copyright: Copyright &copy; 2023 <a href="https://github.com/thekaushikls">Kaushik LS</a>
@@ -48,6 +54,7 @@ markdown_extensions:
       anchor_linenums: true
       line_spans: __span
       pygments_lang_class: true
+  - footnotes
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - pymdownx.details
