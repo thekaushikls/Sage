@@ -129,3 +129,5 @@ As an additional touch *(or the exception to the above ideology)* - it would be 
 ---
 ## Read Also
 1. [Boundary-Representation-Modeling](Boundary-Representation-Modeling.md)
+2. [Doubly-Connected-Edge-List](Doubly-Connected-Edge-List.md)
+3. [DCEL-Implementation](DCEL-Implementation.md)

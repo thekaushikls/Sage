@@ -15,5 +15,3 @@
 4. GitHub
       1. [GitHub Actions](Notes/GitHub%20Actions.md)
       2. [GitHub Event Object](Notes/GitHub%20Event%20Object.md)
-5. Projects
-      1. [Topoceros](Notes/Topoceros.md)

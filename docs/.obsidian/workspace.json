@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "831ee3f3caba7145",
+        "id": "901c47bf581b8cd7",
         "type": "tabs",
         "children": [
           {
-            "id": "917913f1671b6c1a",
+            "id": "06f9f0c3085148bb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "About.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "About.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,12 +108,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "917913f1671b6c1a",
+  "active": "06f9f0c3085148bb",
   "lastOpenFiles": [
     "index.md",
+    "Goals.md",
     "About.md",
     "Notes.md",
-    "Goals.md",
     "Archive/index.md",
     "Notes/Voxel-Modeling.md",
     "Notes/Voltage-Stabilizers.md",
@@ -140,7 +135,6 @@
     "Templates/Note Template.md",
     "Archive/FleetingNotes/Math & Geometry/Line Segment Intersection.md",
     "Archive/FleetingNotes/Math & Geometry/Half-Edge Data Structure.md",
-    "Templates/Travel Template.md",
     "Notes/Travel",
     "Project",
     "Templates",
