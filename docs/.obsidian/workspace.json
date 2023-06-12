@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "About.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 369.5026054382324,
-    "collapsed": true
+    "width": 369.5026054382324
   },
   "right": {
     "id": "35f2a9e275680db8",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "About.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,9 +115,9 @@
   },
   "active": "917913f1671b6c1a",
   "lastOpenFiles": [
-    "Notes.md",
-    "Contents.md",
     "index.md",
+    "About.md",
+    "Notes.md",
     "Goals.md",
     "Archive/index.md",
     "Notes/Voxel-Modeling.md",

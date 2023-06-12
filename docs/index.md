@@ -1,17 +1,19 @@
-# 🚩 Home
+# 📒 Notes
 
-## [Incoming Notes](Notes/Index.md)
----
-## Current Ideology
-
-1. Only full names will be used to name notes.
-   *Example: `Boundary-Representation-Modeling.md` will be used instead of `BREP.md`.*
-2. File names cannot contain `spaces`. Instead `underscores` need to be used. Since titles are usually generated from filename, they will not contain spaces either - although it is just a preference to keep things consistent.
-3. I will not categorize notes (as this quickly gets out of hands). Instead I will maintain a Contents page, where I group them. This might change in the future.
-
-## Updates
-!!! success "[2023/06/12] Update: All notes now have proper references."
-!!! note "[2023/06/12] Update: All notes now use underscore instead of spaces."
-!!! success "[2023/05/21] Update: Access notes from the [**Contents**](Contents.md) page."
-!!! success "[2023/05/15] Update: **Archive** directory contain the old repo."
-!!! warning "[2023/05/14] Note: Refactoring site to make goal-based [Zettelkasten notes](Archive/FleetingNotes/Productivity/Zettelkasten%20using%20Obsidian.md) "
+1. Business
+      1. [Cost Performance Index](Notes/Cost%20Performance%20Index.md)
+2. Computers
+      1. [RAID Configuration](Notes/RAID%20Configuration.md)
+3. Geometry
+      1. [BREP Modeling](Notes/Boundary%20Representation%20Modeling.md)
+      2. [CSG Modeling](Notes/Constructive%20Solid%20Geometry%20Modeling.md)
+      3. Mesh Modeling
+	      1. [Doubly-Connected-Edge-List](Notes/Doubly-Connected-Edge-List.md)
+	      2. [DCEL-Implementation](Notes/DCEL-Implementation.md)
+      4. [Voxel Modeling](Notes/Voxel%20Modeling.md)
+      5. [Hybrid Modeling](Notes/Hybrid%20Modeling.md)
+4. GitHub
+      1. [GitHub Actions](Notes/GitHub%20Actions.md)
+      2. [GitHub Event Object](Notes/GitHub%20Event%20Object.md)
+5. Projects
+      1. [Topoceros](Notes/Topoceros.md)
