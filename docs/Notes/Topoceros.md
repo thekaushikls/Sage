@@ -3,6 +3,17 @@
 <br>*Tags* : #Grasshopper #Plugin #Topology #OpenSource #MIT #Project #BREP #Graph #DataStructure #dotNET #Rhino
 ---
 
+### Get Topoceros
+
+1. ✅ Stable release on [food4Rhino.com](https://www.food4rhino.com/en/app/topoceros) or Package Manager
+2. ⭕ Build from [GitHub Repo](https://github.com/thekaushikls/Topoceros/releases/latest)
+
+!!! tip "Package Manager"
+	Paste this command on your Rhino command to access Topoceros instantly
+	```
+	_-PackageManager Search Topoceros
+	```
+---
 ## Introduction
 
 I have been working a bit on Data Structures in the Rhino / Grasshopper and .NET environment. One of the interesting ideas I came across was to utilize the topology of a `Brep` to perform traversal operations since the structure of a `Brep` somewhat resembles a graph of interlinked sub-elements.
@@ -20,7 +31,7 @@ In theory, one can start at any sub-element (Vertex / Edge / Face) and find it's
 The aim involves being able to traverse between Vertex, Edge, and Face interchangeably. Which means, any of these three types of objects need to access their topologically-adjacent members - which could also be either a Vertex, or an Edge, or a Face.
 
 <figure markdown>
-  ![Image title](https://raw.githubusercontent.com/thekaushikls/Topoceros/main/Assets/Topoceros_EdgeWalk_Compressed.gif)
+  ![Topoceros Edge Walk](https://raw.githubusercontent.com/thekaushikls/Topoceros/main/Assets/Topoceros_EdgeWalk_Compressed.gif)
   <figcaption><a href="https://github.com/thekaushikls/Topoceros" target="_blank">Topoceros</a> Edge Walk</figcaption>
 </figure>
 
@@ -118,6 +129,11 @@ As an additional touch *(or the exception to the above ideology)* - it would be 
 ## Applications & Usage
 
 ### 1. Space Syntax & Planning
+
+<figure markdown>
+  ![Topoceros Space Syntax](https://raw.githubusercontent.com/thekaushikls/Topoceros/main/Assets/Topoceros_Sample_SpaceSyntax_Compressed.gif)
+  <figcaption><a href="https://github.com/thekaushikls/Topoceros" target="_blank">Topoceros</a> Space Syntax</figcaption>
+</figure>
 
 !!! note "Space Syntax Planning"
 	1. Understanding how spaces are arranged, and how they are connected.
