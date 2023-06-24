@@ -21,7 +21,7 @@
         <link rel="next" href="../Voltage-Stabilizers/">
       
       <link rel="icon" href="../../Resources/Icons_brain_512x512.png">
-      <meta name="generator" content="mkdocs-1.4.3, mkdocs-material-9.1.15">
+      <meta name="generator" content="mkdocs-1.4.3, mkdocs-material-9.1.17">
     
     
       
@@ -2596,6 +2596,11 @@
 <p class="admonition-title">Missing Illustration</p>
 <p>Casting sub-elements to geometry types.</p>
 </div>
+<figure>
+<p><img alt="Type casting in native component" src="https://raw.githubusercontent.com/thekaushikls/Topoceros/main/Assets/Topoceros_CastingProblem.png" />
+  </p>
+<figcaption>Type casting in native component</figcaption>
+</figure>
 <p>It is to be noted that the <code>BrepVertex</code>, <code>BrepEdge</code>, and <code>BrepFace</code> classes inherit from Point, Curve, and Surface classes respectively. When one of these objects are output from a <code>GH_Component</code> object, it is automatically casted to the base classes resulting in loss of information about its topology.</p>
 <h3 id="2-wrapping-them-instead">2. Wrapping them instead!</h3>
 <p>Writing wrapper classes although a long route, currently seems like the best approach that balances between easy implementation, and avoiding complexity. As a bonus, custom Interfaces can be implemented to identify the wrapped objects when we create Grasshopper Components.</p>
@@ -2625,10 +2630,11 @@
 <h3 id="ux-considerations">UX Considerations</h3>
 <p>Although it is exciting to work on implementing custom component UI , or viewport graphics, this project aims to make the user-experience as seamless as possible. </p>
 <p>Also, since the components only expose the already available methods, it is preferable not to create a new plugin tab, and instead be added to the relevant existing tabs - <code>Surface</code> tab in this case.</p>
-<div class="admonition warning">
-<p class="admonition-title">Missing Illustration</p>
-<p>Panel showing type of Topoceros elements</p>
-</div>
+<figure>
+<p><img alt="Topoceros provides near-native experience" src="https://raw.githubusercontent.com/thekaushikls/Topoceros/main/Assets/Topoceros_UxUiConsiderations.png" />
+  </p>
+<figcaption>&gt;<a href="https://github.com/thekaushikls/Topoceros" target="_blank">Topoceros</a> provides near-native experience</figcaption>
+</figure>
 <p>As an additional touch <em>(or the exception to the above ideology)</em> - it would be wiser to implement a custom <code>ToString()</code> method that explicitly shows that the output is not a native Grasshopper object. This is to inform the user that additional features are available, but also additional steps are required to extract the native geometry from these objects.</p>
 <p><strong>TL;DR</strong></p>
 <ul>
@@ -2841,7 +2847,7 @@
     <script id="__config" type="application/json">{"base": "../..", "features": ["header.autohide", "search.suggest", "search.highlight", "search.share", "navigation.top", "navigation.tracking", "navigation.path", "navigation.prune", "navigation.footer", "content.code.copy", "content.code.select"], "search": "../../assets/javascripts/workers/search.208ed371.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
     
     
-      <script src="../../assets/javascripts/bundle.b4d07000.min.js"></script>
+      <script src="../../assets/javascripts/bundle.b425cdc4.min.js"></script>
       
     
   </body>
