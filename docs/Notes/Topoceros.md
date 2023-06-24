@@ -94,6 +94,11 @@ The straightforward way to implement the above missing methods would be to add `
 !!! warning "Missing Illustration"
 	Casting sub-elements to geometry types.
 
+<figure markdown>
+  ![Type casting in native component](https://raw.githubusercontent.com/thekaushikls/Topoceros/main/Assets/Topoceros_CastingProblem.png)
+  <figcaption>Type casting in native component</figcaption>
+</figure>
+
 It is to be noted that the `BrepVertex`, `BrepEdge`, and `BrepFace` classes inherit from Point, Curve, and Surface classes respectively. When one of these objects are output from a `GH_Component` object, it is automatically casted to the base classes resulting in loss of information about its topology.
 
 ### 2. Wrapping them instead!
@@ -114,8 +119,10 @@ Although it is exciting to work on implementing custom component UI , or viewpor
 
 Also, since the components only expose the already available methods, it is preferable not to create a new plugin tab, and instead be added to the relevant existing tabs - `Surface` tab in this case.
 
-!!! warning "Missing Illustration"
-	Panel showing type of Topoceros elements
+<figure markdown>
+  ![Topoceros provides near-native experience](https://raw.githubusercontent.com/thekaushikls/Topoceros/main/Assets/Topoceros_UxUiConsiderations.png)
+  <figcaption>><a href="https://github.com/thekaushikls/Topoceros" target="_blank">Topoceros</a> provides near-native experience</figcaption>
+</figure>
 
 As an additional touch *(or the exception to the above ideology)* - it would be wiser to implement a custom `ToString()` method that explicitly shows that the output is not a native Grasshopper object. This is to inform the user that additional features are available, but also additional steps are required to extract the native geometry from these objects.
 

@@ -11,8 +11,12 @@
             "id": "06f9f0c3085148bb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Topoceros.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Quick",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 369.5026054382324
+    "width": 200
   },
   "right": {
     "id": "35f2a9e275680db8",
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/Topoceros.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,19 +115,20 @@
   },
   "active": "06f9f0c3085148bb",
   "lastOpenFiles": [
-    "index.md",
     "Goals.md",
+    "Topoceros.md",
+    "Notes/Topoceros.md",
+    "Notes/Boundary-Representation-Modeling.md",
+    "index.md",
     "About.md",
     "Notes.md",
     "Archive/index.md",
     "Notes/Voxel-Modeling.md",
     "Notes/Voltage-Stabilizers.md",
-    "Notes/Topoceros.md",
     "Notes/Revit.md",
     "Notes/Hybrid-Modeling.md",
     "Notes/Index.md",
     "Notes/RAID-Configuration.md",
-    "Notes/Boundary-Representation-Modeling.md",
     "Notes/GitHub-Actions.md",
     "Notes/GitHub Event Object.md",
     "Notes/Doubly-Connected-Edge-List.md",
