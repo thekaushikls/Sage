@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "901c47bf581b8cd7",
+        "id": "aa926cdc62d9ea65",
         "type": "tabs",
         "children": [
           {
-            "id": "06f9f0c3085148bb",
+            "id": "1f3f395ceffc3870",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Topoceros.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 269.5026054382324
   },
   "right": {
     "id": "35f2a9e275680db8",
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Topoceros.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,34 +108,34 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "06f9f0c3085148bb",
+  "active": "e15b6b64d354c5de",
   "lastOpenFiles": [
-    "Goals.md",
-    "Topoceros.md",
+    "Notes/GitHub-Event-Object.md",
+    "Notes/Build-Tools-around-Workflows-not-Workflows-around-Tools.md",
+    "Notes/Computational-Design-versus-Large-Language-Models.md",
+    "Notes/Constructive-Solid-Geometry-Modeling.md",
     "Notes/Topoceros.md",
+    "Notes/Cost-Performance-Index.md",
+    "Templates/Reference Template.md",
+    "Notes/My Notes Workflow.md",
     "Notes/Boundary-Representation-Modeling.md",
+    "Notes/DCEL-Implementation.md",
+    "Notes/Doubly-Connected-Edge-List.md",
+    "Notes/Visual-Programming-Language.md",
+    "Notes/GitHub-Actions.md",
+    "Archive/FleetingNotes/Food/Yakisoba.md",
+    "Archive/FleetingNotes/Architecture as a Business.md",
+    "Archive/FleetingNotes/Abstract.md",
+    "Goals.md",
+    "Templates/Note Template.md",
+    "Templates/Travel Template.md",
+    "Topoceros.md",
     "index.md",
     "About.md",
     "Notes.md",
     "Archive/index.md",
     "Notes/Voxel-Modeling.md",
     "Notes/Voltage-Stabilizers.md",
-    "Notes/Revit.md",
-    "Notes/Hybrid-Modeling.md",
-    "Notes/Index.md",
-    "Notes/RAID-Configuration.md",
-    "Notes/GitHub-Actions.md",
-    "Notes/GitHub Event Object.md",
-    "Notes/Doubly-Connected-Edge-List.md",
-    "Notes/DCEL-Implementation.md",
-    "Notes/Cost-Performance-Index.md",
-    "Notes/Constructive-Solid-Geometry-Modeling.md",
-    "Notes/Graph-Traversal.md",
-    "Archive/FleetingNotes/Math & Geometry/DCEL Topology.md",
-    "Archive/FleetingNotes/Math & Geometry/Graph Traversal.md",
-    "Templates/Note Template.md",
-    "Archive/FleetingNotes/Math & Geometry/Line Segment Intersection.md",
-    "Archive/FleetingNotes/Math & Geometry/Half-Edge Data Structure.md",
     "Notes/Travel",
     "Project",
     "Templates",
