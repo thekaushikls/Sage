@@ -2313,40 +2313,40 @@
   
 
 
-<h1 id="raid">RAID</h1>
+<h1 id="raid">RAID<a class="headerlink" href="#raid" title="Permanent link">&para;</a></h1>
 <p>Created : 05-05-2023 10:02</p>
 <ol>
 <li>RAID - Redundant Array of Independent Disks</li>
 <li>RAID is a way to prevent data loss on a #Server or computer.</li>
 <li>Data is copied onto multiple storage devices, so if ones fails, the server / system can still be running using data from other storage devices without shutting down.</li>
 </ol>
-<h2 id="raid-0">RAID 0</h2>
+<h2 id="raid-0">RAID 0<a class="headerlink" href="#raid-0" title="Permanent link">&para;</a></h2>
 <ul>
 <li>Data is not copied completely, but separated among two hard disks.</li>
 <li>t provides speed, since there are two disk controllers.</li>
 <li>But, if one hard disk fails, the system fails.</li>
 <li>The probability of failure increases since data is not copied.</li>
 </ul>
-<h2 id="raid-1">RAID 1</h2>
+<h2 id="raid-1">RAID 1<a class="headerlink" href="#raid-1" title="Permanent link">&para;</a></h2>
 <ul>
 <li>A full copy is stored in two disks.</li>
 <li>If one disk fails, data can be retrieved from the second disk.</li>
 </ul>
-<h2 id="raid-5">RAID 5</h2>
+<h2 id="raid-5">RAID 5<a class="headerlink" href="#raid-5" title="Permanent link">&para;</a></h2>
 <ul>
 <li>
-<h1 id="raid5-requires-at-least-3-disks">Raid5 requires at least 3 disks.</h1>
+<h1 id="raid5-requires-at-least-3-disks">Raid5 requires at least 3 disks.<a class="headerlink" href="#raid5-requires-at-least-3-disks" title="Permanent link">&para;</a></h1>
 </li>
 <li>Most commonly used since it is fast, as well as more secure than RAID 1.</li>
 <li>But data is not completely duplicated here.</li>
 <li>Data is #Striped and shared with multiple disks.</li>
 <li>
-<h1 id="parity-extra-some-data-to-rebuild-the-data-in-the-event-of-a-disk-failure-is-also-stored-equally-on-all-these-drives">Parity (extra some data to rebuild the data in the event of a disk failure) is also stored equally on all these drives.</h1>
+<h1 id="parity-extra-some-data-to-rebuild-the-data-in-the-event-of-a-disk-failure-is-also-stored-equally-on-all-these-drives">Parity (extra some data to rebuild the data in the event of a disk failure) is also stored equally on all these drives.<a class="headerlink" href="#parity-extra-some-data-to-rebuild-the-data-in-the-event-of-a-disk-failure-is-also-stored-equally-on-all-these-drives" title="Permanent link">&para;</a></h1>
 </li>
 <li>The downside? An entire disk's worth of space is sued to store parity, less use-able space is available.
   Example: If we have 4 Hard Disks of 1TB each in a RAID 5 setup. 1TB will be used for parity, and 3 TB will be available for data storage.</li>
 </ul>
-<h2 id="raid-10">RAID 10</h2>
+<h2 id="raid-10">RAID 10<a class="headerlink" href="#raid-10" title="Permanent link">&para;</a></h2>
 <ul>
 <li>Minimum of 4 disks are required.</li>
 <li>Raid 1 and Raid 0 are combined.</li>
@@ -2354,8 +2354,8 @@
 <li>Raid 10 provides both the fault-tolerance of Raid 1 and the speed of Raid 0.</li>
 <li>Downside? only 50% of the data can be used for storage. The 50% is for backup because of the Raid 1 configuration.</li>
 </ul>
-<h2 id="tags">Tags</h2>
-<h2 id="references">References</h2>
+<h2 id="tags">Tags<a class="headerlink" href="#tags" title="Permanent link">&para;</a></h2>
+<h2 id="references">References<a class="headerlink" href="#references" title="Permanent link">&para;</a></h2>
 <ol>
 <li><a href="https://www.youtube.com/watch?v=U-OCdTeZLac">YouTube: What is RAID 0, 1, 5 &amp; 10?</a></li>
 </ol>

@@ -2539,11 +2539,11 @@
   
 
 
-<h1 id="topoceros">Topoceros</h1>
+<h1 id="topoceros">Topoceros<a class="headerlink" href="#topoceros" title="Permanent link">&para;</a></h1>
 <p><em>Created</em> : 05-05-2023 11:17
 <br><em>Tags</em> : #Grasshopper #Plugin #Topology #OpenSource #MIT #Project #BREP #Graph #DataStructure #dotNET #Rhino</p>
 <hr />
-<h3 id="get-topoceros">Get Topoceros</h3>
+<h3 id="get-topoceros">Get Topoceros<a class="headerlink" href="#get-topoceros" title="Permanent link">&para;</a></h3>
 <ol>
 <li>✅ Stable release on <a href="https://www.food4rhino.com/en/app/topoceros">food4Rhino.com</a> or Package Manager</li>
 <li>⭕ Build from <a href="https://github.com/thekaushikls/Topoceros/releases/latest">GitHub Repo</a></li>
@@ -2555,7 +2555,7 @@
 </span></code></pre></div></p>
 </div>
 <hr />
-<h2 id="introduction">Introduction</h2>
+<h2 id="introduction">Introduction<a class="headerlink" href="#introduction" title="Permanent link">&para;</a></h2>
 <p>I have been working a bit on Data Structures in the Rhino / Grasshopper and .NET environment. One of the interesting ideas I came across was to utilize the topology of a <code>Brep</code> to perform traversal operations since the structure of a <code>Brep</code> somewhat resembles a graph of interlinked sub-elements.</p>
 <p>In theory, one can start at any sub-element (Vertex / Edge / Face) and find it's neighboring sub-element(s). Repeat this enough times (the right way), and we have our goal sub-element reached. This could be used to understand the topology of complex geometries, perform checks based on neighboring element(s), or even filter and extract geometric information.</p>
 <div class="admonition note">
@@ -2566,7 +2566,7 @@
 <p class="admonition-title">Trivia</p>
 <p>The name 'Topoceros' is a combination of 'Topology' and 'Rhinoceros' - representing the topological extensions to Rhinoceros(software).</p>
 </div>
-<h2 id="scope">Scope</h2>
+<h2 id="scope">Scope<a class="headerlink" href="#scope" title="Permanent link">&para;</a></h2>
 <p>The aim involves being able to traverse between Vertex, Edge, and Face interchangeably. Which means, any of these three types of objects need to access their topologically-adjacent members - which could also be either a Vertex, or an Edge, or a Face.</p>
 <figure>
 <p><img alt="Topoceros Edge Walk" src="https://raw.githubusercontent.com/thekaushikls/Topoceros/main/Assets/Topoceros_EdgeWalk_Compressed.gif" />
@@ -2608,7 +2608,7 @@
 ✅ - Implemented 
 ⚠️ - Partially Implemented</p>
 <p>Before these additional methods are implemented, it is preferable to define what the terms - Adjacent Vertices / Edges / Faces, mean for each Sub-Element type.</p>
-<h3 id="adjacent-vertices">Adjacent Vertices</h3>
+<h3 id="adjacent-vertices">Adjacent Vertices<a class="headerlink" href="#adjacent-vertices" title="Permanent link">&para;</a></h3>
 <div class="admonition warning">
 <p class="admonition-title">Missing Illustration</p>
 <p>Adjacent Vertices</p>
@@ -2618,7 +2618,7 @@
 <li>for an <strong>EDGE</strong> - refers to the pair of Start and End vertices of the current edge.</li>
 <li>for a <strong>FACE</strong> - refers to all the vertices that surround the current face.</li>
 </ol>
-<h3 id="adjacent-edges">Adjacent Edges</h3>
+<h3 id="adjacent-edges">Adjacent Edges<a class="headerlink" href="#adjacent-edges" title="Permanent link">&para;</a></h3>
 <div class="admonition warning">
 <p class="admonition-title">Missing Illustration</p>
 <p>Adjacent Edges</p>
@@ -2628,7 +2628,7 @@
 <li>for an <strong>EDGE</strong> - refers to the collection of <code>AdjacentEdges</code> of both Start and End vertices of the current edge.</li>
 <li>for a <strong>FACE</strong> - refers to all the edges that make up the boundary of the current face.</li>
 </ol>
-<h3 id="adjacent-faces">Adjacent Faces</h3>
+<h3 id="adjacent-faces">Adjacent Faces<a class="headerlink" href="#adjacent-faces" title="Permanent link">&para;</a></h3>
 <div class="admonition warning">
 <p class="admonition-title">Missing Illustration</p>
 <p>Adjacent Faces</p>
@@ -2638,15 +2638,15 @@
 <li>for an <strong>EDGE</strong> - refers to all the faces that is bounded by the current edge.</li>
 <li>for a <strong>FACE</strong> - refers to all faces that surround the current face.</li>
 </ol>
-<h2 id="implementation-strategies">Implementation Strategies</h2>
-<h3 id="building-the-mvp">Building the MVP</h3>
+<h2 id="implementation-strategies">Implementation Strategies<a class="headerlink" href="#implementation-strategies" title="Permanent link">&para;</a></h2>
+<h3 id="building-the-mvp">Building the MVP<a class="headerlink" href="#building-the-mvp" title="Permanent link">&para;</a></h3>
 <div class="admonition warning">
 <p class="admonition-title">Missing Illustration</p>
 <p>Python Components and Results</p>
 </div>
 <p>To test the idea, I created a simplified version using the <code>GhPython</code> scripting components. While it is not feature rich, it works! It is possible to perform graph traversal like operations on a <code>Brep</code> . A more sophisticated version would be worth the time.</p>
 <p>But first, here is what I learnt from building the MVP.</p>
-<h3 id="1-extending-rhinocommon">1. Extending RhinoCommon</h3>
+<h3 id="1-extending-rhinocommon">1. Extending RhinoCommon<a class="headerlink" href="#1-extending-rhinocommon" title="Permanent link">&para;</a></h3>
 <p>The straightforward way to implement the above missing methods would be to add <code>Extension Methods</code> directly for the existing classes. However, life is not that simple, and there are a few challenges yet to be addressed.</p>
 <div class="admonition warning">
 <p class="admonition-title">Missing Illustration</p>
@@ -2658,7 +2658,7 @@
 <figcaption>Type casting in native component</figcaption>
 </figure>
 <p>It is to be noted that the <code>BrepVertex</code>, <code>BrepEdge</code>, and <code>BrepFace</code> classes inherit from Point, Curve, and Surface classes respectively. When one of these objects are output from a <code>GH_Component</code> object, it is automatically casted to the base classes resulting in loss of information about its topology.</p>
-<h3 id="2-wrapping-them-instead">2. Wrapping them instead!</h3>
+<h3 id="2-wrapping-them-instead">2. Wrapping them instead!<a class="headerlink" href="#2-wrapping-them-instead" title="Permanent link">&para;</a></h3>
 <p>Writing wrapper classes although a long route, currently seems like the best approach that balances between easy implementation, and avoiding complexity. As a bonus, custom Interfaces can be implemented to identify the wrapped objects when we create Grasshopper Components.</p>
 <table>
 <thead>
@@ -2682,8 +2682,8 @@
 </tr>
 </tbody>
 </table>
-<h2 id="creating-the-components">Creating the Components</h2>
-<h3 id="ux-considerations">UX Considerations</h3>
+<h2 id="creating-the-components">Creating the Components<a class="headerlink" href="#creating-the-components" title="Permanent link">&para;</a></h2>
+<h3 id="ux-considerations">UX Considerations<a class="headerlink" href="#ux-considerations" title="Permanent link">&para;</a></h3>
 <p>Although it is exciting to work on implementing custom component UI , or viewport graphics, this project aims to make the user-experience as seamless as possible. </p>
 <p>Also, since the components only expose the already available methods, it is preferable not to create a new plugin tab, and instead be added to the relevant existing tabs - <code>Surface</code> tab in this case.</p>
 <figure>
@@ -2698,8 +2698,8 @@
 <li>Components need to support casting from / to native data types when required.</li>
 <li>Data needs to Serializable, so it can be retained in the file(s).</li>
 </ul>
-<h2 id="applications-usage">Applications &amp; Usage</h2>
-<h3 id="1-space-syntax-planning">1. Space Syntax &amp; Planning</h3>
+<h2 id="applications-usage">Applications &amp; Usage<a class="headerlink" href="#applications-usage" title="Permanent link">&para;</a></h2>
+<h3 id="1-space-syntax-planning">1. Space Syntax &amp; Planning<a class="headerlink" href="#1-space-syntax-planning" title="Permanent link">&para;</a></h3>
 <figure>
 <p><img alt="Topoceros Space Syntax" src="https://raw.githubusercontent.com/thekaushikls/Topoceros/main/Assets/Topoceros_Sample_SpaceSyntax_Compressed.gif" />
   </p>
@@ -2712,12 +2712,12 @@
 <li>Can it be used as a condition to test fitness of plan?</li>
 </ol>
 </div>
-<h2 id="references">References</h2>
+<h2 id="references">References<a class="headerlink" href="#references" title="Permanent link">&para;</a></h2>
 <ol>
 <li><a href="https://developer.rhino3d.com/api/rhinocommon/rhino.geometry.brep">RhinoCommon: Brep class</a></li>
 </ol>
 <hr />
-<h2 id="read-also">Read Also</h2>
+<h2 id="read-also">Read Also<a class="headerlink" href="#read-also" title="Permanent link">&para;</a></h2>
 <ol>
 <li><a href="../Boundary-Representation-Modeling/">Boundary-Representation-Modeling</a></li>
 <li><a href="../Doubly-Connected-Edge-List/">Doubly-Connected-Edge-List</a></li>

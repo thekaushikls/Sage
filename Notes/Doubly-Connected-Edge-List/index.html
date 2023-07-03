@@ -2431,7 +2431,7 @@
   
 
 
-<h1 id="doubly-connected-edge-list">Doubly-Connected-Edge-List</h1>
+<h1 id="doubly-connected-edge-list">Doubly-Connected-Edge-List<a class="headerlink" href="#doubly-connected-edge-list" title="Permanent link">&para;</a></h1>
 <p><em>Created</em> : 16-02-2022 10:13
 <br><em>Tags</em> : #DataStructure #DCEL #Mesh #Geometry #Modeling #Graph #HalfEdge #SubDivision #PlanarGraph #HDS</p>
 <hr />
@@ -2439,15 +2439,15 @@
 <p class="admonition-title">Note</p>
 <p>For implementation details, see <a href="../DCEL-Implementation/">DCEL-Implementation</a></p>
 </div>
-<h2 id="about">About</h2>
+<h2 id="about">About<a class="headerlink" href="#about" title="Permanent link">&para;</a></h2>
 <ul>
 <li>Also known as Half-Edge Data Structure HDS, or Planar Graph.</li>
 <li>The Doubly Connected Edge List or DCEL is a type of graph data structure that represents 2D geometry.</li>
 <li>A DCEL can represent most geometries using considerably less memory.</li>
 <li>It provides a balanced solution between complication and sophistication of handling large mesh-like geometry data.</li>
 </ul>
-<h2 id="basic-structure">Basic Structure</h2>
-<h3 id="vertex">Vertex</h3>
+<h2 id="basic-structure">Basic Structure<a class="headerlink" href="#basic-structure" title="Permanent link">&para;</a></h2>
+<h3 id="vertex">Vertex<a class="headerlink" href="#vertex" title="Permanent link">&para;</a></h3>
 <ul>
 <li>Vertex belongs as a reference in the Half-Edge. But can also exist as individual object directly on the DCEL.</li>
 <li>Represents a point / location in 2D or 3D space.</li>
@@ -2457,19 +2457,19 @@
 <p class="admonition-title">Question</p>
 <p>Can a vertex be considered as a Half-Edge that starts and ends at the same place? <em>(A zero length Half-Edge)</em></p>
 </div>
-<h3 id="half-edge">Half-Edge</h3>
+<h3 id="half-edge">Half-Edge<a class="headerlink" href="#half-edge" title="Permanent link">&para;</a></h3>
 <ul>
 <li>Half-Edge belongs directly in the DCEL.</li>
 <li>Represents a connection between 2 vertices, typically a Line Segment.</li>
 <li>Also forms a part of the boundary of a Face that it belongs to.</li>
 </ul>
-<h3 id="face">Face</h3>
+<h3 id="face">Face<a class="headerlink" href="#face" title="Permanent link">&para;</a></h3>
 <ul>
 <li>Face belongs as a reference in the Half-Edges.</li>
 <li>Represents any region surrounded by edges, typically a surface.</li>
 <li>There is one default face - Outer Face in a DCEL that may / may not consist the outer boundary.</li>
 </ul>
-<h2 id="adaptation">Adaptation</h2>
+<h2 id="adaptation">Adaptation<a class="headerlink" href="#adaptation" title="Permanent link">&para;</a></h2>
 <p>Various implementations of DCEL exist, and for various purposes. There are ones that allow overlapping (but not intersecting) half-edges, and even to represent 3-dimensional geometry.</p>
 <div class="admonition info">
 <p class="admonition-title">Traversal</p>
@@ -2479,15 +2479,15 @@
 <p class="admonition-title">Implementation</p>
 <p>DCEL is a low-level implementation layer. User control is provided by wrapper classes.</p>
 </div>
-<h3 id="advantage-over-brep">Advantage over BREP</h3>
+<h3 id="advantage-over-brep">Advantage over BREP<a class="headerlink" href="#advantage-over-brep" title="Permanent link">&para;</a></h3>
 <ul>
 <li>Unlike a BREP, they do not allow intersection / overlapping edges. They implement sub-division automatically.</li>
 </ul>
-<h3 id="advantages-over-mesh">Advantages over Mesh</h3>
+<h3 id="advantages-over-mesh">Advantages over Mesh<a class="headerlink" href="#advantages-over-mesh" title="Permanent link">&para;</a></h3>
 <ul>
 <li>Unlike a mesh, DCEL stores information using half-edges. These half-edges are then queried to obtain information about vertices, and faces.</li>
 </ul>
-<h2 id="references">References</h2>
+<h2 id="references">References<a class="headerlink" href="#references" title="Permanent link">&para;</a></h2>
 <ol>
 <li><a href="https://graphics.stanford.edu/courses/cs268-16-fall/Notes/halfedge.pdf">Designing and implementing a general purpose halfedge data structure</a> by Hervé Brönnimann</li>
 <li><a href="[https://doc.cgal.org/latest/HalfedgeDS/index.html](https://doc.cgal.org/latest/HalfedgeDS/index.html)">CGAL 5.5.2 - Halfedge Data Structures</a></li>
@@ -2499,7 +2499,7 @@
 <li><a href="https://www.youtube.com/watch?v=enb13mZ7Pq4&amp;list=PLtTatrCwXHzEqzJMaTUFgqoCNllgwk4DH">04 01 Doubly connected edge list</a> by <a href="https://www.youtube.com/@peymanafshani9304">peyman afshani</a> on YouTube</li>
 </ol>
 <hr />
-<h2 id="read-also">Read Also</h2>
+<h2 id="read-also">Read Also<a class="headerlink" href="#read-also" title="Permanent link">&para;</a></h2>
 <ol>
 <li><a href="../Boundary-Representation-Modeling/">Boundary-Representation-Modeling</a></li>
 <li><a href="../DCEL-Implementation/">DCEL-Implementation</a></li>
