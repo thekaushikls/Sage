@@ -21,7 +21,7 @@
         <link rel="next" href="../Voltage-Stabilizers/">
       
       <link rel="icon" href="../../Resources/Icons_brain_512x512.png">
-      <meta name="generator" content="mkdocs-1.4.3, mkdocs-material-9.1.17">
+      <meta name="generator" content="mkdocs-1.4.3, mkdocs-material-9.1.18">
     
     
       
@@ -2090,15 +2090,15 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#get-topoceros" class="md-nav__link">
-    Get Topoceros
+  <a href="#introduction" class="md-nav__link">
+    Introduction
   </a>
   
 </li>
       
         <li class="md-nav__item">
-  <a href="#introduction" class="md-nav__link">
-    Introduction
+  <a href="#get-topoceros" class="md-nav__link">
+    Get Topoceros
   </a>
   
 </li>
@@ -2146,8 +2146,8 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#building-the-mvp" class="md-nav__link">
-    Building the MVP
+  <a href="#0-building-the-mvp" class="md-nav__link">
+    0. Building the MVP
   </a>
   
 </li>
@@ -2166,22 +2166,9 @@
   
 </li>
         
-      </ul>
-    </nav>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#creating-the-components" class="md-nav__link">
-    Creating the Components
-  </a>
-  
-    <nav class="md-nav" aria-label="Creating the Components">
-      <ul class="md-nav__list">
-        
           <li class="md-nav__item">
-  <a href="#ux-considerations" class="md-nav__link">
-    UX Considerations
+  <a href="#3-ux-considerations" class="md-nav__link">
+    3. UX Considerations
   </a>
   
 </li>
@@ -2192,11 +2179,18 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#applications-usage" class="md-nav__link">
-    Applications &amp; Usage
+  <a href="#usage" class="md-nav__link">
+    Usage
   </a>
   
-    <nav class="md-nav" aria-label="Applications & Usage">
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#example" class="md-nav__link">
+    Example
+  </a>
+  
+    <nav class="md-nav" aria-label="Example">
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
@@ -2386,15 +2380,15 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#get-topoceros" class="md-nav__link">
-    Get Topoceros
+  <a href="#introduction" class="md-nav__link">
+    Introduction
   </a>
   
 </li>
       
         <li class="md-nav__item">
-  <a href="#introduction" class="md-nav__link">
-    Introduction
+  <a href="#get-topoceros" class="md-nav__link">
+    Get Topoceros
   </a>
   
 </li>
@@ -2442,8 +2436,8 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#building-the-mvp" class="md-nav__link">
-    Building the MVP
+  <a href="#0-building-the-mvp" class="md-nav__link">
+    0. Building the MVP
   </a>
   
 </li>
@@ -2462,22 +2456,9 @@
   
 </li>
         
-      </ul>
-    </nav>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#creating-the-components" class="md-nav__link">
-    Creating the Components
-  </a>
-  
-    <nav class="md-nav" aria-label="Creating the Components">
-      <ul class="md-nav__list">
-        
           <li class="md-nav__item">
-  <a href="#ux-considerations" class="md-nav__link">
-    UX Considerations
+  <a href="#3-ux-considerations" class="md-nav__link">
+    3. UX Considerations
   </a>
   
 </li>
@@ -2488,11 +2469,18 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#applications-usage" class="md-nav__link">
-    Applications &amp; Usage
+  <a href="#usage" class="md-nav__link">
+    Usage
   </a>
   
-    <nav class="md-nav" aria-label="Applications & Usage">
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#example" class="md-nav__link">
+    Example
+  </a>
+  
+    <nav class="md-nav" aria-label="Example">
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
@@ -2543,7 +2531,15 @@
 <p><em>Created</em> : 05-05-2023 11:17
 <br><em>Tags</em> : #Grasshopper #Plugin #Topology #OpenSource #MIT #Project #BREP #Graph #DataStructure #dotNET #Rhino</p>
 <hr />
-<h3 id="get-topoceros">Get Topoceros<a class="headerlink" href="#get-topoceros" title="Permanent link">&para;</a></h3>
+<h2 id="introduction">Introduction<a class="headerlink" href="#introduction" title="Permanent link">&para;</a></h2>
+<p>I have been working a bit on Data Structures in the Rhino / Grasshopper and .NET environment. One of the interesting ideas I came across was to utilize the topology of a <code>Brep</code> to perform traversal operations since the structure of a <code>Brep</code> somewhat resembles a graph of interlinked sub-elements.</p>
+<p>In theory, one can start at any sub-element (Vertex / Edge / Face) and find it's neighboring sub-element(s). Repeat this enough times (the right way), and we have our goal sub-element reached. This could be used to understand the topology of complex geometries, perform checks based on neighboring element(s), or even filter and extract geometric information. As a part of exploring this idea and learning more, I wanted to try using with the <code>Brep</code> object from RhinoCommon. </p>
+<div class="admonition tip">
+<p class="admonition-title">Trivia</p>
+<p>The name 'Topoceros' is a combination of 'Topology' and 'Rhinoceros' - representing the topological extensions to Rhinoceros(software).</p>
+</div>
+<h2 id="get-topoceros">Get Topoceros<a class="headerlink" href="#get-topoceros" title="Permanent link">&para;</a></h2>
+<p>See also <a href="#usage">Usage</a></p>
 <ol>
 <li>✅ Stable release on <a href="https://www.food4rhino.com/en/app/topoceros">food4Rhino.com</a> or Package Manager</li>
 <li>⭕ Build from <a href="https://github.com/thekaushikls/Topoceros/releases/latest">GitHub Repo</a></li>
@@ -2554,18 +2550,11 @@
 <div class="language-text highlight"><pre><span></span><code><span id="__span-0-1"><a id="__codelineno-0-1" name="__codelineno-0-1" href="#__codelineno-0-1"></a>_-PackageManager Search Topoceros
 </span></code></pre></div></p>
 </div>
-<hr />
-<h2 id="introduction">Introduction<a class="headerlink" href="#introduction" title="Permanent link">&para;</a></h2>
-<p>I have been working a bit on Data Structures in the Rhino / Grasshopper and .NET environment. One of the interesting ideas I came across was to utilize the topology of a <code>Brep</code> to perform traversal operations since the structure of a <code>Brep</code> somewhat resembles a graph of interlinked sub-elements.</p>
-<p>In theory, one can start at any sub-element (Vertex / Edge / Face) and find it's neighboring sub-element(s). Repeat this enough times (the right way), and we have our goal sub-element reached. This could be used to understand the topology of complex geometries, perform checks based on neighboring element(s), or even filter and extract geometric information.</p>
-<div class="admonition note">
-<p class="admonition-title">Note</p>
-<p>As a part of exploring this idea and learning more, I wanted to try using with the <code>Brep</code> object from RhinoCommon. </p>
-</div>
-<div class="admonition tip">
-<p class="admonition-title">Trivia</p>
-<p>The name 'Topoceros' is a combination of 'Topology' and 'Rhinoceros' - representing the topological extensions to Rhinoceros(software).</p>
-</div>
+<figure>
+<p><img alt="Topoceros Package Manager" src="https://raw.githubusercontent.com/thekaushikls/Topoceros/main/Assets/Topoceros_PackageManager.png" />
+  </p>
+<figcaption><a href="https://github.com/thekaushikls/Topoceros" target="_blank">Topoceros</a> can be installed directly from the <a href="https://developer.rhino3d.com/guides/yak/what-is-yak/" target="_blank">Yak Package Manager</a></figcaption>
+</figure>
 <h2 id="scope">Scope<a class="headerlink" href="#scope" title="Permanent link">&para;</a></h2>
 <p>The aim involves being able to traverse between Vertex, Edge, and Face interchangeably. Which means, any of these three types of objects need to access their topologically-adjacent members - which could also be either a Vertex, or an Edge, or a Face.</p>
 <figure>
@@ -2609,49 +2598,40 @@
 ⚠️ - Partially Implemented</p>
 <p>Before these additional methods are implemented, it is preferable to define what the terms - Adjacent Vertices / Edges / Faces, mean for each Sub-Element type.</p>
 <h3 id="adjacent-vertices">Adjacent Vertices<a class="headerlink" href="#adjacent-vertices" title="Permanent link">&para;</a></h3>
-<div class="admonition warning">
-<p class="admonition-title">Missing Illustration</p>
-<p>Adjacent Vertices</p>
-</div>
 <ol>
 <li>for a <strong>VERTEX</strong> - refers to all the vertices that immediately surround the current vertex, and have an edge connected to them.</li>
 <li>for an <strong>EDGE</strong> - refers to the pair of Start and End vertices of the current edge.</li>
 <li>for a <strong>FACE</strong> - refers to all the vertices that surround the current face.</li>
 </ol>
 <h3 id="adjacent-edges">Adjacent Edges<a class="headerlink" href="#adjacent-edges" title="Permanent link">&para;</a></h3>
-<div class="admonition warning">
-<p class="admonition-title">Missing Illustration</p>
-<p>Adjacent Edges</p>
-</div>
 <ol>
 <li>for a <strong>VERTEX</strong> - refers to all the edges that start or end from the current vertex.</li>
 <li>for an <strong>EDGE</strong> - refers to the collection of <code>AdjacentEdges</code> of both Start and End vertices of the current edge.</li>
 <li>for a <strong>FACE</strong> - refers to all the edges that make up the boundary of the current face.</li>
 </ol>
 <h3 id="adjacent-faces">Adjacent Faces<a class="headerlink" href="#adjacent-faces" title="Permanent link">&para;</a></h3>
-<div class="admonition warning">
-<p class="admonition-title">Missing Illustration</p>
-<p>Adjacent Faces</p>
-</div>
 <ol>
 <li>for a <strong>VERTEX</strong> - refers to all the faces that have one or more edges adjacent to the current vertex.</li>
 <li>for an <strong>EDGE</strong> - refers to all the faces that is bounded by the current edge.</li>
 <li>for a <strong>FACE</strong> - refers to all faces that surround the current face.</li>
 </ol>
 <h2 id="implementation-strategies">Implementation Strategies<a class="headerlink" href="#implementation-strategies" title="Permanent link">&para;</a></h2>
-<h3 id="building-the-mvp">Building the MVP<a class="headerlink" href="#building-the-mvp" title="Permanent link">&para;</a></h3>
-<div class="admonition warning">
-<p class="admonition-title">Missing Illustration</p>
-<p>Python Components and Results</p>
-</div>
+<p><strong>TL;DR</strong></p>
+<ul>
+<li>Components need to look and behave similar to the native components.</li>
+<li>Components need to support casting from / to native data types when required.</li>
+<li>Data needs to Serializable, so it can be retained in the file(s).</li>
+</ul>
+<h3 id="0-building-the-mvp">0. Building the MVP<a class="headerlink" href="#0-building-the-mvp" title="Permanent link">&para;</a></h3>
+<figure>
+<p><img alt="Python MVP" src="https://raw.githubusercontent.com/thekaushikls/Topoceros/main/Assets/Topoceros_PythonMVP.png" />
+  </p>
+<figcaption>Testing the Python MVP</figcaption>
+</figure>
 <p>To test the idea, I created a simplified version using the <code>GhPython</code> scripting components. While it is not feature rich, it works! It is possible to perform graph traversal like operations on a <code>Brep</code> . A more sophisticated version would be worth the time.</p>
 <p>But first, here is what I learnt from building the MVP.</p>
 <h3 id="1-extending-rhinocommon">1. Extending RhinoCommon<a class="headerlink" href="#1-extending-rhinocommon" title="Permanent link">&para;</a></h3>
 <p>The straightforward way to implement the above missing methods would be to add <code>Extension Methods</code> directly for the existing classes. However, life is not that simple, and there are a few challenges yet to be addressed.</p>
-<div class="admonition warning">
-<p class="admonition-title">Missing Illustration</p>
-<p>Casting sub-elements to geometry types.</p>
-</div>
 <figure>
 <p><img alt="Type casting in native component" src="https://raw.githubusercontent.com/thekaushikls/Topoceros/main/Assets/Topoceros_CastingProblem.png" />
   </p>
@@ -2682,36 +2662,35 @@
 </tr>
 </tbody>
 </table>
-<h2 id="creating-the-components">Creating the Components<a class="headerlink" href="#creating-the-components" title="Permanent link">&para;</a></h2>
-<h3 id="ux-considerations">UX Considerations<a class="headerlink" href="#ux-considerations" title="Permanent link">&para;</a></h3>
+<h3 id="3-ux-considerations">3. UX Considerations<a class="headerlink" href="#3-ux-considerations" title="Permanent link">&para;</a></h3>
 <p>Although it is exciting to work on implementing custom component UI , or viewport graphics, this project aims to make the user-experience as seamless as possible. </p>
 <p>Also, since the components only expose the already available methods, it is preferable not to create a new plugin tab, and instead be added to the relevant existing tabs - <code>Surface</code> tab in this case.</p>
 <figure>
 <p><img alt="Topoceros provides near-native experience" src="https://raw.githubusercontent.com/thekaushikls/Topoceros/main/Assets/Topoceros_UxUiConsiderations.png" />
   </p>
-<figcaption>&gt;<a href="https://github.com/thekaushikls/Topoceros" target="_blank">Topoceros</a> provides near-native experience</figcaption>
+<figcaption><a href="https://github.com/thekaushikls/Topoceros" target="_blank">Topoceros</a> provides near-native experience</figcaption>
 </figure>
 <p>As an additional touch <em>(or the exception to the above ideology)</em> - it would be wiser to implement a custom <code>ToString()</code> method that explicitly shows that the output is not a native Grasshopper object. This is to inform the user that additional features are available, but also additional steps are required to extract the native geometry from these objects.</p>
-<p><strong>TL;DR</strong></p>
-<ul>
-<li>Components need to look and behave similar to the native components.</li>
-<li>Components need to support casting from / to native data types when required.</li>
-<li>Data needs to Serializable, so it can be retained in the file(s).</li>
-</ul>
-<h2 id="applications-usage">Applications &amp; Usage<a class="headerlink" href="#applications-usage" title="Permanent link">&para;</a></h2>
+<h2 id="usage">Usage<a class="headerlink" href="#usage" title="Permanent link">&para;</a></h2>
+<figure>
+<p><img alt="Topoceros Components" src="https://raw.githubusercontent.com/thekaushikls/Topoceros/main/Assets/Topoceros_Components.png" />
+  </p>
+<figcaption><a href="https://github.com/thekaushikls/Topoceros" target="_blank">Topoceros</a> components can be found under the <b>Surface Tab</b></figcaption>
+</figure>
+<h2 id="example">Example<a class="headerlink" href="#example" title="Permanent link">&para;</a></h2>
 <h3 id="1-space-syntax-planning">1. Space Syntax &amp; Planning<a class="headerlink" href="#1-space-syntax-planning" title="Permanent link">&para;</a></h3>
 <figure>
 <p><img alt="Topoceros Space Syntax" src="https://raw.githubusercontent.com/thekaushikls/Topoceros/main/Assets/Topoceros_Sample_SpaceSyntax_Compressed.gif" />
   </p>
 <figcaption><a href="https://github.com/thekaushikls/Topoceros" target="_blank">Topoceros</a> Space Syntax</figcaption>
 </figure>
-<div class="admonition note">
-<p class="admonition-title">Space Syntax Planning</p>
+<details class="note">
+<summary>Pending / Thoughts    </summary>
 <ol>
 <li>Understanding how spaces are arranged, and how they are connected.</li>
-<li>Can it be used as a condition to test fitness of plan?</li>
+<li>Can it be used as a criteria to test fitness of plan?</li>
 </ol>
-</div>
+</details>
 <h2 id="references">References<a class="headerlink" href="#references" title="Permanent link">&para;</a></h2>
 <ol>
 <li><a href="https://developer.rhino3d.com/api/rhinocommon/rhino.geometry.brep">RhinoCommon: Brep class</a></li>
@@ -2900,10 +2879,10 @@
       </div>
       <script>var consent=__md_get("__consent");if(consent)for(var input of document.forms.consent.elements)input.name&&(input.checked=consent[input.name]||!1);else"file:"!==location.protocol&&setTimeout(function(){document.querySelector("[data-md-component=consent]").hidden=!1},250);var action,form=document.forms.consent;for(action of["submit","reset"])form.addEventListener(action,function(e){if(e.preventDefault(),"reset"===e.type)for(var n of document.forms.consent.elements)n.name&&(n.checked=!1);__md_set("__consent",Object.fromEntries(Array.from(new FormData(form).keys()).map(function(e){return[e,!0]}))),location.hash="",location.reload()})</script>
     
-    <script id="__config" type="application/json">{"base": "../..", "features": ["header.autohide", "search.suggest", "search.highlight", "search.share", "navigation.top", "navigation.tracking", "navigation.path", "navigation.prune", "navigation.footer", "content.code.copy", "content.code.select"], "search": "../../assets/javascripts/workers/search.208ed371.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    <script id="__config" type="application/json">{"base": "../..", "features": ["header.autohide", "search.suggest", "search.highlight", "search.share", "navigation.top", "navigation.tracking", "navigation.path", "navigation.prune", "navigation.footer", "content.code.copy", "content.code.select"], "search": "../../assets/javascripts/workers/search.74e28a9f.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
     
     
-      <script src="../../assets/javascripts/bundle.b425cdc4.min.js"></script>
+      <script src="../../assets/javascripts/bundle.220ee61c.min.js"></script>
       
     
   </body>
