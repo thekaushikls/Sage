@@ -32,21 +32,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a18690c5e6060c44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Cost-Performance-Index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Cost-Performance-Index.md",
+                "file": "Notes/LCA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,9 +127,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "a18690c5e6060c44",
+  "active": "1f3f395ceffc3870",
   "lastOpenFiles": [
     "index.md",
+    "Notes/Cost-Performance-Index.md",
     "Goals.md",
     "About.md",
     "Notes/Topoceros.md",
@@ -150,7 +138,6 @@
     "Notes/LCA.md",
     "Notes/Index.md",
     "Notes/Grasshopper-XML.md",
-    "Notes/Cost-Performance-Index.md",
     "Projects",
     "Notes/Topologic_Graph-Machine_learning.md",
     "Notes/Degree_Of_Freedom_Mechanics.md",
