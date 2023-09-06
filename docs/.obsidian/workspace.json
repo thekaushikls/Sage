@@ -10,12 +10,43 @@
           {
             "id": "1f3f395ceffc3870",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notes/LCA.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "7397ab3db224394d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a18690c5e6060c44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Cost-Performance-Index.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -65,7 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5026054382324
+    "width": 248.51103591918945
   },
   "right": {
     "id": "35f2a9e275680db8",
@@ -81,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/Cost-Performance-Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,14 +140,27 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "e15b6b64d354c5de",
+  "active": "a18690c5e6060c44",
   "lastOpenFiles": [
+    "index.md",
+    "Goals.md",
+    "About.md",
+    "Notes/Topoceros.md",
+    "Notes/Revit.md",
+    "Notes/LCA.md",
+    "Notes/Index.md",
+    "Notes/Grasshopper-XML.md",
+    "Notes/Cost-Performance-Index.md",
+    "Projects",
+    "Notes/Topologic_Graph-Machine_learning.md",
+    "Notes/Degree_Of_Freedom_Mechanics.md",
+    "Notes/Grasshopper_XML.md",
+    "Archive/FleetingNotes/Untitled.md",
+    "Archive/Fleets",
     "Notes/GitHub-Event-Object.md",
     "Notes/Build-Tools-around-Workflows-not-Workflows-around-Tools.md",
     "Notes/Computational-Design-versus-Large-Language-Models.md",
     "Notes/Constructive-Solid-Geometry-Modeling.md",
-    "Notes/Topoceros.md",
-    "Notes/Cost-Performance-Index.md",
     "Templates/Reference Template.md",
     "Notes/My Notes Workflow.md",
     "Notes/Boundary-Representation-Modeling.md",
@@ -125,17 +170,6 @@
     "Notes/GitHub-Actions.md",
     "Archive/FleetingNotes/Food/Yakisoba.md",
     "Archive/FleetingNotes/Architecture as a Business.md",
-    "Archive/FleetingNotes/Abstract.md",
-    "Goals.md",
-    "Templates/Note Template.md",
-    "Templates/Travel Template.md",
-    "Topoceros.md",
-    "index.md",
-    "About.md",
-    "Notes.md",
-    "Archive/index.md",
-    "Notes/Voxel-Modeling.md",
-    "Notes/Voltage-Stabilizers.md",
     "Notes/Travel",
     "Project",
     "Templates",
