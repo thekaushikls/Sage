@@ -1,8 +1,12 @@
 {
-  "baseFontSize": 14,
+  "baseFontSize": 10,
   "enabledCssSnippets": [
     "style"
   ],
-  "accentColor": "#00bd6b",
-  "theme": "system"
+  "accentColor": "#383838",
+  "theme": "moonstone",
+  "cssTheme": "Obsidianotion",
+  "nativeMenus": false,
+  "translucency": false,
+  "showViewHeader": true
 }

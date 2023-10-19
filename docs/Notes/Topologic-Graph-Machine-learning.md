@@ -25,14 +25,7 @@ IFC is graph based. It has references between objects, which can be represented 
 #DualGraph - representation of space between the cellcomplex (Rooms)  are represented as vertices.
 So this graph actually spans from centroid to centroid
 #MinimumSpanningTree - minimum tree structure that visits all vertices exactly once ina cyclic manner.
-
-
-
-
-
-
-
-## Questions 
+## Questions
 1. Topologic uses Non-Manifold cell-complexes. How does the data structure look like?
 2. Question about API design. What is the reason to make all the methods work like a static method? Why not implement like " vertex.SetDictionary(my_dictionary) "?
 
