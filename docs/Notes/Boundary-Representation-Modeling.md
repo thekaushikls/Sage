@@ -1,7 +1,14 @@
-# Boundary-Representation-Modeling
-*Created* : 16-05-2023 12:42
-<br>*Tags* : #BREP #Geometry #CAD #Mathematics #CAM #Modeling
 ---
+tags:
+  - BREP
+  - Geometry
+  - CAD
+  - Mathematics
+  - CAM
+  - Modeling
+created: 16-05-2023 12:42
+---
+# Boundary-Representation-Modeling
 
 ## About
 

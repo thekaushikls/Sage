@@ -5,6 +5,8 @@
   "graph",
   "backlink",
   "canvas",
+  "outgoing-link",
+  "tag-pane",
   "properties",
   "page-preview",
   "templates",
@@ -13,6 +15,7 @@
   "editor-status",
   "bookmarks",
   "markdown-importer",
+  "outline",
   "word-count",
   "file-recovery"
 ]

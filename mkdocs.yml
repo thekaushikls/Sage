@@ -1,5 +1,6 @@
   # Project Information
 site_name: Second Brain
+docs_dir: docs
 site_url: https://thekaushikls.github.io/SecondBrain
 site_author: Kaushik LS
 site_description: >-

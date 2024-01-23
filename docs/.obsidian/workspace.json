@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f33c5b1540570905",
+        "id": "28d833faeb17fdfa",
         "type": "tabs",
         "children": [
           {
-            "id": "291d377412a5e1ce",
+            "id": "93eb7f41fcae97a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Grasshopper-Plugin-Review-Gatekeeper.md",
+                "file": "Notes/Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "f36100070628e2ab",
+            "id": "025ab64f9143bee8",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.51103591918945
+    "width": 229.51103591918945
   },
   "right": {
     "id": "35f2a9e275680db8",
@@ -85,9 +85,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Grasshopper-Plugin-Review-Gatekeeper.md",
+                "file": "Notes/Index.md",
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -97,12 +97,47 @@
             }
           },
           {
-            "id": "d4957fb10f927393",
+            "id": "268b12c75b43b2de",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Notes/Index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c83c10e00545aeab",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notes/Index.md"
+              }
+            }
+          },
+          {
+            "id": "24d04bd37dfcdfe6",
             "type": "leaf",
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "c637a2cc2650ccb8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
               }
             }
           }
@@ -123,40 +158,35 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "291d377412a5e1ce",
+  "active": "93eb7f41fcae97a1",
   "lastOpenFiles": [
-    "Notes/Grasshopper-Plugin-Review-Gatekeeper.md",
-    "Notes/Doubly-Connected-Edge-List.md",
-    "Notes/GitHub-Actions.md",
-    "Notes/Are-Humans-Carbon-Reservoirs.md",
-    "Goals.md",
-    "Notes/VSON.md",
-    "Notes/RAID-Configuration.md",
-    "Notes/LCA.md",
-    "Notes/Index.md",
-    "Notes/GitHub-Event-Object.md",
-    "Notes/DCEL-Implementation.md",
-    "Templates/Note Template.md",
-    "Notes/Test-Note.md",
-    "Notes/Ikigai.md",
-    "Notes/Boundary-Representation-Modeling.md",
-    "Sample.canvas",
-    "Notes/Income-Tax-India.md",
-    "Templates/Reference Template.md",
-    "Templates/Map of Contents.md",
-    "About.md",
     "index.md",
-    "Notes/Topologic-Graph-Machine-learning.md",
-    "Notes/Topoceros.md",
-    "Notes/Revit.md",
-    "Notes/Cost-Performance-Index.md",
-    "Notes/Grasshopper-XML.md",
-    "Projects",
-    "Notes/Topologic_Graph-Machine_learning.md",
-    "Archive/Fleets",
-    "Notes/Travel",
-    "Project",
-    "Templates",
-    "Notes/Templates"
+    "Templates/Map of Contents.md",
+    "Templates/Note Template.md",
+    "Templates/Reference Template.md",
+    "About.md",
+    "Goals.md",
+    "Notes/Build-Tools-around-Workflows-not-Workflows-around-Tools.md",
+    "Notes/3D-Printing-Settings.md",
+    "Scribbles/Proposal-for-Jorge-EnzymeAPD 1.md",
+    "Scribbles/Proposal-for-Jorge-EnzymeAPD.md",
+    "Scribbles/IfClothesCouldSpeak-LinkedIn.md",
+    "Scribbles/ProjectDahaka.md",
+    "Scribbles/ProductFit.md",
+    "Scribbles",
+    "Notes/Are-Humans-Carbon-Reservoirs.md",
+    "Notes/Boundary-Representation-Modeling.md",
+    "Notes/Index.md",
+    "Notes/footer.html.md",
+    "Resources/Icons_brain_512x512.png",
+    "LiteratureNotes/Building Science/Embodied Carbon.md",
+    "FleetingNotes/Productivity/The Zettelkasten Method.md",
+    "FleetingNotes/Productivity/Obsidian UX.md",
+    "FleetingNotes/Productivity/Zettelkasten using Obsidian.md",
+    "FleetingNotes/Technology/Untitled.md",
+    "FleetingNotes/Building Science/Embodied Carbon.md",
+    "FleetingNotes/Computers/Workstations.md",
+    "FleetingNotes/Computers/Gaming Laptop.md",
+    "LiteratureNotes/Technology/Gaming Laptop.md"
   ]
 }

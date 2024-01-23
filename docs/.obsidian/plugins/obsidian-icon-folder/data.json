@@ -1,17 +1,11 @@
 {
   "settings": {
-    "migrated": 2,
+    "migrated": 3,
     "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
     "fontSize": 16,
     "emojiStyle": "native",
-    "iconColor": null,
-    "recentlyUsedIcons": [
-      "🚀",
-      "📒",
-      "🚩",
-      "ℹ",
-      "FasInfo"
-    ],
+    "iconColor": "#ff00ae",
+    "recentlyUsedIcons": [],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -20,13 +14,10 @@
       "bottom": 0,
       "left": 0
     },
-    "iconInTabsEnabled": true
-  },
-  "Archive": "SiInternetarchive",
-  "Notes": "FasNoteSticky",
-  "Resources": "FasCoins",
-  "Templates": "FasStamp",
-  "About.md": "🚩",
-  "Goals.md": "🚀",
-  "index.md": "📒"
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInFrontmatterEnabled": false,
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true
+  }
 }
