@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a186488694a1a989",
+        "id": "4d7e77e32e3f50b9",
         "type": "tabs",
         "children": [
           {
-            "id": "46cbd43b45cc8433",
+            "id": "3fac223eb614cdc7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,9 +107,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "index.md"
-              }
+              "state": {}
             }
           },
           {
@@ -146,9 +138,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "index.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -167,9 +157,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "46cbd43b45cc8433",
+  "active": "3fac223eb614cdc7",
   "lastOpenFiles": [
+    "Notes/index.md",
     "index.md",
+    "Projects/Zettelkasten-X-Obsidian.md",
+    "Projects/index.md",
+    "Templates/index.md",
+    "().md",
     "Notes/Protein-for-the-Body.md",
     "Notes/Macro-Nutrients.md",
     "Notes/Micro-Nutrients.md",
@@ -192,11 +187,6 @@
     "tags.md",
     "Notes/LCA.md",
     "Notes/Voltage-Stabilizers.md",
-    "Notes/Constructive-Solid-Geometry-Modeling.md",
-    "Templates/Map of Contents.md",
-    "Notes/index.md",
-    "Notes/The-Zettelkasten-Method.md",
-    "Notes/Urban-Heat-Island.md",
     "🧪 Projects",
     "Resources/Icon_256x256.ico",
     "Resources/Icon_256x256.png",
