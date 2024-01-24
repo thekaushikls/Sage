@@ -1,0 +1,14 @@
+{
+  "baseFontSize": 15,
+  "enabledCssSnippets": [
+    "style"
+  ],
+  "accentColor": "#f55c5c",
+  "theme": "system",
+  "cssTheme": "",
+  "nativeMenus": false,
+  "translucency": false,
+  "showViewHeader": true,
+  "textFontFamily": "",
+  "interfaceFontFamily": ""
+}

@@ -1,25 +1,26 @@
   # Project Information
-site_name: Second Brain
-docs_dir: docs
-site_url: https://thekaushikls.github.io/SecondBrain
-site_author: Kaushik LS
+site_name: Sage 2.0
+docs_dir: sage
+site_url: https://thekaushikls.github.io/Sage
+site_author: Kaushik L. S.
 site_description: >-
     Personal knowledge management using the Zettelkasten method.
 
 # Repository Information
-repo_name: thekaushikls/SecondBrain
-repo_url: https://github.com/thekaushikls/SecondBrain
-edit_uri: https://github.com/thekaushikls/SecondBrain/tree/main/docs/
+repo_name: thekaushikls/Sage
+repo_url: https://github.com/thekaushikls/Sage
+edit_uri: https://github.com/thekaushikls/Sage/tree/main/docs/
 
 # Site navigation
 #nav:
-#  - 🚩 Home: index.md
-#  - 📒 Notes: Contents.md
-#  - 🚀 Goals: Goals.md
+#  - 👋 Welcome!: index.md
+#  - ✏️ Notes: ✏️ Notes/index.md
+#  - 🧪 Projects: 🧪 Projects/index.md
+#  - 📦 Archive: Archive/index.md
 
 #region Site Footer
 # Copyright Information
-copyright: Copyright &copy; 2023 <a href="https://github.com/thekaushikls">Kaushik LS</a>
+copyright: Copyright &copy; 2024 <a href="https://github.com/thekaushikls">Kaushik L. S.</a>
 
 extra:
   # Social Media links in Footer
@@ -38,15 +39,14 @@ extra:
     
     - name: Email
       icon: fontawesome/solid/envelope
-      link: mailto:kaushiklsk96+secondbrain@gmail.com
+      link: mailto:kaushiklsk96+sage@gmail.com
       
   consent:
-    title: Cookie consent
-    description: >- 
-      We use cookies to recognize your repeated visits and preferences, as well
-      as to measure the effectiveness of our documentation and whether users
-      find what they're searching for. With your consent, you're helping us to
-      make our documentation better.
+    title: Cookie Policy
+    description: >-
+      This site uses cookies to recognize your theme preference.
+    actions:
+      - accept
 #endregion Site Footer
 
 #region Extensions & Plugins
@@ -86,8 +86,8 @@ theme:
     code: Roboto Mono
 
   # Icons
-  logo: Resources\Icons_brain_512x512.png
-  favicon: Resources\Icons_brain_512x512.png
+  logo: Resources/Icon_256x256.png
+  favicon: Resources/Icon_256x256.ico
   icon:
     repo: fontawesome/brands/github
     edit: fontawesome/solid/pencil
@@ -114,10 +114,10 @@ theme:
     # Color Scheme for Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: green
-      accent: yellow
+      primary: black
+      accent: red
       toggle:
-        icon: material/toggle-switch-off
+        icon: material/white-balance-sunny
         name: Switch to light mode
       
     # Color Scheme for Light mode
@@ -126,7 +126,7 @@ theme:
       primary: black
       accent: red
       toggle:
-        icon: material/toggle-switch
+        icon: material/weather-night
         name: Switch to dark mode
       
   # Additional Features
@@ -143,6 +143,7 @@ theme:
     - navigation.top          # Back to top
     - navigation.tracking     # URL tracks headers
     #- navigation.sections    # Displays folders as sections
+    - nativation.indexes      # Documents can be directly attached to sections
     #- navigation.expand      # Auto Expand everything
     - navigation.path         # Breadcrumbs
     - navigation.prune        # Optimizes site by not rendering the entire navigation list
