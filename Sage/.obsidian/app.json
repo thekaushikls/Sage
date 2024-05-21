@@ -1,0 +1,16 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "foldHeading": false,
+  "showLineNumber": true,
+  "trashOption": "system",
+  "promptDelete": false,
+  "newFileLocation": "current",
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "Resources",
+  "showInlineTitle": false,
+  "spellcheck": true,
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": true,
+  "newLinkFormat": "relative"
+}

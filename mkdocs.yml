@@ -1,0 +1,190 @@
+  # Project Information
+site_name: Sage 2.0
+docs_dir: sage
+site_url: https://thekaushikls.github.io/Sage
+site_author: Kaushik L. S.
+site_description: >-
+    Kaushik's Digital Garden
+
+# Repository Information
+#repo_name: thekaushikls/Sage
+#repo_url: https://github.com/thekaushikls/Sage
+#edit_uri: https://github.com/thekaushikls/Sage/tree/main/docs/
+
+# The below folders (and files) are included in the build process.
+# They are just hidden from the main/home page.
+exclude_docs: |
+  Templates/
+  Resources/
+  Notes/
+
+#region Site Footer
+# Copyright Information
+copyright: Copyright &copy; 2024 <a href="https://github.com/thekaushikls">Kaushik L. S.</a>
+
+extra:
+  # Google Analytics & Feedback
+  analytics:
+    feedback:
+      title: Was this page helpful?
+      ratings:
+        - icon: material/emoticon-happy-outline
+          name: This page was helpful
+          data: 1
+          note: >-
+            Thanks for your feedback!
+        - icon: material/emoticon-sad-outline
+          name: This page could be improved
+          data: 0
+          note: >- 
+            Thanks for your feedback! Help us improve this page by
+            using our <a href="..." target="_blank" rel="noopener">feedback form</a>.
+
+  # Social Media links in Footer
+  social:
+    - name: GitHub
+      icon: fontawesome/brands/github
+      link: https://github.com/thekaushikls
+
+    - name: LinkedIn
+      icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/thekaushikls
+
+    - name: Medium
+      icon: fontawesome/brands/medium
+      link: https://thekaushikls.medium.com
+    
+    - name: Email
+      icon: fontawesome/solid/envelope
+      link: mailto:kaushiklsk96+sage@gmail.com
+      
+  consent:
+    title: Cookie Policy
+    description: >-
+      This site uses cookies to recognize your theme preference.
+    actions:
+      - accept
+#endregion Site Footer
+
+#region Extensions & Plugins
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.arithmatex:
+      generic: true
+  - footnotes
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.details
+  - pymdownx.superfences
+  - admonition
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: true
+
+extra_javascript:
+  - mkdocs/javascripts/mathjax.js
+  - mkdocs/javascripts/polyfill.js
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
+plugins:
+  # Search Box
+  - search:
+      # Query tokenization, allows searching special characters from code blocks
+      separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
+  #- autorefs
+  # Built-In Blog
+  - blog:
+      blog_dir: Blog
+      blog_toc: false                       # Show Table of Contents on blog index
+      post_excerpt: required                # Always require an excerpt
+      post_date_format: medium
+      draft: false                          # Publish posts marked as Draft
+      draft_on_serve: true                  # Preview posts marked as Draft
+#endregion Extensions & Plugins
+
+#region Theme Design
+theme:
+  name: material
+  highlightjs: true
+
+  # Typography
+  font: 
+    #false # Do not use Google Fonts
+    text: Roboto
+    code: Roboto Mono
+
+  # Icons
+  logo: Resources/Icon_256x256.png
+  favicon: Resources/Icon_256x256.ico
+  icon:
+    repo: fontawesome/brands/github
+    edit: fontawesome/solid/pencil
+    view: material/eye
+  
+    # Icons for Admonitions
+    admonition:
+      note: fontawesome/solid/note-sticky
+      abstract: fontawesome/solid/book
+      info: fontawesome/solid/circle-info
+      tip: fontawesome/solid/fire
+      success: fontawesome/solid/check
+      question: fontawesome/solid/circle-question
+      warning: fontawesome/solid/triangle-exclamation
+      failure: fontawesome/solid/bomb
+      danger: fontawesome/solid/skull
+      bug: fontawesome/solid/robot
+      example: fontawesome/solid/flask
+      quote: fontawesome/solid/quote-left
+
+  # Colors
+  palette:
+    # Color Scheme for Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: red
+      toggle:
+        icon: material/white-balance-sunny
+        name: Switch to light mode
+      
+    # Color Scheme for Light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: black
+      accent: red
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+      
+  # Additional Features
+  features:    
+    # Header
+    - header.autohide         # Hide Header when scrolling
+
+    # Search Box
+    - search.suggest          # Suggestions in search box
+    - search.highlight        # Highlights all occurences
+    - search.share            # Enables button to copy search query
+
+    # Navigation Bar / Path
+    - navigation.top          # Back to top
+    - navigation.tabs         # Displays a navigation menu below header
+    - navigation.tracking     # URL tracks headers
+    #- navigation.sections    # Displays folders as sections
+    #- nativation.indexes     # Documents can be directly attached to sections
+    #- navigation.expand      # Auto Expand everything
+    - navigation.path         # Breadcrumbs
+    - navigation.prune        # Optimizes site by not rendering the entire navigation list
+    #- navigation.footer      # Navigation to next page in footer
+    #- toc.integrate          # Combines Table of Contents with navigation list
+    
+    # Code Formatting
+    - content.code.copy       # Copy copy button in code block
+    - content.code.select     # Enable line selection in code block
+    #- content.code.annotate  # Tooltip from comment in code block
+    #- content.action.edit    # Enables the 'Edit on GitHub' button
+#endregion Theme Design
