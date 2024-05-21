@@ -25,6 +25,9 @@ copyright: Copyright &copy; 2024 <a href="https://github.com/thekaushikls">Kaush
 extra:
   # Google Analytics & Feedback
   analytics:
+    provider: google
+    property: G-6P3H00D9M9
+    
     feedback:
       title: Was this page helpful?
       ratings:
