@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c3b06b82306af8cf",
+        "id": "4b02610936712900",
         "type": "tabs",
         "children": [
           {
-            "id": "03b3e35f8fe19c7f",
+            "id": "e006054633c9d8f3",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -120,6 +120,18 @@
               "type": "outline",
               "state": {}
             }
+          },
+          {
+            "id": "b0af580d3365f7f5",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
           }
         ]
       }
@@ -132,28 +144,34 @@
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false
     }
   },
-  "active": "03b3e35f8fe19c7f",
+  "active": "e006054633c9d8f3",
   "lastOpenFiles": [
+    "Templates/Note-Template.md",
+    "Notes/Macro-Nutrients.md",
+    "Notes/RAID-Configuration.md",
+    "Notes/Computational-Design.md",
+    "index.md",
+    "Templates/Map-of-Contents.md",
+    "Notes/RAID.md",
+    "About.md",
+    "Notes/index.md",
+    "Templates/Blog-Template.md",
+    "Templates/index.md",
+    "Templates",
     "Resources/Icon_256x256.ico",
     "Resources/Icon_256x256.png",
     "Blog/posts",
     "Blog/index.md",
-    "Notes/index.md",
     "New folder",
     "Blog",
     "Notes",
-    "index.md",
     "New Text Document.txt",
     "Resources",
     "CNAME",
-    "mkdocs/javascripts/polyfill.js",
-    "mkdocs/javascripts/mathjax.js",
-    "mkdocs/javascripts"
+    "mkdocs/javascripts/polyfill.js"
   ]
 }

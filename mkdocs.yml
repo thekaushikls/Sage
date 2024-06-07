@@ -3,8 +3,8 @@ site_name: Sage 2.0
 docs_dir: Sage
 site_url: https://thekaushikls.github.io/Sage
 site_author: Kaushik L. S.
-site_description: >-
-    Kaushik's Digital Garden
+site_description: Kaushik's Digital Garden
+dev_addr: 127.0.0.1:8080
 
 # Repository Information
 #repo_name: thekaushikls/Sage
@@ -14,9 +14,10 @@ site_description: >-
 # The below folders (and files) are included in the build process.
 # They are just hidden from the main/home page.
 exclude_docs: |
+  Blog/
   Templates/
   Resources/
-  Notes/
+#  Notes/
 
 #region Site Footer
 # Copyright Information
@@ -100,7 +101,7 @@ plugins:
       separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
   #- autorefs
   # Built-In Blog
-  - blog:
+  #- blog:
       blog_dir: Blog
       blog_toc: false                       # Show Table of Contents on blog index
       post_excerpt: required                # Always require an excerpt
