@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4b02610936712900",
+        "id": "6e3f4b45db24aac7",
         "type": "tabs",
         "children": [
           {
-            "id": "e006054633c9d8f3",
+            "id": "200ae5f94048049a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -148,17 +148,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e006054633c9d8f3",
+  "active": "200ae5f94048049a",
   "lastOpenFiles": [
+    "Notes/Computational-Design.md",
+    "Notes/index.md",
+    "index.md",
     "Templates/Note-Template.md",
     "Notes/Macro-Nutrients.md",
     "Notes/RAID-Configuration.md",
-    "Notes/Computational-Design.md",
-    "index.md",
     "Templates/Map-of-Contents.md",
     "Notes/RAID.md",
     "About.md",
-    "Notes/index.md",
     "Templates/Blog-Template.md",
     "Templates/index.md",
     "Templates",

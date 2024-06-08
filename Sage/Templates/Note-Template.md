@@ -8,6 +8,7 @@ authors:
 tags: 
 categories:
   - Uncategorized
+comments: false
 ---
 *Article excerpt / preview goes here*
 <!-- more -->

@@ -13,6 +13,7 @@ tags:
   - RAID
 categories:
   - Computers
+comments: false
 ---
 <!-- more -->
 # <kbd> RAID-Configuration </kbd>

@@ -12,6 +12,7 @@ tags:
   - IPAddress
 categories:
   - Uncategorized
+comments: false
 ---
 <!-- more -->
 # <kbd> Static IP-Address </kbd>

@@ -8,6 +8,7 @@ authors:
 tags: 
 categories:
   - Uncategorized
+comments: false
 ---
 <!-- more -->
 # <kbd> Computational-Design </kbd>

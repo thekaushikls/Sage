@@ -14,6 +14,7 @@ tags:
   - Academia
 categories:
   - Uncategorized
+comments: false
 ---
 What is a White Paper in research? How is it different from the (usual) Scientific Research Paper?
 <!-- more -->
