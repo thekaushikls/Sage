@@ -12,22 +12,28 @@
         <meta name="author" content="Kaushik L. S.">
       
       
+        <link rel="canonical" href="https://thekaushikls.github.io/Sage/Notes/RAID-Configuration/">
       
       
+        <link rel="prev" href="../Protein-for-the-Body/">
       
-      <link rel="icon" href="/Sage/Resources/Icon_256x256.ico">
+      
+        <link rel="next" href="../Static-IP-Address/">
+      
+      
+      <link rel="icon" href="../../Resources/Icon_256x256.ico">
       <meta name="generator" content="mkdocs-1.5.3, mkdocs-material-9.5.16">
     
     
       
-        <title>Sage 2.0</title>
+        <title>RAID Configuration - Sage 2.0</title>
       
     
     
-      <link rel="stylesheet" href="/Sage/assets/stylesheets/main.bcfcd587.min.css">
+      <link rel="stylesheet" href="../../assets/stylesheets/main.bcfcd587.min.css">
       
         
-        <link rel="stylesheet" href="/Sage/assets/stylesheets/palette.06af60db.min.css">
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.06af60db.min.css">
       
       
   
@@ -87,7 +93,7 @@
       
     
     
-    <script>__md_scope=new URL("/Sage/",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
     
       
   
@@ -122,6 +128,11 @@
     <label class="md-overlay" for="__drawer"></label>
     <div data-md-component="skip">
       
+        
+        <a href="#raid-configuration" class="md-skip">
+          Skip to content
+        </a>
+      
     </div>
     <div data-md-component="announce">
       
@@ -132,9 +143,9 @@
 
 <header class="md-header" data-md-component="header">
   <nav class="md-header__inner md-grid" aria-label="Header">
-    <a href="/Sage/." title="Sage 2.0" class="md-header__button md-logo" aria-label="Sage 2.0" data-md-component="logo">
+    <a href="../.." title="Sage 2.0" class="md-header__button md-logo" aria-label="Sage 2.0" data-md-component="logo">
       
-  <img src="/Sage/Resources/Icon_256x256.png" alt="logo">
+  <img src="../../Resources/Icon_256x256.png" alt="logo">
 
     </a>
     <label class="md-header__button md-icon" for="__drawer">
@@ -151,7 +162,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              
+              RAID Configuration
             
           </span>
         </div>
@@ -265,7 +276,7 @@
   
   
     <li class="md-tabs__item">
-      <a href="/Sage/." class="md-tabs__link">
+      <a href="../.." class="md-tabs__link">
         
   
     
@@ -280,11 +291,13 @@
         
   
   
+    
+  
   
     
     
-      <li class="md-tabs__item">
-        <a href="/Sage/Notes/" class="md-tabs__link">
+      <li class="md-tabs__item md-tabs__item--active">
+        <a href="../" class="md-tabs__link">
           
   
   Notes
@@ -317,9 +330,9 @@
 
 <nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigation" data-md-level="0">
   <label class="md-nav__title" for="__drawer">
-    <a href="/Sage/." title="Sage 2.0" class="md-nav__button md-logo" aria-label="Sage 2.0" data-md-component="logo">
+    <a href="../.." title="Sage 2.0" class="md-nav__button md-logo" aria-label="Sage 2.0" data-md-component="logo">
       
-  <img src="/Sage/Resources/Icon_256x256.png" alt="logo">
+  <img src="../../Resources/Icon_256x256.png" alt="logo">
 
     </a>
     Sage 2.0
@@ -346,7 +359,7 @@
   
   
     <li class="md-nav__item">
-      <a href="/Sage/." class="md-nav__link">
+      <a href="../.." class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -363,39 +376,461 @@
       
   
   
+    
   
   
+  
     
-    
-    
-      
-      
     
     
       
         
         
       
+      
     
-    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+    
+      
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
       
         
-  
-  
-    <a href="/Sage/Notes/" class="md-nav__link">
-      
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="">
+            
   
   <span class="md-ellipsis">
     Notes
   </span>
   
 
-      
-        <span class="md-nav__icon md-icon"></span>
-      
-    </a>
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            Notes
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Index
+  </span>
   
 
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Computational-Design/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Computational Design
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Earthquake-Impact-on-Structures/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Earthquake Impact on Structures
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Earthquake/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Earthquake
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Hazards/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Hazards
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Lawson-Wind-Comfort-Criteria/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Lawson Wind Comfort Criteria
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Machine-Learning/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Machine Learning
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Macro-Nutrients/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Macro Nutrients
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Protein-for-the-Body/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Protein for the Body
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    RAID Configuration
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  <span class="md-ellipsis">
+    RAID Configuration
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#about" class="md-nav__link">
+    <span class="md-ellipsis">
+      About
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="About">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#parity" class="md-nav__link">
+    <span class="md-ellipsis">
+      Parity
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#raid-monitoring" class="md-nav__link">
+    <span class="md-ellipsis">
+      RAID Monitoring
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#configuration-types" class="md-nav__link">
+    <span class="md-ellipsis">
+      Configuration Types
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Configuration Types">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#raid-0-stripping" class="md-nav__link">
+    <span class="md-ellipsis">
+      RAID 0 : Stripping
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#raid-1-mirroring" class="md-nav__link">
+    <span class="md-ellipsis">
+      RAID 1: Mirroring
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#raid-5-striping-w-parity" class="md-nav__link">
+    <span class="md-ellipsis">
+      RAID 5: Striping w/ Parity
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#raid-6-striping-w-2x-parity" class="md-nav__link">
+    <span class="md-ellipsis">
+      RAID 6: Striping w/ 2x Parity
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#raid-10-mirroring-w-striping" class="md-nav__link">
+    <span class="md-ellipsis">
+      RAID 10: Mirroring w/ Striping
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#raid-01-striping-w-mirroring" class="md-nav__link">
+    <span class="md-ellipsis">
+      RAID 01: Striping w/ Mirroring
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#see-also" class="md-nav__link">
+    <span class="md-ellipsis">
+      See Also
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#references" class="md-nav__link">
+    <span class="md-ellipsis">
+      References
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Static-IP-Address/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Static IP Address
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../White-Paper/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    White Paper
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
       
     </li>
   
@@ -418,6 +853,136 @@
   
   
   
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#about" class="md-nav__link">
+    <span class="md-ellipsis">
+      About
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="About">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#parity" class="md-nav__link">
+    <span class="md-ellipsis">
+      Parity
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#raid-monitoring" class="md-nav__link">
+    <span class="md-ellipsis">
+      RAID Monitoring
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#configuration-types" class="md-nav__link">
+    <span class="md-ellipsis">
+      Configuration Types
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Configuration Types">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#raid-0-stripping" class="md-nav__link">
+    <span class="md-ellipsis">
+      RAID 0 : Stripping
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#raid-1-mirroring" class="md-nav__link">
+    <span class="md-ellipsis">
+      RAID 1: Mirroring
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#raid-5-striping-w-parity" class="md-nav__link">
+    <span class="md-ellipsis">
+      RAID 5: Striping w/ Parity
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#raid-6-striping-w-2x-parity" class="md-nav__link">
+    <span class="md-ellipsis">
+      RAID 6: Striping w/ 2x Parity
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#raid-10-mirroring-w-striping" class="md-nav__link">
+    <span class="md-ellipsis">
+      RAID 10: Mirroring w/ Striping
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#raid-01-striping-w-mirroring" class="md-nav__link">
+    <span class="md-ellipsis">
+      RAID 01: Striping w/ Mirroring
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#see-also" class="md-nav__link">
+    <span class="md-ellipsis">
+      See Also
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#references" class="md-nav__link">
+    <span class="md-ellipsis">
+      References
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
   
 </nav>
                   </div>
@@ -429,8 +994,96 @@
             <div class="md-content" data-md-component="content">
               <article class="md-content__inner md-typeset">
                 
-  <h1>404 - Not found</h1>
+                  
 
+  
+  
+
+
+<!-- more -->
+<h1 id="raid-configuration"><kbd> RAID-Configuration </kbd><a class="headerlink" href="#raid-configuration" title="Permanent link">&para;</a></h1>
+<h2 id="about">About<a class="headerlink" href="#about" title="Permanent link">&para;</a></h2>
+<ul>
+<li>RAID stands for <em>(Redundant Array of Independent Disks)</em></li>
+<li>RAID is a storage(hardware) configuration methodology.</li>
+<li>It helps prevent data loss by introducing redundancy or copies.<sup id="fnref:1"><a class="footnote-ref" href="#fn:1">1</a></sup></li>
+<li>It is similar to saving an additional copy of a file - but on a bigger scale.</li>
+</ul>
+<h3 id="parity">Parity<a class="headerlink" href="#parity" title="Permanent link">&para;</a></h3>
+<h3 id="raid-monitoring">RAID Monitoring<a class="headerlink" href="#raid-monitoring" title="Permanent link">&para;</a></h3>
+<ol>
+<li>Latency</li>
+<li>Capacity &amp; Utilization</li>
+<li>Input/Output operations Per Second (IOPS)</li>
+</ol>
+<h2 id="configuration-types">Configuration Types<a class="headerlink" href="#configuration-types" title="Permanent link">&para;</a></h2>
+<h3 id="raid-0-stripping">RAID 0 : Stripping<a class="headerlink" href="#raid-0-stripping" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Data is not copied completely, but separated among two hard disks.</li>
+<li>t provides speed, since there are two disk controllers.</li>
+<li>But, if one hard disk fails, the system fails.</li>
+<li>The probability of failure increases since data is not copied.</li>
+</ul>
+<h3 id="raid-1-mirroring">RAID 1: Mirroring<a class="headerlink" href="#raid-1-mirroring" title="Permanent link">&para;</a></h3>
+<ul>
+<li>A full copy is stored in two disks.</li>
+<li>If one disk fails, data can be retrieved from the second disk.</li>
+</ul>
+<h3 id="raid-5-striping-w-parity">RAID 5: Striping w/ Parity<a class="headerlink" href="#raid-5-striping-w-parity" title="Permanent link">&para;</a></h3>
+<ul>
+<li>RAID5 requires at least 3 disks.</li>
+<li>Most commonly used since it is fast, as well as more secure than RAID 1.</li>
+<li>But data is not completely duplicated here.</li>
+<li>Data is striped and shared with multiple disks.</li>
+<li>Parity (extra some data to rebuild the data in the event of a disk failure) is also stored equally on all these drives.</li>
+<li>The downside? An entire disk's worth of space is sued to store parity, less use-able space is available.
+  Example: If we have 4 Hard Disks of 1TB each in a RAID 5 setup. 1TB will be used for parity, and 3 TB will be available for data storage.</li>
+</ul>
+<h3 id="raid-6-striping-w-2x-parity">RAID 6: Striping w/ 2x Parity<sup id="fnref:2"><a class="footnote-ref" href="#fn:2">2</a></sup><a class="headerlink" href="#raid-6-striping-w-2x-parity" title="Permanent link">&para;</a></h3>
+<h3 id="raid-10-mirroring-w-striping">RAID 10: Mirroring w/ Striping<a class="headerlink" href="#raid-10-mirroring-w-striping" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Minimum of 4 disks are required.</li>
+<li>Raid 1 and Raid 0 are combined.</li>
+<li>If we have 4 Hard Disks of 1TB each, Disks A and B will be in RAID1 setup, Disks C and D will be in RAID1 setup. While both these groups will be in a RAID0 setup.</li>
+<li>Raid 10 provides both the fault-tolerance of Raid 1 and the speed of Raid 0.</li>
+<li>Downside? only 50% of the data can be used for storage. The 50% is for backup because of the Raid 1 configuration.</li>
+</ul>
+<h3 id="raid-01-striping-w-mirroring">RAID 01: Striping w/ Mirroring<a class="headerlink" href="#raid-01-striping-w-mirroring" title="Permanent link">&para;</a></h3>
+<hr />
+<h2 id="see-also">See Also<a class="headerlink" href="#see-also" title="Permanent link">&para;</a></h2>
+<ol>
+<li></li>
+</ol>
+<h2 id="references">References<a class="headerlink" href="#references" title="Permanent link">&para;</a></h2>
+<div class="footnote">
+<hr />
+<ol>
+<li id="fn:1">
+<p><a href="https://www.youtube.com/watch?v=U-OCdTeZLac">What is RAID 0, 1, 5 &amp; 10?</a>, by PowerCert Animated Videos on YouTube.com (9 August 2015)&#160;<a class="footnote-backref" href="#fnref:1" title="Jump back to footnote 1 in the text">&#8617;</a></p>
+</li>
+<li id="fn:2">
+<p><a href="https://www.manageengine.com/network-monitoring/tech-topics/raid-configurations.html">RAID Configurations</a>, on manageengine.com (7 June 2024)&#160;<a class="footnote-backref" href="#fnref:2" title="Jump back to footnote 2 in the text">&#8617;</a></p>
+</li>
+</ol>
+</div>
+
+
+
+
+
+
+
+  
+  
+
+
+
+  
+
+
+
+
+                
               </article>
             </div>
           
@@ -578,14 +1231,14 @@
       </div>
       <script>var consent=__md_get("__consent");if(consent)for(var input of document.forms.consent.elements)input.name&&(input.checked=consent[input.name]||!1);else"file:"!==location.protocol&&setTimeout(function(){document.querySelector("[data-md-component=consent]").hidden=!1},250);var action,form=document.forms.consent;for(action of["submit","reset"])form.addEventListener(action,function(e){if(e.preventDefault(),"reset"===e.type)for(var n of document.forms.consent.elements)n.name&&(n.checked=!1);__md_set("__consent",Object.fromEntries(Array.from(new FormData(form).keys()).map(function(e){return[e,!0]}))),location.hash="",location.reload()})</script>
     
-    <script id="__config" type="application/json">{"base": "/Sage/", "features": ["header.autohide", "search.suggest", "search.highlight", "search.share", "navigation.top", "navigation.tabs", "navigation.tracking", "navigation.path", "navigation.prune", "content.code.copy", "content.code.select"], "search": "/Sage/assets/javascripts/workers/search.b8dbb3d2.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    <script id="__config" type="application/json">{"base": "../..", "features": ["header.autohide", "search.suggest", "search.highlight", "search.share", "navigation.top", "navigation.tabs", "navigation.tracking", "navigation.path", "navigation.prune", "content.code.copy", "content.code.select"], "search": "../../assets/javascripts/workers/search.b8dbb3d2.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
     
     
-      <script src="/Sage/assets/javascripts/bundle.bd41221c.min.js"></script>
+      <script src="../../assets/javascripts/bundle.bd41221c.min.js"></script>
       
-        <script src="/Sage/mkdocs/javascripts/mathjax.js"></script>
+        <script src="../../mkdocs/javascripts/mathjax.js"></script>
       
-        <script src="/Sage/mkdocs/javascripts/polyfill.js"></script>
+        <script src="../../mkdocs/javascripts/polyfill.js"></script>
       
         <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
       
