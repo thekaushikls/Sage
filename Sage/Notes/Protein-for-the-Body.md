@@ -1,4 +1,10 @@
 ---
+draft: true
+search:
+  exclude: true
+date: 2024-01-24 09:56
+authors:
+  - thekaushikls
 tags:
   - Food
   - Nutrients
@@ -7,8 +13,8 @@ tags:
   - Meal-Planning
   - Health
   - Balanced-Diet
-created: 24-01-2024 09:56
-author: Kaushik L. S.
+categories:
+  - Uncategorized
 comments: false
 ---
 <!-- more -->
@@ -23,7 +29,6 @@ Protein is one of the principal [Macro-Nutrients](Notes/Macro-Nutrients.md) requ
 4. Muscle Repair
 
 ### ✅ Recommended
-
 The amount of protein required by a person can be calculated by their body weight, and the amount of exercise they get. For a sedentary person;
 
 > *0.8g/Kg (0.36g/lb.) is the recommended amount of protein per day.*[^2]
@@ -38,17 +43,15 @@ Which means, if I weight 80Kg, I require 64g of protein everyday, or roughly 2Kg
 | Athletic | 1.2 - 1.7 |
 
 ### ❌ Excess
-
 The human body cannot store protein, so it is converted and stored as fat.[^5] So excess protein does not compensate for strength training when trying to increase muscle size.
 
 ### ⭕ Deficiency
 
-
 ---
-## Read Also
+## See Also
 1. [Macro-Nutrients](Notes/Macro-Nutrients.md)
-## Footnotes
 
+## References
 [^1]: [Protein: Are You Getting Enough?](https://www.webmd.com/food-recipes/protein), by [Poonam Sachdev, MD](https://www.webmd.com/poonam-sachdev) on WebMD.com (17 December 2023)
 [^2]: [What Are Macronutrients?](https://www.webmd.com/diet/what-are-macronutrients), by[Christine Mikstas](https://www.linkedin.com/in/christinemikstas/) on WebMD.com (13 July 2023)
 [^3]: Assuming 30 days per month and 64g per day, 1.92 Kg of protein.

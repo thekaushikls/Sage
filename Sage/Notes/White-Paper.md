@@ -20,7 +20,6 @@ What is a White Paper in research? How is it different from the (usual) Scientif
 <!-- more -->
 # <kbd> White-Paper </kbd>
 ## About
-
 In the 1960s, they were first used by companies as a significant tool for self-promotion. Today, it can describe a published proposal for a new idea / technology / product.[^1]
 
 ### Key Features
@@ -47,9 +46,8 @@ In the 1960s, they were first used by companies as a significant tool for self-p
 
 ---
 
-## Read Also
+## See Also
 1. 
 
-## Footnotes
-
+## References
 [^1]: [What is a White Paper?](https://publuu.com/knowledge-base/what-is-a-white-paper/#:~:text=A%20white%20paper%20is%20a,research%20or%20results%20of%20experiments.), by [Jakub Osiejewski](https://www.linkedin.com/in/jakub-osiejewski-675728b0/) on publuu.com (10th April 2024)

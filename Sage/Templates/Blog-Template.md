@@ -21,7 +21,7 @@ comments: true
 ## About
 
 ---
-## Read Also
+## See Also
 1. 
 
-## Footnotes
+## References

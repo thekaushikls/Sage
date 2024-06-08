@@ -13,7 +13,6 @@ comments: false
 <!-- more -->
 # <kbd> Computational-Design </kbd>
 ## About
-
 **Computation** (to compute) means to perform a (mathematical) calculation - usually using computers. *(example: Addition is a basic example of computation)*
 
 **Design** refers to a process and/or it's intentional output, or a system that has been arranged to eventually create something. *(example: Industrial Design refers to the framework that helps create consumer products.)*
@@ -54,7 +53,7 @@ For example; in the case of addition,
 3. Output => sum of two numbers
 
 ---
-## Read Also
+## See Also
 1. 
 
-## Footnotes
+## References

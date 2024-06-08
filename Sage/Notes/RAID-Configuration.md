@@ -18,7 +18,6 @@ comments: false
 <!-- more -->
 # <kbd> RAID-Configuration </kbd>
 ## About
-
 * RAID stands for *(Redundant Array of Independent Disks)*
 * RAID is a storage(hardware) configuration methodology.
 * It helps prevent data loss by introducing redundancy or copies.[^1]
@@ -27,7 +26,6 @@ comments: false
 ### Parity
 
 ### RAID Monitoring
-
 1. Latency
 2. Capacity & Utilization
 3. Input/Output operations Per Second (IOPS)
@@ -64,9 +62,9 @@ comments: false
 ### RAID 01: Striping w/ Mirroring
 
 ---
-## Read Also
+## See Also
 1. 
 
-## Footnotes
+## References
 [^1]: [What is RAID 0, 1, 5 & 10?](https://www.youtube.com/watch?v=U-OCdTeZLac), by PowerCert Animated Videos on YouTube.com (9 August 2015)
 [^2]: [RAID Configurations](https://www.manageengine.com/network-monitoring/tech-topics/raid-configurations.html), on manageengine.com (7 June 2024)

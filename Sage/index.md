@@ -5,7 +5,7 @@ Welcome to my [Zettelkasten]()
 ---
 #### Logs
 8 June 2024
->	Those who cannot remember the past are condemned to repeat it.
+>	**"Those who cannot remember the past are condemned to repeat it."**
 ---
 7 June 2024
 >	**Th**is **i**s **sup**posed **t**o **b**e **so**me **sam**ple **te**xt **th**at **mim**ics **bio**nic **rea**ding. **Do**es **th**is **re**ally **he**lp **i**n **rea**ding **some**thing **fas**ter, **o**r **mo**re **comf**ortably?>	

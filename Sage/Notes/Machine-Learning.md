@@ -1,4 +1,10 @@
 ---
+draft: false
+search:
+  exclude: false
+date: 2024-03-19 08:39
+authors:
+  - thekaushikls
 tags:
   - AI
   - ML
@@ -6,8 +12,8 @@ tags:
   - ArtificialIntelligence
   - Software
   - Algorithm
-created: 21-03-2024 17:36
-author: Kaushik L. S.
+categories:
+  - Computer Science
 comments: false
 ---
 <!-- more -->
@@ -23,7 +29,6 @@ Machine Learning (ML) is sub-field of [Artificial-Intelligence](Projects/Artific
 ML is mainly concerned with making the Machine (computer) learn - patterns from available data to make predictions (guess-timations). How accurate these predictions are, depends highly on the quality of training data, the methodology used, and the amount of human intervention during the training / learning stage.
 
 ## Machine Learning Model
-
 * A Machine-Learning-Model is the product of the Machine Learning process(es).
 * It describes the algorithm / system that has been trained on data, to recognize patterns and/or make predictions.
 
@@ -32,13 +37,13 @@ ML is mainly concerned with making the Machine (computer) learn - patterns from 
 ## Un-Supervised Learning
 
 ---
-## References
+## See Also
 1. [Artificial-Intelligence](Projects/Artificial-Intelligence.md)
 2. [[Pre-Trained-Models]]
 3. [[Deep-Learning]]
 4. [[Neural-Networks]]
 5. [[Generative-AI]]
-## Footnotes
 
+## References
 [^1]: [Machine learning, explained](https://mitsloan.mit.edu/ideas-made-to-matter/machine-learning-explained), by [Sara Brown](https://mitsloan.mit.edu/ideas-made-to-matter/sara-brown) on mitsloan.mit.edu (21 April 2021)
 [^2]: [What is Machine Learning? Definition, Types, Tools & More](https://www.datacamp.com/blog/what-is-machine-learning), by [Matt Crabtree](https://www.datacamp.com/portfolio/mattcrabtree) on datacampo.com (July 2023)

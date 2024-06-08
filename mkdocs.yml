@@ -7,9 +7,9 @@ site_description: Kaushik's Digital Garden
 dev_addr: 127.0.0.1:8080
 
 # Repository Information
-#repo_name: thekaushikls/Sage
-#repo_url: https://github.com/thekaushikls/Sage
-#edit_uri: https://github.com/thekaushikls/Sage/tree/main/docs/
+repo_name: thekaushikls/Sage
+repo_url: https://github.com/thekaushikls/Sage
+edit_uri: https://github.com/thekaushikls/Sage/blob/main/Sage
 
 # The below folders (and files) are included in the build process.
 # They are just hidden from the main/home page.
@@ -95,6 +95,8 @@ extra_javascript:
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
 plugins:
+  # Build (as HTML) for offline usage
+  #- offline
   # Search Box
   - search:
       # Query tokenization, allows searching special characters from code blocks
@@ -127,8 +129,8 @@ theme:
   favicon: Resources/Icon_256x256.ico
   icon:
     repo: fontawesome/brands/github
-    edit: fontawesome/solid/pencil
-    view: material/eye
+    #edit: fontawesome/solid/pencil
+    #view: material/eye
   
     # Icons for Admonitions
     admonition:
@@ -192,4 +194,5 @@ theme:
     - content.code.select     # Enable line selection in code block
     #- content.code.annotate  # Tooltip from comment in code block
     #- content.action.edit    # Enables the 'Edit on GitHub' button
+    #- content.action.view    # Enables the 'View source of this page' button
 #endregion Theme Design

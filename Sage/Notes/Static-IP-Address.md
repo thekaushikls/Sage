@@ -34,16 +34,14 @@ It is less secure than Dynamic IP, and might need a separate setup for security.
 3. Higher cost / ISP charges.
 
 ## Usage
-
 Static IP is better suited for large companies who;
 1. host their own web servers / sites
 2. have a team of network administrators who can setup, manage, secure, and maintain servers
 3. have a separate workplace, to ensure physical location of home is protected
 
 ---
-## Read Also
+## See Also
 1. 
 
-## Footnotes
-
+## References
 [^1]: [Static vs. Dynamic IP Addresses](https://www.avast.com/c-static-vs-dynamic-ip-addresses#:~:text=Convenient%20remote%20access%3A%20A%20static,other%20voice%20and%20video%20communications.) by [Steven J. Vaughan-Nichols](https://www.linkedin.com/in/sjvn1/) on avast.com (23 September 2019)

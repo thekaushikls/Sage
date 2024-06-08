@@ -4,18 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "6e3f4b45db24aac7",
+        "id": "7d93453497f896ec",
         "type": "tabs",
         "children": [
           {
-            "id": "200ae5f94048049a",
+            "id": "a0de0392c2995283",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Earthquake.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eadd15d0866c137f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Earthquake-Impact-on-Structures.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/Earthquake-Impact-on-Structures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes/Earthquake-Impact-on-Structures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes/Earthquake-Impact-on-Structures.md"
+              }
             }
           },
           {
@@ -148,18 +169,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "200ae5f94048049a",
+  "active": "eadd15d0866c137f",
   "lastOpenFiles": [
+    "Notes/Earthquake.md",
+    "Notes/Earthquake-Impact-on-Structures.md",
+    "Notes/Natural-Hazards.md",
+    "Notes/Hazards.md",
+    "Notes/Heat-Wave.md",
+    "Notes/Flood.md",
+    "Templates/Note-Template.md",
+    "Templates/Blog-Template.md",
+    "Notes/Protein-for-the-Body.md",
+    "Notes/Machine-Learning.md",
+    "Notes/Macro-Nutrients.md",
     "Notes/Computational-Design.md",
     "Notes/index.md",
     "index.md",
-    "Templates/Note-Template.md",
-    "Notes/Macro-Nutrients.md",
     "Notes/RAID-Configuration.md",
     "Templates/Map-of-Contents.md",
     "Notes/RAID.md",
     "About.md",
-    "Templates/Blog-Template.md",
     "Templates/index.md",
     "Templates",
     "Resources/Icon_256x256.ico",

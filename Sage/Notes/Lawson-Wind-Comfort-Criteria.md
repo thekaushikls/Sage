@@ -7,7 +7,9 @@ authors:
   - thekaushikls
 tags: 
 categories:
-  - Uncategorized
+  - Building Science
+  - Simulations
+  - Wind Analysis
 comments: false
 ---
 <!-- more -->
@@ -15,7 +17,6 @@ comments: false
 ## About
 
 ## Note?
-
 When running a `Wind Comfort` simulation, and aim to categorize data points based on Lawson's criteria, each data point will have a `location` and `wind_speed` attribute. Additionally, it can also contain a `lawson_index` that denotes which category the current value falls into.
 
 | Lawson index | Category | Wind Speed (m/s) | Error Probability (%) |      Activity      |
@@ -31,9 +32,8 @@ When running a `Wind Comfort` simulation, and aim to categorize data points base
  (modified) Lawson LDDC comfort criteria[^1] 
 
 ---
-## Read Also
+## See Also
 1. 
 
-## Footnotes
-
+## References
 [^1]: [Lawson Wind Comfort Criteria: A Closer Look](https://www.simscale.com/blog/lawson-wind-comfort-criteria/), by [Arnaud Girin](https://www.linkedin.com/in/arnaudgirin/) on simscale.com (1st June 2023)
