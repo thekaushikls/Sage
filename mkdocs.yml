@@ -16,6 +16,7 @@ edit_uri: https://github.com/thekaushikls/Sage/blob/main/Sage
 exclude_docs: |
   Blog/
   Templates/
+  Projects/
 #  Notes/
 
 #region Site Footer
@@ -114,7 +115,7 @@ plugins:
 #region Theme Design
 theme:
   name: material
-  custom_dir: mkdocs_overrides
+  custom_dir: overrides
   highlightjs: true
 
   # Typography

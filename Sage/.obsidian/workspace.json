@@ -4,28 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "7d93453497f896ec",
+        "id": "a2376b45d88b17b6",
         "type": "tabs",
         "children": [
           {
-            "id": "a0de0392c2995283",
+            "id": "14c736cabb823b77",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Earthquake.md",
+                "file": "Projects/2025-CAADRIA/index.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
-            "id": "eadd15d0866c137f",
+            "id": "e8be587c9c97c76a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Earthquake-Impact-on-Structures.md",
+                "file": "Projects/2025-CAADRIA/Call-for-Abstract.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,6 +35,26 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "63d6194251cc2bcd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4463d93ef60e834d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/2025-CAADRIA/notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Earthquake-Impact-on-Structures.md",
+                "file": "Projects/2025-CAADRIA/Call-for-Abstract.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Earthquake-Impact-on-Structures.md",
+                "file": "Projects/2025-CAADRIA/Call-for-Abstract.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Earthquake-Impact-on-Structures.md"
+                "file": "Projects/2025-CAADRIA/Call-for-Abstract.md"
               }
             }
           },
@@ -169,38 +191,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eadd15d0866c137f",
+  "active": "e8be587c9c97c76a",
   "lastOpenFiles": [
+    "Projects/2025-CAADRIA/notes.md",
+    "Projects/2025-CAADRIA/Call-for-Abstract.md",
+    "Projects/2025-CAADRIA/Abstract-1.md",
+    "Projects/2025-CAADRIA/index.md",
     "Notes/Earthquake.md",
+    "Untitled.md",
+    "Notes/Computational-Design.md",
+    "Notes/CAADRIA-2025.md",
+    "Projects/2025-CAADRIA",
+    "Projects",
     "Notes/Earthquake-Impact-on-Structures.md",
-    "Notes/Natural-Hazards.md",
     "Notes/Hazards.md",
+    "Notes/index.md",
+    "Notes/Lawson-Wind-Comfort-Criteria.md",
+    "Notes/Machine-Learning.md",
+    "Notes/Macro-Nutrients.md",
+    "Notes/Protein-for-the-Body.md",
+    "Notes/RAID-Configuration.md",
+    "Notes/Static-IP-Address.md",
+    "Notes/White-Paper.md",
+    "index.md",
+    "Notes/Natural-Hazards.md",
     "Notes/Heat-Wave.md",
     "Notes/Flood.md",
     "Templates/Note-Template.md",
     "Templates/Blog-Template.md",
-    "Notes/Protein-for-the-Body.md",
-    "Notes/Machine-Learning.md",
-    "Notes/Macro-Nutrients.md",
-    "Notes/Computational-Design.md",
-    "Notes/index.md",
-    "index.md",
-    "Notes/RAID-Configuration.md",
     "Templates/Map-of-Contents.md",
     "Notes/RAID.md",
-    "About.md",
-    "Templates/index.md",
     "Templates",
     "Resources/Icon_256x256.ico",
     "Resources/Icon_256x256.png",
     "Blog/posts",
-    "Blog/index.md",
     "New folder",
     "Blog",
     "Notes",
     "New Text Document.txt",
-    "Resources",
-    "CNAME",
-    "mkdocs/javascripts/polyfill.js"
+    "Resources"
   ]
 }
