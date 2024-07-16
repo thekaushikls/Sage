@@ -16,7 +16,6 @@ edit_uri: https://github.com/thekaushikls/Sage/blob/main/Sage
 exclude_docs: |
   Blog/
   Templates/
-  Projects/
 #  Notes/
 
 #region Site Footer
