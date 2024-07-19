@@ -4,7 +4,7 @@ docs_dir: Sage
 site_url: https://thekaushikls.github.io/Sage
 site_author: Kaushik L. S.
 site_description: Kaushik's Digital Garden
-dev_addr: 127.0.0.1:8080
+dev_addr: 0.0.0.0:8080
 
 # Repository Information
 repo_name: thekaushikls/Sage
@@ -16,7 +16,7 @@ edit_uri: https://github.com/thekaushikls/Sage/blob/main/Sage
 exclude_docs: |
   Blog/
   Templates/
-#  Notes/
+  Projects/
 
 #region Site Footer
 # Copyright Information

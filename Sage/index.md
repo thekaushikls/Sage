@@ -5,6 +5,9 @@ Welcome to my [Zettelkasten]()
 ---
 ### Logs
 #### 2024
+19 July 2024
+>	I was too busy researching about food - what to eat, and how to eat it. I forgot to cook any. Ironic.
+---
 10 July 2024
 >	"**If you want to go fast, go alone. If you want to go far, go together.**"
     <br>I think with the [CoDe Collective](https://www.linkedin.com/groups/14452006/) community, it is better to go together even if things take their time. Going together will help other collaborators take ownership of the community. If I want to go fast, I should work on my CAADRIA2025 research paper.
