@@ -71,6 +71,9 @@ extra:
 
 #region Extensions & Plugins
 markdown_extensions:
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true # Round Checkbox
   - pymdownx.highlight:
       anchor_linenums: true
       line_spans: __span
