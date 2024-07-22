@@ -21,7 +21,7 @@ comments: false
 - Submission link is now open! [**https://caadria.org/openconf25/openconf.php**](https://caadria.org/openconf25/openconf.php)
 - CAADRIA 2025 is now accepting abstract submissions.
 - The submission deadline is August 20, 2024.
-- Submission titles should consist of a main title and a subtitle separated by a colon
+- Submission titles should consist of a <mark>main title and a subtitle separated by a colon</mark>
 - Abstracts should consist of a <mark>maximum of 1000 words + 5 core references + 5 keywords.</mark>
 - Abstracts should follow a concise and structured format, typically including the following key elements:
     - Background/Introduction: Briefly state the context and significance of the study.
@@ -38,7 +38,7 @@ CAADRIA 2025 invites contributions in line with the 2025 Conference Theme of "Ar
 
 The concepts of architecture and cities are historically intrinsic to human civilization, as a consciousness of mankind's need to construct artificial environments. However, decades after the advent of computers, we are now reconsidering their existence against the backdrop of the rapid expansion and evolution of information technology and its profound impact on industry, the economy, daily life, and society.
 
-The quantum acceleration of information processing and communication has had a profound impact on the design of all kinds of artifacts, production techniques, management systems, and usage patterns, and has already surpassed the traditional concept of design and its support methods. By considering social activities and human organizations as forms of information processing, we can reconsider architecture and cities as information systems that have been constructed, accumulated, and acted upon. Viewing architecture and cities through this lens suggests that real and virtual spaces should not be seen as opposing entities, but rather as complementary components within a unified system.
+The quantum acceleration of information processing and communication has had a profound impact on the design of all kinds of artifacts, production techniques, management systems, and usage patterns, and has already surpassed the traditional concept of design and its support methods. By considering social activities and human organizations as forms of information processing, we can reconsider architecture and cities as information systems that have been constructed, accumulated, and acted upon. Viewing architecture and cities through this lens suggests that real and virtual spaces should not be seen as opposing entities, but rather as complementary components within a <mark>unified system.</mark>
 
 In other words, information may be architecture. With “Architectural Informatics” as the theme of CAADRIA's 30th anniversary, we would like to reexamine the fundamental existence of architecture in the age of information technology.
 
@@ -47,8 +47,8 @@ In other words, information may be architecture. With “Architectural Informati
 - Artificial intelligence, neural networks and machine learning
 - Building Information Modeling (BIM)
 - City Information Modeling (CIM)
-- Collective, collaborative & interdisciplinary design
-- Computational design research & education
+- <mark>Collective, collaborative & interdisciplinary design</mark>
+- <mark>Computational design research & education</mark>
 - Design cognition and human-computer interaction
 - Disrupted practices, resilience, and social sustainability
 - Environmental and ecological performance
@@ -56,7 +56,7 @@ In other words, information may be architecture. With “Architectural Informati
 - Digital Heritage
 - Interactive environments
 - Material systems, processes and assembly
-- Practice-based design research
+- <mark>Practice-based design research</mark>
 - Robotics, digital fabrication and construction
 - Simulation, visualisation and impact projection
 - Theory, philosophy & methodology of computational design research
@@ -84,7 +84,7 @@ Paper acceptance will be subject to a two-stage reviewing process, based on an i
 
 ---
 ## See Also
-1. [Abstract](Abstract.md)
+1. [Abstract Submission](Abstract.md)
 ## References
 
 [^1]: [Call for Papers](https://www.caadria2025.org/call-for-papers), on caadria2025.org (24 June 2024)

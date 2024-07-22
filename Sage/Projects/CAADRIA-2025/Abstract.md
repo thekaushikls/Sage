@@ -1,37 +1,40 @@
 ---
-draft: true
+draft: false
 search:
-  exclude: true
+  exclude: false
 date: 2024-07-16 10:12
 authors:
   - thekaushikls
+  - ishwarya
 tags:
-  - Academia
-  - Research
-  - CAADRIA
+  - Computational-Design
+  - Systems-Design
+  - Graph-Theory
+  - Applied-Research
+  - Automation
 categories:
   - Academia
+  - CAADRIA
+  - Research
 comments: false
 ---
 <!-- more -->
 # <kbd> Abstract </kbd>
 
-As information modeling and data-driven design approaches become more accessible to the Architecture, Engineering, Construction, and Operations (AECO) industry, the branch of Computational Design (CD) focusing on Systems Design and Automation (SDA) has become a considerable priority for many practices. One of the aims of an SDA team is to identify recurring scenarios, generalize problems, and establish standard approaches, allowing newer innovations to further development.
+## **Applying Graph Theory:** *A Study on Unifying Top-Down and Bottom-Up Approaches in Architectural Design*
 
-A common challenge is unifying top-down and bottom-up approaches to processing information. Often, Parametric Design (PD) and Generative Design (GD) approaches operate via the top-down approach, while Building Information Modeling (BIM) and Assembly Modeling (ASM) opt for the bottom-up approach. But, in a practical setting, BIM and ASM models often require propagating changes from the top, and PD and GD models require detailed information at the bottom. This necessitates a unified approach, allowing dynamic control from either direction at any given time.
+As information modeling and data-driven design approaches become more accessible to the Architecture, Engineering, Construction, and Operations (AECO) industry, the branch of Computational Design (CD) <mark>focusing on Systems Design and Automation (SDA) has become a considerable priority</mark> for many practices. One of the aims of an SDA team is to identify recurring scenarios, generalize problems, and establish standard approaches, allowing newer innovations to further development.
 
-Both approaches focus on the geometric elements or nodes. By shifting the focus towards the relationship (edge) between nodes, we may develop a framework to organize, store, query, and operate on a single information network.
+A common <mark>challenge in SDA is choosing between top-down and bottom-up approaches to processing information.</mark> Often, Parametric Design (PD) and Generative Design (GD) approaches operate via the top-down approach, while Building Information Modeling (BIM) and Assembly Modeling (ASM) opt for the bottom-up approach. But, in a practical setting, BIM and ASM models often require propagating changes from the top, and PD and GD models require detailed information at the bottom. This <mark>necessitates a unified approach, allowing dynamic control</mark> from either direction at any given time.
 
-To investigate the practicality, and application(s) of such a framework, this paper reviews existing publications on the topic and implements a proof-of-concept workflow to test various real-world use cases, report the findings, and propose further development trajectories.
-   
-*~~To investigate the practicality, and application(s) of such a framework, this paper outlines the development of a modified implementation of the Doubly Connected Edge List (DCEL) data structure as a software package. The package can act as a layer of abstraction over any data that needs to be represented as a network, while also allowing certain topological operations for querying and analysis.~~*
+Both approaches focus on the geometric elements or nodes. By shifting the focus towards the relationship (edge) between nodes, we may develop a <mark>framework to organize, store, query, and operate on a unified data structure, where information may be represented by a graph data structure.</mark>
 
-## Keywords
-1. Computational Design
-2. Systems Design and Automation
-3. Graph Data Structure
-4. Data Driven Design Framework,
-5. Doubly Connected Edge List
+To investigate the viability, and practical application(s) of such frameworks, this paper <mark>reviews existing publications</mark> on the topic and <mark>implements a proof-of-concept</mark> workflow to test various real-world use cases, <mark>report the findings</mark>, and propose further development trajectories.
+
+**Keywords:** Computational Design, Systems Design, Graph Theory, Applied Research, Design Methodology
+
+## See Also
+1. [Call for Papers](index.md)
 
 ## References
 1. Asghari, M., Sadat, M. T., & Boguslawski, P. (2011). _An Overview on Boundary Representation Data Structures for 3D Models Representation_.
