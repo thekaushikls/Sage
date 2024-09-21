@@ -14,9 +14,8 @@ edit_uri: https://github.com/thekaushikls/Sage/blob/main/Sage
 # The below folders (and files) are included in the build process.
 # They are just hidden from the main/home page.
 exclude_docs: |
-  Blog/
   Templates/
-#  Projects/
+  Projects/
 
 #region Site Footer
 # Copyright Information
@@ -111,9 +110,9 @@ plugins:
       separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
   #- autorefs
   # Built-In Blog
-  #- blog:
+  - blog:
       blog_dir: Blog
-      blog_toc: false                       # Show Table of Contents on blog index
+      blog_toc: true                        # Show Table of Contents on blog index
       post_excerpt: required                # Always require an excerpt
       post_date_format: medium
       draft: false                          # Publish posts marked as Draft
