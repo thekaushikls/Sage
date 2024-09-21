@@ -17,6 +17,7 @@ categories:
   - CAADRIA
   - Research
 comments: false
+hide: ["navigation", "toc"]
 ---
 <!-- more -->
 # <kbd> Abstract </kbd>

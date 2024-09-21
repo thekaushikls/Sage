@@ -20,7 +20,7 @@ exclude_docs: |
 
 #region Site Footer
 # Copyright Information
-copyright: Copyright &copy; 2020 - 2024 <a href="https://github.com/thekaushikls">Kaushik L. S.</a>
+copyright: <a href="https://github.com/thekaushikls">&copy;2020-2024 Kaushik L. S.</a>
 
 extra:
   # Google Analytics & Feedback

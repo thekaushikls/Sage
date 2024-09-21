@@ -1,10 +1,29 @@
+<!-- Scripts -->
+<script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.9.3/dist/confetti.browser.min.js"></script>
+<script src="./Resources/konami.js"></script>
+<!-- Scripts -->
+
 # <kbd>Welcome! 👋</kbd>
 
 Welcome to my [Zettelkasten]()
 
 ---
+
 ### Logs
 #### 2024
+5 August 2024
+>	**Invocation**<br>
+    "Asatoma Sadgamaya<br>
+    Tamasoma Jyotigamaya<br>
+    Mrityorma Amrutangamaya<br>
+    Aum Shanti Shanti Shantihi"<br>
+    <br>
+    *From untruth to truth<br>
+    From darkness(ignorange) to light(enlightenment)<br>
+    From mortality to immortality<br>
+    May I be led<br>
+    Aum Peace Peace Peace*
+---
 19 July 2024
 >	I was too busy researching about food - what to eat, and how to eat it. I forgot to cook any. Ironic.
 ---

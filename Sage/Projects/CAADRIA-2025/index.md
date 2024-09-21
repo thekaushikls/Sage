@@ -12,6 +12,8 @@ tags:
 categories:
   - Academia
 comments: false
+hide:
+  - navigation
 ---
 <!-- more -->
 # <kbd> CAADRIA-2025 </kbd>
