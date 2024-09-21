@@ -6,6 +6,16 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://thekaushikls.github.io/Sage/Blog/</loc>
+         <lastmod>2024-09-21</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://thekaushikls.github.io/Sage/Blog/2020/01/01/sample-article/</loc>
+         <lastmod>2024-09-21</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://thekaushikls.github.io/Sage/Notes/</loc>
          <lastmod>2024-09-21</lastmod>
          <changefreq>daily</changefreq>
@@ -71,17 +81,12 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://thekaushikls.github.io/Sage/Projects/</loc>
+         <loc>https://thekaushikls.github.io/Sage/Blog/archive/2020/</loc>
          <lastmod>2024-09-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://thekaushikls.github.io/Sage/Projects/CAADRIA-2025/</loc>
-         <lastmod>2024-09-21</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://thekaushikls.github.io/Sage/Projects/CAADRIA-2025/Abstract/</loc>
+         <loc>https://thekaushikls.github.io/Sage/Blog/category/sample/</loc>
          <lastmod>2024-09-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
