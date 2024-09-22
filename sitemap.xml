@@ -2,92 +2,117 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://thekaushikls.github.io/Sage/</loc>
-         <lastmod>2024-09-21</lastmod>
+         <lastmod>2024-09-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thekaushikls.github.io/Sage/Blog/</loc>
-         <lastmod>2024-09-21</lastmod>
+         <lastmod>2024-09-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://thekaushikls.github.io/Sage/Blog/2020/01/01/sample-article/</loc>
-         <lastmod>2024-09-21</lastmod>
+         <loc>https://thekaushikls.github.io/Sage/Blog/2014/graphic-calculator/</loc>
+         <lastmod>2024-09-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://thekaushikls.github.io/Sage/Blog/2020/sample-article/</loc>
+         <lastmod>2024-09-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thekaushikls.github.io/Sage/Notes/</loc>
-         <lastmod>2024-09-21</lastmod>
+         <lastmod>2024-09-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thekaushikls.github.io/Sage/Notes/Computational-Design/</loc>
-         <lastmod>2024-09-21</lastmod>
+         <lastmod>2024-09-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thekaushikls.github.io/Sage/Notes/Earthquake-Impact-on-Structures/</loc>
-         <lastmod>2024-09-21</lastmod>
+         <lastmod>2024-09-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thekaushikls.github.io/Sage/Notes/Earthquake/</loc>
-         <lastmod>2024-09-21</lastmod>
+         <lastmod>2024-09-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thekaushikls.github.io/Sage/Notes/Hazards/</loc>
-         <lastmod>2024-09-21</lastmod>
+         <lastmod>2024-09-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thekaushikls.github.io/Sage/Notes/Lawson-Wind-Comfort-Criteria/</loc>
-         <lastmod>2024-09-21</lastmod>
+         <lastmod>2024-09-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thekaushikls.github.io/Sage/Notes/Machine-Learning/</loc>
-         <lastmod>2024-09-21</lastmod>
+         <lastmod>2024-09-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thekaushikls.github.io/Sage/Notes/Macro-Nutrients/</loc>
-         <lastmod>2024-09-21</lastmod>
+         <lastmod>2024-09-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thekaushikls.github.io/Sage/Notes/Positive-Pranic-Foods/</loc>
-         <lastmod>2024-09-21</lastmod>
+         <lastmod>2024-09-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thekaushikls.github.io/Sage/Notes/Protein-for-the-Body/</loc>
-         <lastmod>2024-09-21</lastmod>
+         <lastmod>2024-09-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thekaushikls.github.io/Sage/Notes/RAID-Configuration/</loc>
-         <lastmod>2024-09-21</lastmod>
+         <lastmod>2024-09-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thekaushikls.github.io/Sage/Notes/Static-IP-Address/</loc>
-         <lastmod>2024-09-21</lastmod>
+         <lastmod>2024-09-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thekaushikls.github.io/Sage/Notes/White-Paper/</loc>
-         <lastmod>2024-09-21</lastmod>
+         <lastmod>2024-09-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thekaushikls.github.io/Sage/Blog/archive/2020/</loc>
-         <lastmod>2024-09-21</lastmod>
+         <lastmod>2024-09-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://thekaushikls.github.io/Sage/Blog/archive/2014/</loc>
+         <lastmod>2024-09-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thekaushikls.github.io/Sage/Blog/category/sample/</loc>
-         <lastmod>2024-09-21</lastmod>
+         <lastmod>2024-09-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://thekaushikls.github.io/Sage/Blog/category/graph/</loc>
+         <lastmod>2024-09-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://thekaushikls.github.io/Sage/Blog/category/programming/</loc>
+         <lastmod>2024-09-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://thekaushikls.github.io/Sage/Blog/category/project/</loc>
+         <lastmod>2024-09-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
