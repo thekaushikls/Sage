@@ -3,8 +3,8 @@ draft: true
 search:
   exclude: false
 date:
-  created: "{{date:YYYY-MM-DD}}T{{time:HH:mm:SS}}"
-  updated: "{{date:YYYY-MM-DD}}T{{time:HH:mm:SS}}"
+  created: "{{date:YYYY-MM-DD}}T{{time:HH:mm:ss}}"
+  updated: "{{date:YYYY-MM-DD}}T{{time:HH:mm:ss}}"
 authors:
   - thekaushikls
 tags: []
